@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "fgg.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "fgg"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "a60a2ce93ca17342",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "fgg.md"
   ]
 }
