@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hotkeys for VSCode.md",
+                "file": "xdotool wmctrl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hotkeys for VSCode"
+              "title": "xdotool wmctrl"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "a60a2ce93ca17342",
   "lastOpenFiles": [
-    "fgg.md",
+    "kbdd.md",
+    "xdotool wmctrl.md",
     "hotkeys for VSCode.md",
-    "README.md"
+    "README.md",
+    "fgg.md"
   ]
 }
