@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xdotool wmctrl.md",
+                "file": "Firefox настройка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xdotool wmctrl"
+              "title": "Firefox настройка"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "a60a2ce93ca17342",
   "lastOpenFiles": [
-    "kbdd.md",
     "xdotool wmctrl.md",
+    "Firefox настройка.md",
+    "kbdd.md",
     "hotkeys for VSCode.md",
     "README.md",
     "fgg.md"
