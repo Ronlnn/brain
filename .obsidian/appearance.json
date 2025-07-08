@@ -1,8 +1,9 @@
 {
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Things",
   "enabledCssSnippets": [
     "extended-colorschemes",
-    "custom-rainbow-colors"
+    "custom-rainbow-colors",
+    "floating-status-bar"
   ]
 }
