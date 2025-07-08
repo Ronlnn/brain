@@ -2,6 +2,7 @@
   "theme": "obsidian",
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
-    "extended-colorschemes"
+    "extended-colorschemes",
+    "custom-rainbow-colors"
   ]
 }
