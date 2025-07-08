@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5be8631b60110966",
+        "id": "dc7741245805f507",
         "type": "tabs",
         "children": [
           {
-            "id": "59405ee41c452a2d",
+            "id": "08fbacd35ebc573c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Passwords.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_Passwords"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -158,19 +154,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "abf260a6701072aa",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,10 +176,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "abf260a6701072aa",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
-    "kbdd.md",
     "_Passwords.md",
+    "kbdd.md",
     "Threading Bullet Snippet.md",
     "hotkeys for VSCode.md",
     "README.md",

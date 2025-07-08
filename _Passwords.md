@@ -19,15 +19,16 @@
 |                                 | `KFU`                             |            |
 | AAGalyauov@stud.kpfu.ru         | kvlbqo01                          |            |
 | ArAGalyauov@stud.kpfu.ru        | 4tiq36KGLZ<br>                    |            |
+|                                 |                                   |            |
 |                                 | `JetBrains`                       |            |
 | AAGalyauov@stud.kpfu.ru         | RonInn89520333209                 |            |
-|                                 |                                   |            |
 |                                 | `Гос Услуги`                      |            |
 | 89520333209                     | RonInn89520333209!                |            |
 |                                 |                                   |            |
 |                                 | `Icloud`                          |            |
-| artur_galyauov@icloud.com       | RonInn8952                        |            |
 | arturgalyauov@icloud.com        | RonInn8952                        |            |
+| artur_galyauov@icloud.com       | RonInn8952                        |            |
+|                                 |                                   |            |
 |                                 | `Microsoft Office`                |            |
 | Ключ активации                  | **3PWKG-4QNKB-2HH7T-7GRJ4-847RX** |            |
 |                                 |                                   |            |
