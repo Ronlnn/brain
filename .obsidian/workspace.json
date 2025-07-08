@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firefox настройка.md",
+                "file": "hotkeys for VSCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firefox настройка"
+              "title": "hotkeys for VSCode"
             }
           }
         ]
@@ -178,11 +178,11 @@
   },
   "active": "a60a2ce93ca17342",
   "lastOpenFiles": [
-    "xdotool wmctrl.md",
     "Firefox настройка.md",
     "kbdd.md",
-    "hotkeys for VSCode.md",
     "README.md",
+    "xdotool wmctrl.md",
+    "hotkeys for VSCode.md",
     "fgg.md"
   ]
 }
