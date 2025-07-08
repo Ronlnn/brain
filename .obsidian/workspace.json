@@ -11,10 +11,14 @@
             "id": "08fbacd35ebc573c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "hotkeys for VSCode.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "hotkeys for VSCode"
             }
           }
         ]
@@ -176,15 +180,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "08fbacd35ebc573c",
   "lastOpenFiles": [
-    "_Passwords.md",
     "kbdd.md",
-    "Threading Bullet Snippet.md",
-    "hotkeys for VSCode.md",
     "README.md",
-    "Threading Bullet Plugin.md",
+    "hotkeys for VSCode.md",
     "Firefox настройка.md",
+    "_Passwords.md",
+    "Threading Bullet Snippet.md",
+    "Threading Bullet Plugin.md",
     "_attachments",
     "xdotool wmctrl.md",
     "gg",
