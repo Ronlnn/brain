@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xdotool wmctrl.md",
+                "file": "hotkeys for VSCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xdotool wmctrl"
+              "title": "hotkeys for VSCode"
             }
           }
         ]
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "hotkeys for VSCode.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура hotkeys for VSCode"
             }
           },
           {
@@ -178,10 +179,10 @@
   },
   "active": "a60a2ce93ca17342",
   "lastOpenFiles": [
-    "README.md",
     "kbdd.md",
-    "hotkeys for VSCode.md",
+    "README.md",
     "Firefox настройка.md",
+    "hotkeys for VSCode.md",
     "xdotool wmctrl.md",
     "gg",
     "fgg.md"
