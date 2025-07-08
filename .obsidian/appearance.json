@@ -4,7 +4,8 @@
   "enabledCssSnippets": [
     "extended-colorschemes",
     "custom-rainbow-colors",
-    "floating-status-bar"
+    "floating-status-bar",
+    "ThreadingBullet"
   ],
   "baseFontSize": 17
 }
