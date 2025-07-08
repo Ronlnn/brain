@@ -1,3 +1,6 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_attachments"
 }
