@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firefox настройка.md",
+                "file": "Threading Bullet Snippet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firefox настройка"
+              "title": "Threading Bullet Snippet"
             }
           }
         ]
@@ -179,13 +179,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "a60a2ce93ca17342",
   "lastOpenFiles": [
+    "Firefox настройка.md",
+    "Threading Bullet Snippet.md",
     "_attachments",
     "hotkeys for VSCode.md",
     "kbdd.md",
     "README.md",
-    "Firefox настройка.md",
     "xdotool wmctrl.md",
     "gg",
     "fgg.md"
