@@ -27,7 +27,7 @@
 |                                 |                                   |            |
 |                                 | `Icloud`                          |            |
 | artur_galyauov@icloud.com       | RonInn8952                        |            |
-|                                 |                                   |            |
+| arturgalyauov@icloud.com        | RonInn8952                        |            |
 |                                 | `Microsoft Office`                |            |
 | Ключ активации                  | **3PWKG-4QNKB-2HH7T-7GRJ4-847RX** |            |
 |                                 |                                   |            |
