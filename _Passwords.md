@@ -18,7 +18,7 @@
 |                                 |                                   |            |
 |                                 | `KFU`                             |            |
 | AAGalyauov@stud.kpfu.ru         | kvlbqo01                          |            |
-|                                 |                                   |            |
+| ArAGalyauov@stud.kpfu.ru        | 4tiq36KGLZ<br>                    |            |
 |                                 | `JetBrains`                       |            |
 | AAGalyauov@stud.kpfu.ru         | RonInn89520333209                 |            |
 |                                 |                                   |            |
