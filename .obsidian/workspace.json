@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc7741245805f507",
+        "id": "f5cbc31fe2d31297",
         "type": "tabs",
         "children": [
           {
-            "id": "08fbacd35ebc573c",
+            "id": "89c31c15d132bc14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,11 +182,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "89c31c15d132bc14",
   "lastOpenFiles": [
     "_Passwords.md",
-    "_attachments",
     "hotkeys for VSCode.md",
+    "_attachments",
     "kbdd.md",
     "README.md",
     "Firefox настройка.md",
