@@ -1,0 +1,57 @@
+{
+  "fonts": [
+    {
+      "id": "fira-code",
+      "family": "Fira Code",
+      "subsets": [
+        "cyrillic",
+        "cyrillic-ext",
+        "greek",
+        "greek-ext",
+        "latin",
+        "latin-ext",
+        "symbols2"
+      ],
+      "styles": [
+        "normal"
+      ],
+      "weights": [
+        300,
+        400,
+        500,
+        600,
+        700
+      ],
+      "variable": {
+        "wght": {
+          "default": "400",
+          "min": "300",
+          "max": "700",
+          "step": "1"
+        }
+      },
+      "isActive": true
+    }
+  ],
+  "interfaceFonts": [
+    {
+      "id": "fira-code",
+      "family": "Fira Code",
+      "precedence": 1
+    }
+  ],
+  "textFonts": [
+    {
+      "id": "fira-code",
+      "family": "Fira Code",
+      "precedence": 0
+    }
+  ],
+  "monospaceFonts": [
+    {
+      "id": "fira-code",
+      "family": "Fira Code",
+      "precedence": 0
+    }
+  ]
+}

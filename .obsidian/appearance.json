@@ -9,5 +9,6 @@
     "floating-search-bar",
     "close-window"
   ],
-  "baseFontSize": 17
+  "baseFontSize": 18,
+  "baseFontSizeAction": false
 }
