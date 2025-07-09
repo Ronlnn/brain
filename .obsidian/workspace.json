@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Book.md",
+                "file": "3 Frontend/00 Frontend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book"
+              "title": "00 Frontend"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Book.md",
+                "file": "3 Frontend/00 Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Book"
+              "title": "Обратные ссылки для 00 Frontend"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Book.md",
+                "file": "3 Frontend/00 Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Book"
+              "title": "Исходящие ссылки из 00 Frontend"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Book.md",
+                "file": "3 Frontend/00 Frontend.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Book"
+              "title": "Структура 00 Frontend"
             }
           },
           {
@@ -160,9 +160,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9b2bcb570748bd84",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -182,13 +192,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4fa5c789be112d2",
+  "active": "9b2bcb570748bd84",
   "lastOpenFiles": [
+    "_templates/Book.md",
+    "3 Frontend/00 Frontend.md",
     "3 Frontend/React",
     "3 Frontend/JS",
     "_templates/Default.md",
     "_Passwords.md",
-    "_templates/Book.md",
     "hotkeys for VSCode.md",
     "4 Linux",
     "3 Frontend",
@@ -198,7 +209,6 @@
     "rgrgrg",
     "rglr,mgrl;g",
     "KLNFKLJRNF",
-    "GGGG",
     "Без названия.canvas",
     "_attachments/f.md",
     "kbdd.md",
