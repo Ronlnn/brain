@@ -350,14 +350,14 @@
         "gradientHighlights": false,
         "gradientHighlightsColourStop": "70%",
         "languageBorderColour": true,
-        "languageBorderWidth": 1,
+        "languageBorderWidth": 2,
         "iconSize": 28
       }
     },
     "colours": {
       "light": {
         "codeblock": {
-          "backgroundColour": "#242444",
+          "backgroundColour": "--code-background",
           "textColour": "--code-normal"
         },
         "gutter": {
@@ -400,7 +400,7 @@
       },
       "dark": {
         "codeblock": {
-          "backgroundColour": "#242444",
+          "backgroundColour": "--code-background",
           "textColour": "--code-normal"
         },
         "gutter": {
