@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Obsidian/Dataview/Команды Dataview.md",
+                "file": "4 Obsidian/Дока по AnuPpuccin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды Dataview"
+              "title": "Дока по AnuPpuccin"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Obsidian/Dataview/Команды Dataview.md",
+                "file": "4 Obsidian/Дока по AnuPpuccin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Команды Dataview"
+              "title": "Обратные ссылки для Дока по AnuPpuccin"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Obsidian/Dataview/Команды Dataview.md",
+                "file": "4 Obsidian/Дока по AnuPpuccin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Команды Dataview"
+              "title": "Исходящие ссылки из Дока по AnuPpuccin"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Obsidian/Dataview/Команды Dataview.md",
+                "file": "4 Obsidian/Дока по AnuPpuccin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Команды Dataview"
+              "title": "Структура Дока по AnuPpuccin"
             }
           },
           {
@@ -186,9 +186,11 @@
   },
   "active": "0d24659b3ca618c5",
   "lastOpenFiles": [
-    "4 Obsidian/Dataview/Неявные поля метаданных.md",
-    "4 Obsidian/Dataview/Типы полей метаданных.md",
+    "_attachments/Pasted image 20250709190021.png",
     "4 Obsidian/Dataview/Dataview.md",
+    "4 Obsidian/Дока по AnuPpuccin.md",
+    "4 Obsidian/Dataview/Типы полей метаданных.md",
+    "4 Obsidian/Dataview/Неявные поля метаданных.md",
     "4 Obsidian/Dataview/Команды Dataview.md",
     "4 Obsidian/Dataview/Источники Dataview.md",
     "4 Obsidian/00 Obsidian.md",

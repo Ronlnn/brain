@@ -40,4 +40,4 @@ zero-links: "[[Dataview]]"
 
 ### LIMIT
 
-- [6] [Документация](https://blacksmithgu.github.io/obsidian-dataview/queries/data-commands/)
+- [i] [Документация](https://blacksmithgu.github.io/obsidian-dataview/queries/data-commands/)
