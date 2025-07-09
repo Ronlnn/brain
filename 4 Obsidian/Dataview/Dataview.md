@@ -18,3 +18,12 @@ TABLE WITHOUT ID
 file.link AS "Файл", file.frontmatter["zero-links"] AS "Связь"
 FROM [[Dataview]]
 ```
+
+
+```dataview
+TABLE WITHOUT ID
+file.link AS "Файл", file.frontmatter["zero-links"] AS "Связь"
+FROM [[Dataview]]
+GROUP BY (tag) AS "TAg"
+SORT file.link [ASC]
+```
