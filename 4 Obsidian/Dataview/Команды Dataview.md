@@ -22,7 +22,7 @@ zero-links: "[[Dataview]]"
 		- `[[Food]] or [[Exercise]]`будет давать любые страницы, которые ссылаются на `[[Food]]` ИЛИ `[[Exercise]]`
 
 
-```JS
+```js
 const f = 5;
 
 ```
