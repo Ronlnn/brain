@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "29a1f473f1f5dd72",
+        "id": "de84e23366f86ec6",
         "type": "tabs",
         "children": [
           {
-            "id": "784c55e3469878d0",
+            "id": "c3ee2db54946bc0f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,27 +17,11 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "_Passwords"
             }
-          },
-          {
-            "id": "0c25199e888940a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hotkeys for VSCode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hotkeys for VSCode"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hotkeys for VSCode.md",
+                "file": "_Passwords.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура hotkeys for VSCode"
+              "title": "Структура _Passwords"
             }
           },
           {
@@ -177,9 +160,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9265a3e24476d32a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,8 +192,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c25199e888940a5",
+  "active": "c3ee2db54946bc0f",
   "lastOpenFiles": [
+    "Без названия.canvas",
     "_Passwords.md",
     "hotkeys for VSCode.md",
     "_attachments/f.md",
