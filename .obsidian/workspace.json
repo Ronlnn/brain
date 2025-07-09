@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Passwords.md",
+                "file": "_templates/Book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Passwords"
+              "title": "Book"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 321.5
   },
   "right": {
     "id": "1c5ed590a4ae4b32",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Passwords.md",
+                "file": "_templates/Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для _Passwords"
+              "title": "Обратные ссылки для Book"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Passwords.md",
+                "file": "_templates/Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из _Passwords"
+              "title": "Исходящие ссылки из Book"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Passwords.md",
+                "file": "_templates/Book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура _Passwords"
+              "title": "Структура Book"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +184,12 @@
   },
   "active": "c4fa5c789be112d2",
   "lastOpenFiles": [
-    "_templates/Book.md",
+    "3 Frontend/React",
+    "3 Frontend/JS",
     "_templates/Default.md",
-    "hotkeys for VSCode.md",
     "_Passwords.md",
+    "_templates/Book.md",
+    "hotkeys for VSCode.md",
     "4 Linux",
     "3 Frontend",
     "2 Green",
@@ -197,7 +199,6 @@
     "rglr,mgrl;g",
     "KLNFKLJRNF",
     "GGGG",
-    "HJHH",
     "Без названия.canvas",
     "_attachments/f.md",
     "kbdd.md",
