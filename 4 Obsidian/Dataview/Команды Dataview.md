@@ -31,4 +31,8 @@ zero-links: "[[Dataview]]"
 
 ### SORT
 - Команда сортирует все результаты по 1 или несколько полям
+	- `SORT date [ASCENDING/DESCENDING/ASC/DESC]
+
+### GROUP BY 
+- Команда группирует все результаты на поле
 - 
