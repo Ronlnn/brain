@@ -7,7 +7,7 @@ zero-links: "[[00 Obsidian]]"
 >[!important] Связанное
 >```dataview
 >TABLE 
->file.inlinks AS "Связь" 
+>file.link AS "Связь" 
 >FROM #obsidian
->WHERE contains(zero-links, "Dataview")
+>WHERE file.frontmatter["zero-links"] = "[[Dataview]]"
 >```

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Obsidian/Dataview/Типы полей метаданных.md",
+                "file": "4 Obsidian/Dataview/Dataview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Типы полей метаданных"
+              "title": "Dataview"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Obsidian/Dataview/Типы полей метаданных.md",
+                "file": "4 Obsidian/Dataview/Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Типы полей метаданных"
+              "title": "Обратные ссылки для Dataview"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Obsidian/Dataview/Типы полей метаданных.md",
+                "file": "4 Obsidian/Dataview/Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Типы полей метаданных"
+              "title": "Исходящие ссылки из Dataview"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Obsidian/Dataview/Типы полей метаданных.md",
+                "file": "4 Obsidian/Dataview/Dataview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Типы полей метаданных"
+              "title": "Структура Dataview"
             }
           },
           {
@@ -186,8 +186,8 @@
   },
   "active": "c4fa5c789be112d2",
   "lastOpenFiles": [
-    "4 Obsidian/Dataview/Dataview.md",
     "4 Obsidian/Dataview/Неявные поля метаданных.md",
+    "4 Obsidian/Dataview/Dataview.md",
     "4 Obsidian/Dataview/Типы полей метаданных.md",
     "4 Obsidian/00 Obsidian.md",
     "4 Obsidian/Dataview",
