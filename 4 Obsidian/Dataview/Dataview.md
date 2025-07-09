@@ -1,7 +1,7 @@
 ---
 tags:
   - obsidian
-zero-links: "[[Dataview]]"
+zero-links: "[[00 Obsidian]]"
 ---
 
 >[!important] Связанное
