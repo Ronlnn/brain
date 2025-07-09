@@ -30,10 +30,28 @@
           "step": "1"
         }
       },
-      "isActive": false
+      "isActive": true
     }
   ],
-  "interfaceFonts": [],
-  "textFonts": [],
-  "monospaceFonts": []
+  "interfaceFonts": [
+    {
+      "id": "fira-code",
+      "family": "Fira Code",
+      "precedence": 0
+    }
+  ],
+  "textFonts": [
+    {
+      "id": "fira-code",
+      "family": "Fira Code",
+      "precedence": 0
+    }
+  ],
+  "monospaceFonts": [
+    {
+      "id": "fira-code",
+      "family": "Fira Code",
+      "precedence": 0
+    }
+  ]
 }

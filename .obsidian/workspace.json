@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "4 Obsidian/Неявные поля метаданных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Неявные поля метаданных"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "4 Obsidian/Неявные поля метаданных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Home"
+              "title": "Обратные ссылки для Неявные поля метаданных"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "4 Obsidian/Неявные поля метаданных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Home"
+              "title": "Исходящие ссылки из Неявные поля метаданных"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "4 Obsidian/Неявные поля метаданных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Home"
+              "title": "Структура Неявные поля метаданных"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,28 +181,31 @@
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "homepage:Open homepage": false,
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
   "active": "c4fa5c789be112d2",
   "lastOpenFiles": [
+    "4 Obsidian/Dataview.md",
+    "4 Obsidian/Неявные поля метаданных.md",
+    "4 Obsidian/00 Obsidian.md",
+    "3 Frontend/00 Frontend.md",
+    "_Passwords.md",
+    "Home.md",
+    "hotkeys for VSCode.md",
+    "3 Frontend/React/00 React.md",
+    "1 Books/Book1.md",
+    "3 Frontend/JS/00 JS.md",
     "_attachments/pixel-banner-images/guts-dark.png",
     "_templates/Default.md",
     "_templates/Book.md",
-    "3 Frontend/JS/ JS.md",
-    "3 Frontend/00 Frontend.md",
-    "3 Frontend/React/React.md",
     "3 Frontend/React",
     "3 Frontend/JS",
-    "Home.md",
     "_attachments/pixel-banner-images/home.png",
     "_attachments/pixel-banner-images",
-    "hotkeys for VSCode.md",
     "3 Frontend/React",
     "3 Frontend/JS",
-    "_Passwords.md",
-    "4 Linux",
+    "4 Obsidian",
     "3 Frontend",
     "2 Green",
     "1 Books",
