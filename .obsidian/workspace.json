@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,22 +184,27 @@
   },
   "active": "460284fba49617d1",
   "lastOpenFiles": [
-    "Без названия",
-    "IT",
+    "4 Linux",
+    "3 Frontend",
+    "2 Green",
+    "1 Books",
+    "_templates",
+    "rgrgrg",
+    "rglr,mgrl;g",
+    "KLNFKLJRNF",
+    "GGGG",
+    "HJHH",
+    "HH",
     "hotkeys for VSCode.md",
     "_Passwords.md",
     "Без названия.canvas",
     "_attachments/f.md",
-    "_attachments/f",
-    "_attachments",
     "kbdd.md",
     "README.md",
     "Firefox настройка.md",
     "Threading Bullet Snippet.md",
     "Threading Bullet Plugin.md",
-    "_attachments",
     "xdotool wmctrl.md",
-    "gg",
     "fgg.md"
   ]
 }
