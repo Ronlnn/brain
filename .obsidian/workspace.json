@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Настраиваем Обсидиан.md",
+                "file": "3 Frontend/00 Frontend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Настраиваем Обсидиан"
+              "title": "00 Frontend"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Настраиваем Обсидиан.md",
+                "file": "3 Frontend/00 Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Настраиваем Обсидиан"
+              "title": "Обратные ссылки для 00 Frontend"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Настраиваем Обсидиан.md",
+                "file": "3 Frontend/00 Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Настраиваем Обсидиан"
+              "title": "Исходящие ссылки из 00 Frontend"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Настраиваем Обсидиан.md",
+                "file": "3 Frontend/00 Frontend.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Настраиваем Обсидиан"
+              "title": "Структура 00 Frontend"
             }
           },
           {
@@ -186,18 +186,18 @@
   },
   "active": "9645289837fdeb66",
   "lastOpenFiles": [
-    "hotkeys for VSCode.md",
-    "Настраиваем Обсидиан.md",
-    "Home.md",
-    "4 Obsidian/00 Obsidian.md",
     "4 Obsidian/Дока по AnuPpuccin.md",
+    "4 Obsidian/Dataview/01 Dataview.md",
+    "4 Obsidian/00 Obsidian.md",
+    "Настраиваем Обсидиан.md",
+    "hotkeys for VSCode.md",
+    "Home.md",
     "_attachments/Pasted image 20250709171835.png",
     "_attachments/Pasted image 20250709190021.png",
     "1 Books/Book1.md",
     "4 Obsidian/Dataview/Типы полей метаданных.md",
     "4 Obsidian/Dataview/Неявные поля метаданных.md",
     "4 Obsidian/Dataview/Команды Dataview.md",
-    "4 Obsidian/Dataview/Dataview.md",
     "3 Frontend/00 Frontend.md",
     "4 Obsidian/Dataview/Источники Dataview.md",
     "4 Obsidian/Dataview",

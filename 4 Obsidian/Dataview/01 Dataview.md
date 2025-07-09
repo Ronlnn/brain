@@ -8,7 +8,7 @@ zero-links: "[[00 Obsidian]]"
 >```dataview
 TABLE WITHOUT ID
 file.link AS "Файл", file.frontmatter["zero-links"] AS "Связь"
-FROM [[Dataview]]
+FROM [[01 Dataview]]
 WHERE file.name != "Dataview"
 
 

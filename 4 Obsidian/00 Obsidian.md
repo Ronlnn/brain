@@ -8,3 +8,4 @@ TABLE WITHOUT ID
 file.link AS "File"
 FROM [[00 Obsidian]]
 ```
+
