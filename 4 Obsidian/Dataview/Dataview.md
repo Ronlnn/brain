@@ -9,5 +9,5 @@ zero-links: "[[00 Obsidian]]"
 >TABLE 
 >file.inlinks AS "Связь" 
 >FROM #obsidian
->WHERE zero-links = "Dataview"
+>WHERE contains(zero-links, "Dataview")
 >```
