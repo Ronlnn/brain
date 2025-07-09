@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Frontend/JS/00 JS.md",
+                "file": "3 Frontend/00 Frontend.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00 JS"
+              "title": "00 Frontend"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Frontend/JS/00 JS.md",
+                "file": "3 Frontend/00 Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 00 JS"
+              "title": "Обратные ссылки для 00 Frontend"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Frontend/JS/00 JS.md",
+                "file": "3 Frontend/00 Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 00 JS"
+              "title": "Исходящие ссылки из 00 Frontend"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Frontend/JS/00 JS.md",
+                "file": "3 Frontend/00 Frontend.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 00 JS"
+              "title": "Структура 00 Frontend"
             }
           },
           {
@@ -187,6 +187,7 @@
   },
   "active": "9645289837fdeb66",
   "lastOpenFiles": [
+    "_attachments/pixel-banner-images/jpeg",
     "3 Frontend/React/00 React.md",
     "3 Frontend/JS/00 JS.md",
     "3 Frontend/00 Frontend.md",
