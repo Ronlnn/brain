@@ -26,7 +26,7 @@ zero-links: "[[Dataview]]"
 	- - Получить все файлы, которые были изменены за последние 24 часа:
 		- `LIST WHERE file.mtime >= date(today) - dur(1 day)`
 	- Найдите все проекты, которые не отмечены полными и которым исполнилось больше месяца:
-		- `LIST FROM #projects 
+		- `LIST FROM #projects` 
 		- `WHERE !completed AND file.ctime <= date(today) - dur(1 month)`
 
 ### SORT

@@ -22,8 +22,8 @@ WHERE file.name != "Dataview"
 
 
 ```dataview
-TABLE WITHOUT ID
-GROUP file.name BY #obsidian 
-FROM [[Dataview]]
-
+TABLE
+file.link AS "File", file.tags AS "Tag"
+FROM [[Dataview]] 
+GROUP BY file.tags
 ```
