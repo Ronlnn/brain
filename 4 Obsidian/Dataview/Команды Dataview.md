@@ -20,3 +20,9 @@ zero-links: "[[Dataview]]"
 		- `#tag and "folder"` вернет все страницы в `folder` и с `#tag`
 		- Запрос от `#food and !#fastfood` будет возвращать только страницы, которые содержат `#food` но не содержит `#fastfood`
 		- `[[Food]] or [[Exercise]]`будет давать любые страницы, которые ссылаются на `[[Food]]` ИЛИ `[[Exercise]]`
+
+
+```JS
+const f = 5;
+
+```
