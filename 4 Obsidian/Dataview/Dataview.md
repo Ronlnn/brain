@@ -22,8 +22,7 @@ FROM [[Dataview]]
 
 ```dataview
 TABLE WITHOUT ID
-file.link AS "Файл", file.frontmatter["zero-links"] AS "Связь"
+GROUP file.name BY #obsidian 
 FROM [[Dataview]]
-GROUP BY (tag) AS "TAg"
-SORT file.link [ASC]
+
 ```
