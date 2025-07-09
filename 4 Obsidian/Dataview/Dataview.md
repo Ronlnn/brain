@@ -1,7 +1,7 @@
 ---
 tags:
   - obsidian
-zero-links: "[[00 Obsidian]]"
+zero-links: "[[Dataview]]"
 ---
 
 >[!important] Связанное
@@ -17,6 +17,7 @@ zero-links: "[[00 Obsidian]]"
 TABLE WITHOUT ID
 file.link AS "Файл", file.frontmatter["zero-links"] AS "Связь"
 FROM [[Dataview]]
+WHERE file.name != "Dataview"
 ```
 
 
