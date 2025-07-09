@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5cbc31fe2d31297",
+        "id": "ba1b990c337fb0fd",
         "type": "tabs",
         "children": [
           {
-            "id": "89c31c15d132bc14",
+            "id": "c23d26701e451039",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 326.5
   },
   "right": {
     "id": "1c5ed590a4ae4b32",
@@ -182,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89c31c15d132bc14",
+  "active": "c23d26701e451039",
   "lastOpenFiles": [
     "_Passwords.md",
     "hotkeys for VSCode.md",

@@ -5,7 +5,8 @@
     "extended-colorschemes",
     "custom-rainbow-colors",
     "floating-status-bar",
-    "ThreadingBullet"
+    "ThreadingBullet",
+    "floating-search-bar"
   ],
   "baseFontSize": 17
 }
