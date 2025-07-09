@@ -12,7 +12,7 @@
   "numberOfImages": 10,
   "defaultKeywords": "nature, abstract, landscape, technology, art, cityscape, wildlife, ocean, mountains, forest, space, architecture, food, travel, science, music, sports, fashion, business, education, health, culture, history, weather, transportation, industry, people, animals, plants, patterns",
   "xPosition": 50,
-  "yPosition": 60,
+  "yPosition": 80,
   "customBannerField": [
     "banner"
   ],
@@ -104,7 +104,7 @@
     "pixel-banner-flag-color"
   ],
   "folderImages": [],
-  "contentStartPosition": 400,
+  "contentStartPosition": 355,
   "imageDisplay": "cover",
   "imageRepeat": false,
   "bannerHeight": 250,
@@ -133,7 +133,7 @@
   "defaultSelectImagePath": "",
   "defaultSelectIconPath": "",
   "useShortPath": true,
-  "bannerGap": 12,
+  "bannerGap": 4,
   "bannerIconSize": 70,
   "bannerIconImageSizeMultiplier": 1,
   "bannerIconTextVerticalOffset": 0,
