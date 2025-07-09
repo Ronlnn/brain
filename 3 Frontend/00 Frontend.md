@@ -3,5 +3,5 @@ tags:
   - frontend
 ---
 >[!important] Main
->[[🔱 JS]]
+>[[ JS]]
 
