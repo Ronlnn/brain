@@ -14,18 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "3 Frontend/JS/00 JS.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "00 JS"
@@ -196,14 +187,14 @@
   },
   "active": "9645289837fdeb66",
   "lastOpenFiles": [
+    "3 Frontend/React/00 React.md",
+    "3 Frontend/JS/00 JS.md",
+    "3 Frontend/00 Frontend.md",
     "Home.md",
     "hotkeys for VSCode.md",
     "4 Obsidian/Дока по AnuPpuccin.md",
     "4 Obsidian/Dataview/01 Dataview.md",
     "4 Obsidian/00 Obsidian.md",
-    "3 Frontend/00 Frontend.md",
-    "3 Frontend/JS/00 JS.md",
-    "3 Frontend/React/00 React.md",
     "Настраиваем Обсидиан.md",
     "_attachments/Pasted image 20250709171835.png",
     "_attachments/Pasted image 20250709190021.png",
