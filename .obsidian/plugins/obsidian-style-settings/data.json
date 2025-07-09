@@ -68,5 +68,7 @@
   "anuppuccin-theme-settings@@anp-depth-tab-opacity": 0.6,
   "anuppuccin-theme-settings@@anp-translucency-opacity": 0.15,
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,
-  "anuppuccin-theme-settings@@anp-header-margin-toggle": false
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": false,
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
+  "anuppuccin-theme-settings@@anp-code-bg-color@@dark": "#6356CF"
 }
