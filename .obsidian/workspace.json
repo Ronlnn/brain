@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Book.md",
+                "file": "_Passwords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book"
+              "title": "_Passwords"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Book.md",
+                "file": "_Passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Book"
+              "title": "Обратные ссылки для _Passwords"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Book.md",
+                "file": "_Passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Book"
+              "title": "Исходящие ссылки из _Passwords"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Book.md",
+                "file": "_Passwords.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Book"
+              "title": "Структура _Passwords"
             }
           },
           {
@@ -182,10 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "c4fa5c789be112d2",
   "lastOpenFiles": [
-    "_templates/Default.md",
     "_templates/Book.md",
+    "_templates/Default.md",
     "hotkeys for VSCode.md",
     "_Passwords.md",
     "4 Linux",

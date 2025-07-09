@@ -1,6 +1,23 @@
 {
   "fonts": [
     {
+      "id": "atkinson-hyperlegible",
+      "family": "Atkinson Hyperlegible",
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "styles": [
+        "italic",
+        "normal"
+      ],
+      "weights": [
+        400,
+        700
+      ],
+      "isActive": true
+    },
+    {
       "id": "fira-code",
       "family": "Fira Code",
       "subsets": [
@@ -30,27 +47,27 @@
           "step": "1"
         }
       },
-      "isActive": true
+      "isActive": false
     }
   ],
   "interfaceFonts": [
     {
-      "id": "fira-code",
-      "family": "Fira Code",
-      "precedence": 1
+      "id": "atkinson-hyperlegible",
+      "family": "Atkinson Hyperlegible",
+      "precedence": 0
     }
   ],
   "textFonts": [
     {
-      "id": "fira-code",
-      "family": "Fira Code",
+      "id": "atkinson-hyperlegible",
+      "family": "Atkinson Hyperlegible",
       "precedence": 0
     }
   ],
   "monospaceFonts": [
     {
-      "id": "fira-code",
-      "family": "Fira Code",
+      "id": "atkinson-hyperlegible",
+      "family": "Atkinson Hyperlegible",
       "precedence": 0
     }
   ]
