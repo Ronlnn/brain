@@ -11,10 +11,14 @@
             "id": "9645289837fdeb66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Настраиваем Обсидиан.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Настраиваем Обсидиан"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Настраиваем Обсидиан.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Настраиваем Обсидиан"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Настраиваем Обсидиан.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Настраиваем Обсидиан"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Настраиваем Обсидиан.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Настраиваем Обсидиан"
             }
           },
           {
@@ -179,21 +186,22 @@
   },
   "active": "9645289837fdeb66",
   "lastOpenFiles": [
+    "hotkeys for VSCode.md",
+    "Настраиваем Обсидиан.md",
+    "Home.md",
+    "4 Obsidian/00 Obsidian.md",
+    "4 Obsidian/Дока по AnuPpuccin.md",
     "_attachments/Pasted image 20250709171835.png",
     "_attachments/Pasted image 20250709190021.png",
     "1 Books/Book1.md",
-    "4 Obsidian/00 Obsidian.md",
     "4 Obsidian/Dataview/Типы полей метаданных.md",
     "4 Obsidian/Dataview/Неявные поля метаданных.md",
     "4 Obsidian/Dataview/Команды Dataview.md",
     "4 Obsidian/Dataview/Dataview.md",
     "3 Frontend/00 Frontend.md",
-    "4 Obsidian/Дока по AnuPpuccin.md",
     "4 Obsidian/Dataview/Источники Dataview.md",
     "4 Obsidian/Dataview",
     "_Passwords.md",
-    "Home.md",
-    "hotkeys for VSCode.md",
     "3 Frontend/React/00 React.md",
     "3 Frontend/JS/00 JS.md",
     "_attachments/pixel-banner-images/guts-dark.png",
