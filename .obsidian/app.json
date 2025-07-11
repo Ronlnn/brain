@@ -2,5 +2,6 @@
   "promptDelete": false,
   "trashOption": "none",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "_attachments"
+  "attachmentFolderPath": "_attachments",
+  "spellcheck": false
 }
