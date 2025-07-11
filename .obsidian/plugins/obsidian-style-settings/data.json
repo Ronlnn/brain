@@ -50,7 +50,7 @@
   "anp-custom-rainbow-colors@@rainbow-color-3-default": "rainbow-color-3-peach",
   "anp-custom-rainbow-colors@@rainbow-color-4-default": "rainbow-color-4-green",
   "anp-custom-rainbow-colors@@rainbow-color-5-default": "rainbow-color-5-red",
-  "anp-custom-rainbow-colors@@rainbow-color-6-default": "rainbow-color-6-mauve",
+  "anp-custom-rainbow-colors@@rainbow-color-6-default": "rainbow-color-6-sapphire",
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": true,
@@ -75,5 +75,5 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true,
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": true,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
-  "anp-custom-rainbow-colors@@rainbow-color-7-default": "rainbow-color-7-sky"
+  "anp-custom-rainbow-colors@@rainbow-color-7-default": "rainbow-color-7-mauve"
 }

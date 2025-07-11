@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Obsidian/Синхронизация на Айфоне.md",
+                "file": "2 Knowledge/00 Frontend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Синхронизация на Айфоне"
+              "title": "00 Frontend"
             }
           }
         ]
@@ -194,15 +194,20 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "1e9a05498ecad3e3",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
-    "4 Obsidian/Дока по AnuPpuccin.md",
-    "4 Obsidian/Dataview/01 Dataview.md",
-    "4 Obsidian/00 Obsidian.md",
-    "4 Obsidian/Синхронизация на Айфоне.md",
+    "4 Logs",
+    "3 Problems",
+    "2 Knowledge/JS/00 JS.md",
+    "2 Knowledge/React/00 React.md",
+    "2 Knowledge/00 Frontend.md",
+    "5 Obsidian/Синхронизация на Айфоне.md",
+    "5 Obsidian/Дока по AnuPpuccin.md",
+    "5 Obsidian/00 Obsidian.md",
+    "Настраиваем Обсидиан.md",
     "hotkeys for VSCode.md",
     "Home.md",
-    "Настраиваем Обсидиан.md",
+    "5 Obsidian/Dataview/01 Dataview.md",
     "Без названия.canvas",
     "_templates/Book.md",
     "1 Books/Book1.md",
@@ -223,22 +228,17 @@
     "5 RPG",
     "_Passwords.md",
     "Тестим с айфона..md",
-    "Тест ч айфона.md",
-    "И с ноута??.md",
-    "4 Obsidian/Dataview/Типы полей метаданных.md",
-    "4 Obsidian/Dataview/Неявные поля метаданных.md",
     "_attachments/pixel-banner-images/premium_photo-1685086785054-d047cdc0e525.png",
     "_attachments/pixel-banner-images/photo-1593720213428-28a5b9e94613.png",
     "_attachments/pixel-banner-images/front.png",
     "_attachments/pixel-banner-images/jpeg",
     "_attachments/Pasted image 20250709171835.png",
     "_attachments/Pasted image 20250709190021.png",
-    "4 Obsidian/Dataview",
+    "5 Obsidian/Dataview",
     "_attachments/pixel-banner-images/guts-dark.png",
-    "3 Frontend/React",
-    "3 Frontend/JS",
+    "2 Knowledge/React",
+    "2 Knowledge/JS",
     "_attachments/pixel-banner-images/home.png",
-    "_attachments/pixel-banner-images",
-    "3 Frontend/React"
+    "_attachments/pixel-banner-images"
   ]
 }
