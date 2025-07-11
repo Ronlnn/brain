@@ -11,7 +11,7 @@ icon:
 ```tracker
 searchType: task.done
 searchTarget: Problem
-folder: /4 Logs
+folder: 4 Logs
 summary:
     template: "How many problems I solved: {{sum()}}"
 ```
