@@ -10,9 +10,9 @@ icon:
 
 ```tracker
 searchType: task.done
-searchTarget: Say I love you
-folder: 4 Logs
+searchTarget: Problem
+folder: /4 Logs
 summary:
-    template: "How many days I said: {{sum()}}"
+    template: "How many problems I solved: {{sum()}}"
 ```
 
