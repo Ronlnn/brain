@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Frontend/00 Frontend.md",
+                "file": "4 Obsidian/Dataview/Типы полей метаданных.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00 Frontend"
+              "title": "Типы полей метаданных"
             }
           }
         ]
@@ -185,19 +185,22 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "9645289837fdeb66",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
+    "Тестим с айфона..md",
+    "4 Obsidian/Dataview/Типы полей метаданных.md",
+    "4 Obsidian/Dataview/Неявные поля метаданных.md",
+    "4 Obsidian/Dataview/Команды Dataview.md",
+    "4 Obsidian/Dataview/01 Dataview.md",
+    "Настраиваем Обсидиан.md",
+    "3 Frontend/00 Frontend.md",
     "4 Obsidian/Дока по AnuPpuccin.md",
     "4 Obsidian/00 Obsidian.md",
-    "4 Obsidian/Dataview/01 Dataview.md",
-    "4 Obsidian/Dataview/Команды Dataview.md",
     "1 Books/Book1.md",
     "3 Frontend/JS/00 JS.md",
     "3 Frontend/React/00 React.md",
-    "3 Frontend/00 Frontend.md",
     "_Passwords.md",
     "hotkeys for VSCode.md",
-    "Настраиваем Обсидиан.md",
     "Home.md",
     "_attachments/pixel-banner-images/premium_photo-1685086785054-d047cdc0e525.png",
     "_attachments/pixel-banner-images/photo-1593720213428-28a5b9e94613.png",
@@ -205,8 +208,6 @@
     "_attachments/pixel-banner-images/jpeg",
     "_attachments/Pasted image 20250709171835.png",
     "_attachments/Pasted image 20250709190021.png",
-    "4 Obsidian/Dataview/Типы полей метаданных.md",
-    "4 Obsidian/Dataview/Неявные поля метаданных.md",
     "4 Obsidian/Dataview/Источники Dataview.md",
     "4 Obsidian/Dataview",
     "_attachments/pixel-banner-images/guts-dark.png",
