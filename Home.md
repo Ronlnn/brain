@@ -9,8 +9,7 @@ icon:
 ---
 
 ```dataview
-table problems AS "Проблема"
+table sum(problems) AS "Проблема"
 from "4 Logs"
-where contains(text, "Решение")
 ```
 
