@@ -8,11 +8,14 @@ icon-image:
 icon:
 ---
 
-```dataview
-TABLE
-FROM "4 Logs"
-FLATTEN all(sum(map(file.tasks, (x) => x.completed))) AS "allCompleted"
-WHERE !allCompleted
+```dataviewjs
+let total = 0;
+for (let page of dv.pages('"4 Logs"')) {
+  let matches = (page.file.text.match(/\[x\] Problem/g) || []).length;
+  total += matches;
+}
+dv.paragraph(`🧩 Total solved problems: **${total}**`);
+
 ```
 
 
