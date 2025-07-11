@@ -7,3 +7,8 @@ banner-fade: 100
 icon-image: 
 icon:
 ---
+```dataview
+table file.name, count(rows)
+from [[Logs]]
+where contains(text, "Решение")
+```
