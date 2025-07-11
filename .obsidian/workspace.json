@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Синхронизация на Айфоне.md",
+                "file": "_Passwords.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Синхронизация на Айфоне"
+              "title": "_Passwords"
             }
           }
         ]
@@ -187,12 +187,12 @@
   },
   "active": "9645289837fdeb66",
   "lastOpenFiles": [
-    "Настраиваем Обсидиан.md",
     "Синхронизация на Айфоне.md",
+    "_Passwords.md",
+    "Настраиваем Обсидиан.md",
     "Тестим с айфона..md",
     "Тест ч айфона.md",
     "И с ноута??.md",
-    "_Passwords.md",
     "4 Obsidian/Dataview/Типы полей метаданных.md",
     "4 Obsidian/Dataview/Неявные поля метаданных.md",
     "4 Obsidian/Dataview/Команды Dataview.md",
