@@ -8,7 +8,10 @@ icon-image:
 icon:
 ---
 ```dataview
-table file.name, count(rows)
+table file.name as "Заметка", length(rows) as "Количество решений"
 from [[Logs]]
-where contains(text, "Решение")
+where contains(text, "###")
+flatten split(text, "###") as rows
+
 ```
+
