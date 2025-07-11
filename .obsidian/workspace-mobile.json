@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "И с ноута??.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "И с ноута??"
+              "title": "Home"
             }
           }
         ]
@@ -158,8 +158,8 @@
   },
   "active": "6142acbb95825189",
   "lastOpenFiles": [
-    "Тест ч айфона.md",
     "И с ноута??.md",
+    "Тест ч айфона.md",
     "/И с ноута??.md"
   ]
 }
