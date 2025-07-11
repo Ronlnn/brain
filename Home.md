@@ -10,7 +10,7 @@ icon:
 
 ```tracker
 searchType: dvField
-searchTarget: Problems
+searchTarget: problems
 datasetName: Problems
 folder: 4 Logs
 summary:
