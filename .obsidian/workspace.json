@@ -11,17 +11,14 @@
             "id": "1e9a05498ecad3e3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Без названия.canvas",
-                "viewState": {
-                  "x": 60.570984231404,
-                  "y": 66.08847754654508,
-                  "zoom": -0.8000000000000002
-                }
+                "file": "hotkeys for VSCode.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
+              "icon": "lucide-file",
+              "title": "hotkeys for VSCode"
             }
           }
         ]

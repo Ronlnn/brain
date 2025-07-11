@@ -16,5 +16,7 @@
   "quickadd",
   "codestats",
   "metadata-menu",
-  "advanced-canvas"
+  "advanced-canvas",
+  "highlightr-plugin",
+  "obsidian-auto-link-title"
 ]
