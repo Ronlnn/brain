@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{
+			"id":"2787e986bbe946e7",
+			"type":"group",
+			"styleAttributes":{"border":"dashed"},
+			"x":-160,
+			"y":-240,
+			"width":400,
+			"height":400,
+			"color":"2",
+			"label":"Группа без названия"
+		},
+		{"id":"bd1fc2999345019d","type":"file","file":"hotkeys for VSCode.md","x":-160,"y":260,"width":400,"height":400}
+	],
+	"edges":[
+		{
+			"id":"67f5c4583980fcad",
+			"styleAttributes":{"arrow":"thin-triangle","pathfindingMethod":"a-star","path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"2787e986bbe946e7",
+			"fromSide":"bottom",
+			"toNode":"bd1fc2999345019d",
+			"toSide":"top",
+			"color":"1"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"2f19c5d2936a3492"
+	}
+}
