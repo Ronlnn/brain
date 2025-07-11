@@ -8,12 +8,9 @@ icon-image:
 icon:
 ---
 
-```tracker
-searchType: dvField
-searchTarget: problems
-datasetName: Problems
-folder: 4 Logs
-summary:
-    template: "How many problems I solved: {{sum()}}"
+```dataview
+table problems AS "Проблема"
+from "4 Logs"
+where contains(text, "Решение")
 ```
 
