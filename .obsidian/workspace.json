@@ -11,15 +11,17 @@
             "id": "9645289837fdeb66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "5 RPG/logs/2025-07-11.md.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Без названия.canvas",
+                "viewState": {
+                  "x": 162.18092220412765,
+                  "y": -82.98992494967528,
+                  "zoom": -0.20000000000000007
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-07-11.md"
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
             }
           }
         ]
@@ -187,8 +189,9 @@
   },
   "active": "9645289837fdeb66",
   "lastOpenFiles": [
-    "_templates/Quest.md",
     "5 RPG/logs/2025-07-11.md.md",
+    "Без названия.canvas",
+    "_templates/Quest.md",
     "Hello.md",
     "_templates/Book.md",
     "_templates/Default.md",
@@ -216,7 +219,6 @@
     "4 Obsidian/Dataview/01 Dataview.md",
     "3 Frontend/00 Frontend.md",
     "4 Obsidian/Дока по AnuPpuccin.md",
-    "4 Obsidian/00 Obsidian.md",
     "_attachments/pixel-banner-images/premium_photo-1685086785054-d047cdc0e525.png",
     "_attachments/pixel-banner-images/photo-1593720213428-28a5b9e94613.png",
     "_attachments/pixel-banner-images/front.png",
@@ -229,7 +231,6 @@
     "3 Frontend/JS",
     "_attachments/pixel-banner-images/home.png",
     "_attachments/pixel-banner-images",
-    "3 Frontend/React",
-    "Без названия.canvas"
+    "3 Frontend/React"
   ]
 }
