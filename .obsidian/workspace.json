@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5b55669d5e35128b",
+        "id": "2bce0df37bbc6dfa",
         "type": "tabs",
         "children": [
           {
-            "id": "9645289837fdeb66",
+            "id": "1e9a05498ecad3e3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Без названия.canvas",
-                "viewState": {
-                  "x": 144.06147299353952,
-                  "y": -1536.1173917774936,
-                  "zoom": 0
-                }
+                "file": "5 RPG/config.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
+              "icon": "lucide-file",
+              "title": "config"
             }
           }
         ]
@@ -186,8 +183,14 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "9645289837fdeb66",
+  "active": "1e9a05498ecad3e3",
   "lastOpenFiles": [
+    "5 RPG/character.md",
+    "5 RPG/config.md",
+    "5 RPG/inventory.md",
+    "5 RPG/JavaScript.md",
+    "5 RPG/skills.md",
+    "5 RPG/shop.md",
     "Без названия.canvas",
     "5 RPG/logs/2025-07-11.md.md",
     "_templates/Quest.md",
@@ -195,12 +198,6 @@
     "_templates/Book.md",
     "_templates/Default.md",
     "Без названия.md",
-    "5 RPG/skills.md",
-    "5 RPG/JavaScript.md",
-    "5 RPG/character.md",
-    "5 RPG/config.md",
-    "5 RPG/shop.md",
-    "5 RPG/inventory.md",
     "5 RPG/achievements",
     "5 RPG/quests",
     "5 RPG/logs",
