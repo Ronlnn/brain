@@ -9,13 +9,7 @@ icon:
 ---
 
 ```dataviewjs
-let total = 0;
-for (let page of dv.pages('"4 Logs"')) {
-  let matches = (page.file.text.match(/\[x\] Problem/g) || []).length;
-  total += matches;
-}
-dv.paragraph(`🧩 Total solved problems: **${total}**`);
-
+dv.pages()
 ```
 
 
