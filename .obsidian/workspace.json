@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/quest.md",
+                "file": "_templates/Quest.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "quest"
+              "title": "Quest"
             }
           }
         ]
@@ -187,9 +187,11 @@
   },
   "active": "9645289837fdeb66",
   "lastOpenFiles": [
+    "_templates/Book.md",
+    "_templates/Default.md",
+    "_templates/Quest.md",
     "Untitled.md",
     "Без названия.md",
-    "_templates/quest.md",
     "5 RPG/skills.md",
     "5 RPG/JavaScript.md",
     "5 RPG/character.md",
@@ -215,8 +217,6 @@
     "4 Obsidian/Дока по AnuPpuccin.md",
     "4 Obsidian/00 Obsidian.md",
     "1 Books/Book1.md",
-    "3 Frontend/JS/00 JS.md",
-    "3 Frontend/React/00 React.md",
     "_attachments/pixel-banner-images/premium_photo-1685086785054-d047cdc0e525.png",
     "_attachments/pixel-banner-images/photo-1593720213428-28a5b9e94613.png",
     "_attachments/pixel-banner-images/front.png",
