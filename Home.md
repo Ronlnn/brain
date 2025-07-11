@@ -9,8 +9,9 @@ icon:
 ---
 
 ```tracker
-searchType: task.done
-searchTarget: Problem
+searchType: dvField
+searchTarget: Problems
+datasetName: Problems
 folder: 4 Logs
 summary:
     template: "How many problems I solved: {{sum()}}"
