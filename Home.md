@@ -7,11 +7,12 @@ banner-fade: 100
 icon-image: 
 icon:
 ---
-```dataview
-table file.name as "Заметка", length(rows) as "Количество решений"
-from [[Logs]]
-where contains(text, "###")
-flatten split(text, "###") as rows
 
+```dataviewjs
+searchType: task.done
+searchTarget: Say I love you
+folder: diary
+summary:
+    template: "How many days I said: {{sum()}}"
 ```
 
