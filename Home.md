@@ -12,7 +12,7 @@ icon:
 let total = 0;
 for (let page of dv.pages('"4 Logs"')) {
   if (page.problems) {
-    total += page.problems;
+    total += Number(page.problems); // 🔧 Приведение к числу
   }
 }
 dv.paragraph(`🧩 Total solved problems: **${total}**`);
