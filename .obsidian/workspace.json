@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "_templates/quest.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "quest"
             }
           }
         ]
@@ -187,9 +187,9 @@
   },
   "active": "9645289837fdeb66",
   "lastOpenFiles": [
-    "_templates/quest.md",
     "Без названия.md",
     "Untitled.md",
+    "_templates/quest.md",
     "5 RPG/skills.md",
     "5 RPG/JavaScript.md",
     "5 RPG/character.md",
