@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Синхронизация на Айфоне.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Синхронизация на Айфоне"
             }
           }
         ]
@@ -158,6 +158,9 @@
   },
   "active": "6142acbb95825189",
   "lastOpenFiles": [
+    "Home.md",
+    "Синхронизация на Айфоне.md",
+    "/Синхронизация на Айфоне.md",
     "И с ноута??.md",
     "Тест ч айфона.md",
     "/И с ноута??.md"
