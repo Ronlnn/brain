@@ -49,10 +49,6 @@
 |                                 | `Habr`                            |            |     |
 | Через гитхаб                    |                                   |            |     |
 
-
-
-
-
 |         | `Clash of clans`                                              |                       |
 | ------- | ------------------------------------------------------------- | --------------------- |
 | SamuRai | artking01kg@gmail.com                                         | RonInn89520333209     |
@@ -60,3 +56,7 @@
 | RONINN  | ro(l л)nn.samurai@gmail.com                                   | **RonInn89520333209** |
 |         |                                                               |                       |
 | CAESAR  | **[arturgalyauov@yandex.ru](mailto:arturgalyauov@yandex.ru)** | **RonInn89520333209** |
+
+- GitHub Персональный Token для репозитория brain 
+	- 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 
+

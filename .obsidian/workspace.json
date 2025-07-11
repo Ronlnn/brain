@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Passwords.md",
+                "file": "Настраиваем Обсидиан.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_Passwords"
+              "title": "Настраиваем Обсидиан"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 276.5
   },
   "right": {
     "id": "1c5ed590a4ae4b32",
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +187,10 @@
   },
   "active": "9645289837fdeb66",
   "lastOpenFiles": [
-    "Синхронизация на Айфоне.md",
     "_Passwords.md",
     "Настраиваем Обсидиан.md",
+    "Home.md",
+    "Синхронизация на Айфоне.md",
     "Тестим с айфона..md",
     "Тест ч айфона.md",
     "И с ноута??.md",
@@ -204,7 +205,6 @@
     "3 Frontend/JS/00 JS.md",
     "3 Frontend/React/00 React.md",
     "hotkeys for VSCode.md",
-    "Home.md",
     "_attachments/pixel-banner-images/premium_photo-1685086785054-d047cdc0e525.png",
     "_attachments/pixel-banner-images/photo-1593720213428-28a5b9e94613.png",
     "_attachments/pixel-banner-images/front.png",
