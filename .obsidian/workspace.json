@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hotkeys for VSCode.md",
+                "file": "4 Obsidian/Синхронизация на Айфоне.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hotkeys for VSCode"
+              "title": "Синхронизация на Айфоне"
             }
           }
         ]
@@ -160,9 +160,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d3352128d6f925ce",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,18 +190,22 @@
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
   "active": "1e9a05498ecad3e3",
   "lastOpenFiles": [
-    "Home.md",
-    "Без названия.canvas",
-    "Настраиваем Обсидиан.md",
+    "4 Obsidian/Дока по AnuPpuccin.md",
+    "4 Obsidian/Dataview/01 Dataview.md",
+    "4 Obsidian/00 Obsidian.md",
+    "4 Obsidian/Синхронизация на Айфоне.md",
     "hotkeys for VSCode.md",
+    "Home.md",
+    "Настраиваем Обсидиан.md",
+    "Без названия.canvas",
     "_templates/Book.md",
     "1 Books/Book1.md",
-    "4 Obsidian/Синхронизация на Айфоне.md",
     "_templates/Quest.md",
     "5 RPG/logs/2025-07-11.md.md",
     "5 RPG/shop.md",
@@ -213,8 +227,6 @@
     "И с ноута??.md",
     "4 Obsidian/Dataview/Типы полей метаданных.md",
     "4 Obsidian/Dataview/Неявные поля метаданных.md",
-    "4 Obsidian/Dataview/Команды Dataview.md",
-    "4 Obsidian/Dataview/01 Dataview.md",
     "_attachments/pixel-banner-images/premium_photo-1685086785054-d047cdc0e525.png",
     "_attachments/pixel-banner-images/photo-1593720213428-28a5b9e94613.png",
     "_attachments/pixel-banner-images/front.png",
