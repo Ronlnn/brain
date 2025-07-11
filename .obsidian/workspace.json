@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Obsidian/Dataview/Типы полей метаданных.md",
+                "file": "И с ноута??.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Типы полей метаданных"
+              "title": "И с ноута??"
             }
           }
         ]
@@ -185,9 +185,11 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "773e44ab4fb17e25",
+  "active": "9645289837fdeb66",
   "lastOpenFiles": [
     "Тестим с айфона..md",
+    "И с ноута??.md",
+    "_Passwords.md",
     "4 Obsidian/Dataview/Типы полей метаданных.md",
     "4 Obsidian/Dataview/Неявные поля метаданных.md",
     "4 Obsidian/Dataview/Команды Dataview.md",
@@ -199,7 +201,6 @@
     "1 Books/Book1.md",
     "3 Frontend/JS/00 JS.md",
     "3 Frontend/React/00 React.md",
-    "_Passwords.md",
     "hotkeys for VSCode.md",
     "Home.md",
     "_attachments/pixel-banner-images/premium_photo-1685086785054-d047cdc0e525.png",
@@ -229,7 +230,6 @@
     "Firefox настройка.md",
     "Threading Bullet Snippet.md",
     "Threading Bullet Plugin.md",
-    "xdotool wmctrl.md",
-    "fgg.md"
+    "xdotool wmctrl.md"
   ]
 }
