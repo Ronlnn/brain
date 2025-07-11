@@ -8,10 +8,10 @@ icon-image:
 icon:
 ---
 
-```dataviewjs
+```tracker
 searchType: task.done
 searchTarget: Say I love you
-folder: diary
+folder: 4 Logs
 summary:
     template: "How many days I said: {{sum()}}"
 ```
