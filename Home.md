@@ -9,7 +9,8 @@ icon:
 ---
 
 ```dataviewjs
-dv.pages("logs")
+let page = dv.pages("logs");
+for(let problem)
 ```
 
 
