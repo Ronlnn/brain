@@ -9,7 +9,11 @@ icon:
 ---
 
 ```dataview
-table sum(problems) AS "Проблема"
-from "4 Logs"
+TABLE
+FROM "4 Logs"
+FLATTEN all(sum(map(file.tasks, (x) => x.completed))) AS "allCompleted"
+WHERE !allCompleted
 ```
+
+
 
