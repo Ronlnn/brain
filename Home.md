@@ -9,7 +9,7 @@ icon:
 ---
 
 ```dataviewjs
-dv.pages()
+dv.pages("logs")
 ```
 
 
