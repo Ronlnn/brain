@@ -194,11 +194,14 @@
       "obsidian-spaced-repetition:Изучать карточки": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "1e9a05498ecad3e3",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
+    "6 Inbox/assets",
+    "6 Inbox",
     "Без названия.md",
     "2 Knowledge/00 Knowledge.md",
     "00 Frontend.md",
@@ -220,12 +223,11 @@
     "1 Books/fg.md",
     "1 Books/Books vault/Адмирал Макрейвен - Заправляй кровать.pdf",
     "1 Books/Books vault/Кейс по дисциплине.pdf",
-    "6 Obsidian/00 Obsidian.md",
+    "7 Obsidian/00 Obsidian.md",
     "1 Books/Books vault/Сеть отношений. Как наработать социальные связи в России.pdf",
     "1 Books/Books vault/Прога/Программист-прагматик.pdf",
     "1 Books/Books vault/Прога/(3) this и прототипы объектов - К.Симпсон",
     "1 Books/Books vault/Прога/Чиннатхамби JS с нуля.pdf",
-    "1 Books/Books vault/Прога/Никольский_А_П_JаvaScript_на_примерах.pdf",
     "5 Resources/CheatSheets/01 CheatSheets.md",
     "5 Resources/Settings/Конфиг VSCode.md",
     "5 Resources/Settings/01 Settings.md",
@@ -234,7 +236,6 @@
     "5 Resources/Code Snippets/Bash/02 Bash Snippets.md",
     "5 Resources/Code Snippets/JS/02 JS Snippets.md",
     "5 Resources/Code Snippets/React/02 React Snippets.md",
-    "5 Resources/Code Snippets/01 Code Snippets.md",
     "Без названия.canvas",
     "_attachments/pixel-banner-images/premium_photo-1685086785054-d047cdc0e525.png",
     "_attachments/pixel-banner-images/photo-1593720213428-28a5b9e94613.png",
