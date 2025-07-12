@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "problems": "text"
+    "problems": "text",
+    "Date-Create": "date"
   }
 }
