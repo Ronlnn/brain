@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Book.md",
+                "file": "1 Books/Книги.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book"
+              "title": "Книги"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "1e9a05498ecad3e3",
   "lastOpenFiles": [
+    "_templates/Book.md",
     "1 Books/Еретики Дюны.md",
     "1 Books/00 Books.md",
     "1 Books/Книги.md",
@@ -208,7 +209,6 @@
     "_attachments/books-cover/Еретики Дюны.jpg",
     "_attachments/books-cover/НИ ЗЯ Откажись от пагубных слабостей обрети силу духа и стань хозяином своей судьбы.jpg",
     "_attachments/Pasted image 20250709190021.png",
-    "_templates/Book.md",
     "_attachments/books-cover/Парфянские ритоны Нисы.jpg",
     "1 Books/Парфянские ритоны Нисы.md",
     "Идеи для своих рабочих пет-проектов.md",

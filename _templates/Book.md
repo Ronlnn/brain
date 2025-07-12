@@ -1,12 +1,13 @@
 ---
 tags:
   - books
-date: <% tp.date.now("DD-MM-YY")%>
+zero-links: "[[00 Books]]"
 author: "{{author}}"
 category: "{{category}}"
-localCover: "{{localCoverImage}}"
 pages: "{{totalPage}}"
-rating: ⭐⭐⭐⭐⭐
 publishDate: "{{publishDate}}"
+cover: "{{localCoverImage}}"
+rating: ⭐⭐⭐⭐⭐
+status: To Read
 ---
 # 📔<% tp.file.title%>
