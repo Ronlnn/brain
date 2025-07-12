@@ -8,7 +8,7 @@ TABLE
   status,
   pages 
 FROM #books
-SORT status DESC
+WHERE status = "✅ Done"
 
 // Settings
 preset: portrait
@@ -24,4 +24,3 @@ contentHeight: 50px
 defaultDateFormat: DD-MM-YY
 properties: [file.link, author, rating, status]
 ```
-

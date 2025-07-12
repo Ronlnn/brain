@@ -13,7 +13,7 @@
   "apiKey": "AIzaSyDntow_yf7RBya_0hBBerta6SLDO1jdGZM",
   "openPageOnCompletion": true,
   "showCoverImageInSearch": true,
-  "enableCoverImageSave": true,
+  "enableCoverImageSave": false,
   "enableCoverImageEdgeCurl": true,
   "coverImagePath": "_attachments/books-cover",
   "askForLocale": true
