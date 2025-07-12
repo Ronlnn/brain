@@ -11,14 +11,14 @@
             "id": "1e9a05498ecad3e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "5 Resources/Docs/01 Docs.md",
-                "mode": "source",
-                "source": false
+                "file": "1 Books/Books vault/Адмирал Макрейвен - Заправляй кровать.pdf",
+                "page": 1,
+                "zoom": 1
               },
-              "icon": "lucide-file",
-              "title": "01 Docs"
+              "icon": "lucide-file-text",
+              "title": "Адмирал Макрейвен - Заправляй кровать"
             }
           }
         ]
@@ -191,22 +191,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dashboard-navigator:Open dashboard navigator": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "obsidian-spaced-repetition:Изучать карточки": false
+      "obsidian-spaced-repetition:Изучать карточки": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "1e9a05498ecad3e3",
   "lastOpenFiles": [
-    "5 Resources/CheatSheets/01 CheatSheets.md",
+    "1 Books/Books vault/Прога/Программист-прагматик.pdf",
+    "1 Books/Books vault/Адмирал Макрейвен - Заправляй кровать.pdf",
+    "1 Books/Books vault/Кейс по дисциплине.pdf",
+    "1 Books/Books vault/Сеть отношений. Как наработать социальные связи в России.pdf",
     "5 Resources/Docs/01 Docs.md",
-    "5 Resources/Docs",
+    "1 Books/Books vault/Прога/(3) this и прототипы объектов - К.Симпсон",
+    "1 Books/Books vault/Прога/Чиннатхамби JS с нуля.pdf",
+    "1 Books/Books vault/Прога/Никольский_А_П_JаvaScript_на_примерах.pdf",
+    "1 Books/Books vault/Прога/Николаус Вирт - Алгоритмы и структуры данных.pdf",
+    "1 Books/Books vault/Прога/Макконелл - Совершенный код.pdf",
+    "1 Books/Books vault/Прога/Как_устроен_JavaScript_Крокфорд.pdf",
+    "5 Resources/CheatSheets/01 CheatSheets.md",
     "5 Resources/Settings/Конфиг VSCode.md",
-    "5 Resources/CheatSheets",
     "5 Resources/Passwords/_Passwords.md",
     "5 Resources/Passwords/01 Passwords.md",
     "Настраиваем Обсидиан.md",
-    "5 Resources/Passwords",
     "5 Resources/Settings/01 Settings.md",
-    "5 Resources/Settings",
     "1 Books/fg.md",
     "2 Knowledge/React/00 React.md",
     "2 Knowledge/JS/00 JS.md",
@@ -222,16 +231,9 @@
     "4 Logs/00 Logs.md",
     "4 Logs/12-22.md",
     "4 Logs/dfdf.md",
-    "4 Logs/archive/2025/Июль",
-    "4 Logs/archive/2025",
-    "4 Logs/archive",
     "3 Problems/React/01 React Problems.md",
     "3 Problems/Js/01 Js Problems.md",
     "3 Problems/Git/01 Git Problems.md",
-    "3 Problems/CSS/01 Css Problems.md",
-    "3 Problems/CSS",
-    "3 Problems/Git",
-    "3 Problems/Js",
     "Без названия.canvas",
     "_attachments/pixel-banner-images/premium_photo-1685086785054-d047cdc0e525.png",
     "_attachments/pixel-banner-images/photo-1593720213428-28a5b9e94613.png",
