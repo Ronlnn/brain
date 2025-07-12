@@ -10,7 +10,7 @@ icon:
 
 ```dataviewjs
 let total = 0;
-for (let page of dv.pages('"4 Logs"')) {
+for (let page of dv.pages('[[Logs]]')) {
   if (page.problems) {
     total += Number(page.problems); // 🔧 Приведение к числу
   }
