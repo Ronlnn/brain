@@ -75,5 +75,6 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true,
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": true,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
-  "anp-custom-rainbow-colors@@rainbow-color-7-default": "rainbow-color-7-mauve"
+  "anp-custom-rainbow-colors@@rainbow-color-7-default": "rainbow-color-7-pink",
+  "anp-custom-rainbow-colors@@rainbow-color-8-default": "rainbow-color-8-teal"
 }
