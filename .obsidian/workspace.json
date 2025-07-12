@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "hotkeys for VSCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "hotkeys for VSCode"
             }
           }
         ]
@@ -196,13 +196,15 @@
   },
   "active": "1e9a05498ecad3e3",
   "lastOpenFiles": [
-    "4 Logs/Logs.md",
     "Home.md",
+    "hotkeys for VSCode.md",
+    "6 Habits/Кодить.md",
+    "6 Habits",
+    "4 Logs/Logs.md",
     "4 Logs/dfdf.md",
     "4 Logs/12-22.md",
     "3 Problems/ff.md",
     "1 Books/fg.md",
-    "hotkeys for VSCode.md",
     "5 Obsidian/00 Obsidian.md",
     "Настраиваем Обсидиан.md",
     "2 Knowledge/00 Frontend.md",
@@ -224,7 +226,6 @@
     "5 RPG/character.md",
     "5 RPG/JavaScript.md",
     "5 RPG/skills.md",
-    "Hello.md",
     "5 RPG/achievements",
     "5 RPG/quests",
     "5 RPG/logs",
@@ -238,7 +239,6 @@
     "5 Obsidian/Dataview",
     "_attachments/pixel-banner-images/guts-dark.png",
     "2 Knowledge/React",
-    "2 Knowledge/JS",
     "_attachments/pixel-banner-images/home.png"
   ]
 }

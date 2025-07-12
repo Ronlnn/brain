@@ -19,5 +19,11 @@ dv.paragraph(`🧩 Total solved problems: **${total}**`);
 
 ```
 
-
+```habittracker 
+{ 
+"path": "6 Habits/",
+"daysToShow": 90,
+"lastDisplayedDate": 
+} 
+```
 
