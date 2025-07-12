@@ -22,8 +22,7 @@ dv.paragraph(`🧩 Total solved problems: **${total}**`);
 ```habittracker 
 { 
 "path": "6 Habits/",
-"daysToShow": 31,
-"lastDisplayedDate": "12-07-25"
+"daysToShow": 21
 } 
 ```
 
