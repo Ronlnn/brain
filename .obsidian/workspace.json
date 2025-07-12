@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Book.md",
+                "file": "1 Books/00 Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book"
+              "title": "00 Books"
             }
           }
         ]
@@ -198,13 +198,15 @@
   },
   "active": "1e9a05498ecad3e3",
   "lastOpenFiles": [
-    "1 Books/00 Books.md",
     "1 Books/Книги.md",
+    "1 Books/Код тайный язык информатики.md",
+    "_templates/Book.md",
+    "_attachments/books-cover/Код тайный язык информатики.jpg",
+    "1 Books/00 Books.md",
     "1 Books/Еретики Дюны.md",
     "_attachments/books-cover/duna.png",
     "_attachments/books-cover/Еретики Дюны.jpg",
     "_attachments/books-cover/дюна.png",
-    "_templates/Book.md",
     "1 Books/Books vault/Адмирал Макрейвен - Заправляй кровать.pdf",
     "1 Books/НИ ЗЯ Откажись от пагубных слабостей обрети силу духа и стань хозяином своей судьбы.md",
     "_attachments/books-cover/НИ ЗЯ Откажись от пагубных слабостей обрети силу духа и стань хозяином своей судьбы.jpg",
@@ -242,7 +244,6 @@
     "1 Books/Books vault/Прога/Программист-прагматик.pdf",
     "Без названия.canvas",
     "_attachments/pixel-banner-images/premium_photo-1685086785054-d047cdc0e525.png",
-    "_attachments/pixel-banner-images/photo-1593720213428-28a5b9e94613.png",
-    "_attachments/pixel-banner-images/front.png"
+    "_attachments/pixel-banner-images/photo-1593720213428-28a5b9e94613.png"
   ]
 }
