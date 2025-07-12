@@ -11,14 +11,12 @@
             "id": "1e9a05498ecad3e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1 Books/01 My Bookshelf.md",
-                "mode": "source",
-                "source": false
+                "file": "_attachments/books-cover/код.jpg"
               },
-              "icon": "lucide-file",
-              "title": "01 My Bookshelf"
+              "icon": "lucide-image",
+              "title": "код"
             }
           }
         ]
@@ -196,11 +194,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "1e9a05498ecad3e3",
   "lastOpenFiles": [
-    "1 Books/00 Books.md",
     "1 Books/01 My Bookshelf.md",
     "1 Books/Код тайный язык информатики.md",
+    "_attachments/books-cover/код.jpg",
+    "1 Books/00 Books.md",
     "_templates/Book.md",
     "_attachments/books-cover/Код тайный язык информатики.jpg",
     "1 Books/Еретики Дюны.md",
@@ -237,13 +236,11 @@
     "2 Knowledge/Frontend/CSS/02 CSS.md",
     "2 Knowledge/Frontend/CSS",
     "2 Knowledge/Frontend",
-    "2 Knowledge/Frontend/JS/02 JS.md",
     "2 Knowledge/Algorithms",
     "1 Books/Books vault/Кейс по дисциплине.pdf",
     "1 Books/Books vault/Сеть отношений. Как наработать социальные связи в России.pdf",
     "1 Books/Books vault/Прога/Программист-прагматик.pdf",
     "Без названия.canvas",
-    "_attachments/pixel-banner-images/premium_photo-1685086785054-d047cdc0e525.png",
-    "_attachments/pixel-banner-images/photo-1593720213428-28a5b9e94613.png"
+    "_attachments/pixel-banner-images/premium_photo-1685086785054-d047cdc0e525.png"
   ]
 }
