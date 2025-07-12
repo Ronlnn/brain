@@ -6,7 +6,7 @@ author: "{{author}}"
 category: "{{category}}"
 pages: "{{totalPage}}"
 publishDate: "{{publishDate}}"
-cover: "{{localCoverImage}}"
+cover: "{{coverUrl}}"
 rating: ⭐⭐⭐⭐⭐
 status: To Read
 ---

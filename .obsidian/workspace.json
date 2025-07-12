@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Books/Книги.md",
+                "file": "_templates/Book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Книги"
+              "title": "Book"
             }
           }
         ]
@@ -198,15 +198,15 @@
   },
   "active": "1e9a05498ecad3e3",
   "lastOpenFiles": [
-    "_templates/Book.md",
+    "1 Books/00 Books.md",
     "1 Books/Книги.md",
     "1 Books/Еретики Дюны.md",
-    "1 Books/00 Books.md",
     "_attachments/books-cover/duna.png",
+    "_attachments/books-cover/Еретики Дюны.jpg",
     "_attachments/books-cover/дюна.png",
+    "_templates/Book.md",
     "1 Books/Books vault/Адмирал Макрейвен - Заправляй кровать.pdf",
     "1 Books/НИ ЗЯ Откажись от пагубных слабостей обрети силу духа и стань хозяином своей судьбы.md",
-    "_attachments/books-cover/Еретики Дюны.jpg",
     "_attachments/books-cover/НИ ЗЯ Откажись от пагубных слабостей обрети силу духа и стань хозяином своей судьбы.jpg",
     "_attachments/Pasted image 20250709190021.png",
     "_attachments/books-cover/Парфянские ритоны Нисы.jpg",
@@ -236,7 +236,6 @@
     "2 Knowledge/Frontend/CSS",
     "2 Knowledge/Frontend",
     "2 Knowledge/Frontend/JS/02 JS.md",
-    "2 Knowledge/Frontend/React/01 React.md",
     "2 Knowledge/Algorithms",
     "1 Books/Books vault/Кейс по дисциплине.pdf",
     "1 Books/Books vault/Сеть отношений. Как наработать социальные связи в России.pdf",
