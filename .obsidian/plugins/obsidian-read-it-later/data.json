@@ -50,7 +50,7 @@
   "stackExchangeAnswer": "Answered by: [{{ authorName }}]({{ authorProfileURL }})\n\n{{ answerContent }}",
   "downloadStackExchangeAssets": true,
   "downloadStackExchangeAssetsInDir": false,
-  "youtubeApiKey": "",
+  "youtubeApiKey": "AIzaSyDntow_yf7RBya_0hBBerta6SLDO1jdGZM",
   "tikTokContentTypeSlug": "tiktok",
   "tikTokNoteTitle": "TikTok from {{ authorName }} ({{ date }})",
   "tikTokNote": "[[ReadItLater]] [[TikTok]]\n\n{{ videoDescription }}\n\n[{{ videoURL }}]({{ videoURL }})\n\n{{ videoPlayer }}",
