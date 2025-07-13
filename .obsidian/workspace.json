@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Knowledge/00 Knowledge.md",
+                "file": "2 Knowledge/Frontend/React/01 React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Knowledge"
+              "title": "01 React"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Knowledge/00 Knowledge.md",
+                "file": "2 Knowledge/Frontend/React/01 React.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 00 Knowledge"
+              "title": "Структура 01 React"
             }
           },
           {
@@ -200,9 +200,10 @@
   },
   "active": "37a93dd630697220",
   "lastOpenFiles": [
-    "_attachments/pixel-banner-images/brain.png",
     "2 Knowledge/Frontend/01 Frontend.md",
     "2 Knowledge/00 Knowledge.md",
+    "_attachments/pixel-banner-images/gg.png",
+    "_attachments/pixel-banner-images/brain.png",
     "1 Books/00 Books.md",
     "1 Books/02 Finished books.md",
     "1 Books/02 Reading now.md",
@@ -242,8 +243,6 @@
     "_attachments/books-cover/scope.jpg",
     "_attachments/books-cover/zapravlyai-krovat.jpg",
     "_attachments/books-cover/udk-js-1.jpg",
-    "_attachments/books-cover/witcher-last.jpg",
-    "_attachments/books-cover/withcer-vladychica-ozera.jpg",
     "1 Books/Books vault/Адмирал Макрейвен - Заправляй кровать.pdf",
     "_attachments/books-cover",
     "Без названия.canvas"
