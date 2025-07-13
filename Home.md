@@ -15,14 +15,15 @@ for (let page of dv.pages('[[Logs]]')) {
   }
 }
 let totalPages = dv.pages("").length;
+
 let totalProblems = 0;
 for (let page of dv.pages('"3 Problems"')) {
   if (page.problems) total += Number(page.problems);
 }
 
 dv.paragraph(`📁 Всего заметок: **${totalPages}**`);
-dv.paragraph(`🧩 Total solved problems: **${total}**`);
-dv.paragraph(`❗ Решено проблем: **${totalProblems}**`);
+dv.paragraph(`❗Решено проблем: **${total}**`);
+dv.paragraph(` Решено проблем: **${totalProblems}**`);
 
 ```
 ```dataviewjs

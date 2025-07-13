@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "4 Logs/00 Logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "00 Logs"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "4 Logs/00 Logs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Home"
+              "title": "Структура 00 Logs"
             }
           },
           {
@@ -200,19 +200,20 @@
   },
   "active": "37a93dd630697220",
   "lastOpenFiles": [
-    "_templates/📘Book.md",
+    "3 Problems/CSS/01 Css Problems.md",
+    "_templates/📅Logs.md",
     "Home.md",
+    "4 Logs/00 Logs.md",
+    "_templates/❗Problems.md",
+    "_templates/📘Book.md",
     "Настраиваем Обсидиан.md",
     "Идеи для своих рабочих пет-проектов.md",
-    "3 Problems/CSS/01 Css Problems.md",
-    "_templates/❗Problems.md",
     "5 Resources/00 Resources.md",
     "5 Resources/code-stats.md",
     "7 Obsidian/DataCards.md",
     "_templates/Default.md",
     "df.md",
     "_templates/🧠Theory.md",
-    "_templates/📅Logs.md",
     "TEst.md",
     "5 Resources/code-stats.json",
     "3 Problems/00 Problems.md",
@@ -233,7 +234,6 @@
     "1 Books/02 Finished books.md",
     "1 Books/02 Reading now.md",
     "1 Books/45 татуировок личности.md",
-    "1 Books/Познакомьтесь, JS.md",
     "_attachments/books-cover/es6.jpg",
     "_attachments/books-cover/async.jpg",
     "_attachments/books-cover/types.jpg",
