@@ -1,7 +1,7 @@
 ---
 tags:
   - knowledge
-zero-links: 
+zero-links: <%`[[${zeroLink}]]`%>
 created: <% tp.date.now("DD-MM-YY") %>
 ---
 <%* let title = await tp.system.prompt("Имя заметки"); %>
