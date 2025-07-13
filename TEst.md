@@ -1,4 +1,0 @@
-
-```csvtable
-source: Roninn.csv
-```

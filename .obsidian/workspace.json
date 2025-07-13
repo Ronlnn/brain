@@ -10,15 +10,17 @@
           {
             "id": "1e9a05498ecad3e3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Resources/code-stats.md",
+                "file": "Настраиваем Обсидиан.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "code-stats"
+              "title": "Настраиваем Обсидиан"
             }
           }
         ]
@@ -142,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Frontend/00 Frontend.md",
+                "file": "Настраиваем Обсидиан.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 00 Frontend"
+              "title": "Структура Настраиваем Обсидиан"
             }
           },
           {
@@ -172,11 +174,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,27 +199,27 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "1e9a05498ecad3e3",
+  "active": "773e44ab4fb17e25",
   "lastOpenFiles": [
+    "Идеи для своих рабочих пет-проектов.md",
     "Настраиваем Обсидиан.md",
+    "_templates/Default.md",
+    "TEst.md",
+    "Home.md",
     "5 Resources/code-stats.md",
     "5 Resources/00 Resources.md",
-    "Home.md",
     "5 Resources/code-stats.json",
     "3 Problems/00 Problems.md",
-    "TEst.md",
     "5 Resources/Scripts/templater.js",
     "5",
     "5 Resources/Scripts/update-codestats.sh",
     "5 Resources/Settings/codestat.json.md",
     "5 Resources/Scripts/templater.js.md",
     "5 Resources/Scripts",
-    "Идеи для своих рабочих пет-проектов.md",
     "Без названия",
     "Roninn-codetime.csv",
     "Ronlnn-codetime-records-13.07.2025, 15_53_54.csv",
     "_templates/Book.md",
-    "_templates/Default.md",
     "5 Resources/Settings/Конфиг VSCode.md",
     "5 Resources/Passwords/01 Passwords.md",
     "5 Resources/Passwords/GitHub Token brain.md",
