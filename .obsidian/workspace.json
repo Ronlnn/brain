@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/📅Logs.md",
+                "file": "_templates/📑Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅Logs"
+              "title": "📑Theory"
             }
           }
         ]
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/📅Logs.md",
+                "file": "_templates/📑Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 📅Logs"
+              "title": "Исходящие ссылки из 📑Theory"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/📅Logs.md",
+                "file": "_templates/📑Theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 📅Logs"
+              "title": "Структура 📑Theory"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_templates/📅Logs.md",
+                "file": "_templates/📑Theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 📅Logs"
+              "title": "Граф 📑Theory"
             }
           }
         ]
@@ -245,8 +245,11 @@
   },
   "active": "c3566ae02ed93de8",
   "lastOpenFiles": [
-    "_templates/📑Theory.md",
     "_templates/📅Logs.md",
+    "Настраиваем Обсидиан.md",
+    "Идеи для своих рабочих пет-проектов.md",
+    "13-07-25.md",
+    "_templates/📑Theory.md",
     "_templates/❗Problems.md",
     "RR.md",
     "!.md",
@@ -279,9 +282,6 @@
     "FF.md",
     "tt.md",
     "_templates/Default.md",
-    "TT.md",
-    "7 Obsidian/00 Obsidian.md",
-    "gg.md",
     "5 Resources/code-stats.json",
     "5 Resources/Scripts/templater.js",
     "5",

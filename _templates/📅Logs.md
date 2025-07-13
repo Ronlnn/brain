@@ -2,6 +2,6 @@
 tags:
   - logs
 zero-links: 
-prompt:
+prompt: <%* let day = tp.date.now("DD-MM-YY"); %> <%tp.file.rename(day)%>
 ---
-<%* let title = await tp.system.prompt("Имя заметки"); %><%tp.file.rename(title)%>
+# <%day%>
