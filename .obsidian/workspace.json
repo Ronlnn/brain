@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/📑Theory.md",
+                "file": "4 Logs/00 Logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📑Theory"
+              "title": "00 Logs"
             }
           }
         ]
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/📑Theory.md",
+                "file": "4 Logs/00 Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 📑Theory"
+              "title": "Исходящие ссылки из 00 Logs"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/📑Theory.md",
+                "file": "4 Logs/00 Logs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 📑Theory"
+              "title": "Структура 00 Logs"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_templates/📑Theory.md",
+                "file": "4 Logs/00 Logs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 📑Theory"
+              "title": "Граф 00 Logs"
             }
           }
         ]
@@ -245,21 +245,28 @@
   },
   "active": "c3566ae02ed93de8",
   "lastOpenFiles": [
+    "4 Logs/2025/Июль/Июль 25.md",
+    "4 Logs/2025/!2025.md",
+    "4 Logs/2025/Июль",
     "_templates/📅Logs.md",
-    "Настраиваем Обсидиан.md",
-    "Идеи для своих рабочих пет-проектов.md",
+    "4 Logs/2025",
     "13-07-25.md",
-    "_templates/📑Theory.md",
     "_templates/❗Problems.md",
+    "ff.md",
+    "_templates/📑Theory.md",
+    "_templates/📘Book.md",
+    "_templates/Default.md",
+    "Настраиваем Обсидиан.md",
+    "Home.md",
+    "Переменные в Js.md",
+    "gg.md",
+    "Идеи для своих рабочих пет-проектов.md",
     "RR.md",
     "!.md",
     "3 Problems/React/01 React Problems.md",
-    "_templates/📘Book.md",
     "2 Knowledge/Frontend/React/02 React.md",
     "2 Knowledge/Frontend/JS/02 JS.md",
     "2 Knowledge/00 Knowledge.md",
-    "Home.md",
-    "Переменные в Js.md",
     "_attachments/pixel-banner-images/gif",
     "_attachments/pixel-banner-images/movie.jpeg",
     "2 Knowledge/Frontend/01 Frontend.md",
@@ -277,11 +284,6 @@
     "1 Books/02 Finished books.md",
     "1 Books/02 Reading now.md",
     "1 Books/01 My Bookshelf.md",
-    "2 Knowledge/Frontend/React/📑title.md",
-    "DD.md",
-    "FF.md",
-    "tt.md",
-    "_templates/Default.md",
     "5 Resources/code-stats.json",
     "5 Resources/Scripts/templater.js",
     "5",
@@ -289,8 +291,6 @@
     "5 Resources/Scripts",
     "Без названия",
     "Roninn-codetime.csv",
-    "Ronlnn-codetime-records-13.07.2025, 15_53_54.csv",
-    "1 Books/Books vault/Адмирал Макрейвен - Заправляй кровать.pdf",
     "Без названия.canvas"
   ]
 }
