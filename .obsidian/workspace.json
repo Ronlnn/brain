@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Default.md",
+                "file": "Настраиваем Обсидиан.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Default"
+              "title": "Настраиваем Обсидиан"
             }
           }
         ]
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Default.md",
+                "file": "Настраиваем Обсидиан.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Default"
+              "title": "Исходящие ссылки из Настраиваем Обсидиан"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Default.md",
+                "file": "Настраиваем Обсидиан.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Default"
+              "title": "Структура Настраиваем Обсидиан"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_templates/Default.md",
+                "file": "Настраиваем Обсидиан.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Default"
+              "title": "Граф Настраиваем Обсидиан"
             }
           }
         ]
@@ -245,34 +245,34 @@
   },
   "active": "c3566ae02ed93de8",
   "lastOpenFiles": [
-    "_templates/📘Book.md",
-    "_templates/📑Theory.md",
+    "Идеи для своих рабочих пет-проектов.md",
+    "Настраиваем Обсидиан.md",
+    "5 Resources/code-stats.md",
+    "13-07-25.md",
+    "5 Resources/00 Resources.md",
+    "4 Logs/archive/2025/Июль/Июль 25.md",
+    "4 Logs/archive/2025/!2025.md",
+    "4 Logs/00 Logs.md",
+    "3 Problems/CSS/01 Css Problems.md",
+    "3 Problems/Git/01 Git Problems.md",
+    "3 Problems/Js/01 Js Problems.md",
+    "3 Problems/React/01 React Problems.md",
+    "3 Problems/00 Problems.md",
     "_templates/📅Logs.md",
     "_templates/❗Problems.md",
+    "Home.md",
+    "_templates/Default.md",
+    "_templates/📘Book.md",
+    "_templates/📑Theory.md",
     "Не загружалась страницы.md",
     "ff.md",
     "TEST.md",
     "ee.md",
     "EEEE.md",
-    "Home.md",
-    "13-07-25.md",
-    "4 Logs/archive/2025/Июль/Июль 25.md",
-    "4 Logs/archive/2025/!2025.md",
     "4 Logs/2025/!2025.md",
-    "4 Logs/00 Logs.md",
     "4 Logs/2025/Июль/Июль 25.md",
     "4 Logs/2025/Июль",
     "4 Logs/2025",
-    "_templates/Default.md",
-    "Настраиваем Обсидиан.md",
-    "Переменные в Js.md",
-    "gg.md",
-    "Идеи для своих рабочих пет-проектов.md",
-    "RR.md",
-    "!.md",
-    "3 Problems/React/01 React Problems.md",
-    "2 Knowledge/Frontend/React/02 React.md",
-    "2 Knowledge/Frontend/JS/02 JS.md",
     "_attachments/pixel-banner-images/gif",
     "_attachments/pixel-banner-images/movie.jpeg",
     "_attachments/pixel-banner-images/table.png",
