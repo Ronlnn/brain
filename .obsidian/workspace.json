@@ -238,12 +238,10 @@
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c3566ae02ed93de8",
+  "active": "d3352128d6f925ce",
   "lastOpenFiles": [
     "Настраиваем Обсидиан.md",
     "Идеи для своих рабочих пет-проектов.md",
