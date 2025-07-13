@@ -2,11 +2,17 @@
 module.exports.countProblems = async () => {
   const dv = app.plugins.plugins.dataview.api;
   let total = 0;
-  for (let page of dv.pages("[[00 Problems]]")) {
-    if (page.problems) total += Number(page.problems);
+  const allPages = dv.pages('"3 Problems"');
+
+  for (let page of allPages) {
+    if (page.problems) {
+      total += Number(page.problems || 1);
+    }
   }
+
   return total;
 };
+
 
 // Подсчитать все заметки
 module.exports.countNotes = async () => {

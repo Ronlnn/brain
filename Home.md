@@ -40,3 +40,14 @@ let total = dv.pages("").length;
 dv.paragraph(`🧩 Всего заметок: **${total}**`);
 ```
 
+
+
+<%* 
+let count = await tp.user.countProblems();
+t.return(`🧩 Решено проблем: **${count}**`);
+%>
+
+## 📊 Общая статистика
+
+- 🧩 Решено проблем: `<%* t.return(await tp.user.countProblems()) %>`
+
