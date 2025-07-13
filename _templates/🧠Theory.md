@@ -6,6 +6,5 @@ created: <% tp.date.now("DD-MM-YY") %>
 ---
 <%* let title = await tp.system.prompt("Имя заметки"); %>
 <%tp.file.rename(title)%>
-# <%title%>
-
-
+# 📑 <%title%>
+<% tp.file.cursor() %>
