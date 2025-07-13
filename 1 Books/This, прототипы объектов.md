@@ -6,8 +6,8 @@ author: Кайл Симпсон
 category: it
 pages: "178"
 publishDate: 2024-08-01
-cover: _attachments/books-cover/udk-js-1.jpg
+cover: _attachments/books-cover/this-objects.jpg
 rating: ⭐⭐⭐⭐⭐
 status: 🔷 To Read
 ---
-# 📔Познакомьтесь, JS
+# 📔This, прототипы объектов
