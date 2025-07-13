@@ -57,6 +57,6 @@ let total = 0;
 for (let page of dv.pages('"3 Problems"')) {
   if (page.problems) total += Number(page.problems);
 }
-dv.paragraph(`🧩 Решено проблем: **${total}**`);
+dv.paragraph(`❗ Решено проблем: **${total}**`);
 
 ```

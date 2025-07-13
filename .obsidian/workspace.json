@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "3 Problems/CSS/01 Css Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "01 Css Problems"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3 Problems/CSS/01 Css Problems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Home"
+              "title": "Структура 01 Css Problems"
             }
           },
           {
@@ -199,19 +199,19 @@
   },
   "active": "55ac45de04eb8be4",
   "lastOpenFiles": [
+    "Home.md",
+    "_templates/❗Problems.md",
     "5 Resources/00 Resources.md",
     "5 Resources/code-stats.md",
     "7 Obsidian/DataCards.md",
     "Идеи для своих рабочих пет-проектов.md",
     "Настраиваем Обсидиан.md",
-    "Home.md",
     "3 Problems/CSS/01 Css Problems.md",
     "_templates/Default.md",
     "df.md",
     "_templates/📘Book.md",
     "_templates/🧠Theory.md",
     "_templates/📅Logs.md",
-    "_templates/❗Problems.md",
     "TEst.md",
     "5 Resources/code-stats.json",
     "3 Problems/00 Problems.md",
