@@ -23,12 +23,13 @@ dv.paragraph(`🧩 Total solved problems: **${total}**`);
 const statsFile = app.vault.getAbstractFileByPath("5 Resources/code-stats.json");
 if (statsFile) {
   const data = JSON.parse(await app.vault.read(statsFile));
+  dv.paragraph("Статистика CodeStats:")
   dv.paragraph(`🧠 Всего: **${data.total_xp} XP**`);
   dv.paragraph(`💻 JS: **${data.languages.JavaScript.xps} XP**`);
 }
 ```
 
-- 🧩 **Решено проблем:** `<% tp.user.countProblems() %>`
+- 🧩 **Решено проблем:** `<% tp.user.countProblems() %> `
     
 - 📁 **Всего заметок:** `<% tp.user.countNotes() %>`
     
