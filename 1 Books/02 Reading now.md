@@ -1,3 +1,8 @@
+---
+banner: "![[_attachments/pixel-banner-images/library.png]]"
+banner-x: 49
+banner-y: 47
+---
 ```datacards
 TABLE 
   file.link as "Title", 
