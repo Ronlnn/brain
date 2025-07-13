@@ -47,6 +47,5 @@ if (statsFile) {
   dv.paragraph(`💻 JS: **${data.languages.JavaScript.xps} XP**`);
 }
 ```
-   
-- 📚 **Прочитано книг:** `<% tp.user.countCompletedBooks() %>`
+
 
