@@ -1,7 +1,7 @@
 ---
 tags:
   - obsidian
-zero-links: "[[00 Obsidian]]"
+zero-links: "[[7 Obsidian/00 Obsidian]]"
 ---
 - [i] [GitHub Doc](https://github.com/AnubisNekhet/AnuPpuccin)
 
