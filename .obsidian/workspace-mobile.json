@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "1 Books/01 My Bookshelf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "01 My Bookshelf"
             }
           }
         ]
@@ -178,8 +178,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "520f87e068aab9cf",
+  "active": "df7ce7b989c8a32e",
   "lastOpenFiles": [
+    "1 Books/00 Books.md",
     "Без названия.md",
     "5",
     "_attachments/pixel-banner-images/gif",
@@ -224,7 +225,6 @@
     "Home.md",
     "_templates/❗Problems.md",
     "_templates/📘Book.md",
-    "_templates/📑Theory.md",
-    "_templates/Default.md"
+    "_templates/📑Theory.md"
   ]
 }
