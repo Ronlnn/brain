@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 269.5
   },
   "right": {
     "id": "1c5ed590a4ae4b32",
@@ -201,6 +201,7 @@
   "lastOpenFiles": [
     "5 Resources/code-stats.md",
     "Home.md",
+    "5 Resources/code-stats.json",
     "Настраиваем Обсидиан.md",
     "3 Problems/00 Problems.md",
     "TEst.md",
@@ -208,7 +209,6 @@
     "5 Resources/Scripts/templater.js",
     "5",
     "5 Resources/Scripts/update-codestats.sh",
-    "5 Resources/code-stats.json",
     "5 Resources/Settings/codestat.json.md",
     "5 Resources/Scripts/templater.js.md",
     "5 Resources/Scripts",
@@ -232,7 +232,6 @@
     "1 Books/Асинхронка и оптимизация.md",
     "1 Books/This, прототипы объектов.md",
     "1 Books/ES6 и не только.md",
-    "1 Books/Типы, Грам.конструкции.md",
     "_attachments/books-cover/es6.jpg",
     "_attachments/books-cover/async.jpg",
     "_attachments/books-cover/types.jpg",

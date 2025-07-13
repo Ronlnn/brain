@@ -20,7 +20,7 @@ dv.paragraph(`🧩 Total solved problems: **${total}**`);
 ```
 
 ```dataviewjs
-const statsFile = tp.file("5 Resources/code-stats");
+const statsFile = app.vault.getAbstractFileByPath("5 Resources/code-stats.json");
 if (statsFile) {
   const data = JSON.parse(await app.vault.read(statsFile));
   dv.paragraph(`🧠 Всего: **${data.total_xp} XP**`);
