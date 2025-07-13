@@ -7,7 +7,6 @@ banner-fade: 100
 icon-image: 
 icon:
 ---
-
 ```dataviewjs
 let total = 0;
 for (let page of dv.pages('[[Logs]]')) {
@@ -18,7 +17,18 @@ for (let page of dv.pages('[[Logs]]')) {
 dv.paragraph(`🧩 Total solved problems: **${total}**`);
 
 ```
+```dataviewjs
+let total = 0;
+for (let page of dv.pages('"3 Problems"')) {
+  if (page.problems) total += Number(page.problems);
+}
+dv.paragraph(`❗ Решено проблем: **${total}**`);
 
+```
+```dataviewjs
+let total = dv.pages("").length;
+dv.paragraph(`📘 Всего заметок: **${total}**`);
+```
 ```dataviewjs
 const statsFile = app.vault.getAbstractFileByPath("5 Resources/code-stats.json");
 if (statsFile) {
@@ -35,10 +45,7 @@ if (statsFile) {
     
 - 📚 **Прочитано книг:** `<% tp.user.countCompletedBooks() %>`
 
-```dataviewjs
-let total = dv.pages("").length;
-dv.paragraph(`🧩 Всего заметок: **${total}**`);
-```
+
 
 
 
@@ -52,11 +59,3 @@ tp.paragraph(`🧩 Решено проблем: **${count}**`);
 - 🧩 Решено проблем: `<%* t.return(await tp.user.countProblems()) %>`
 
 
-```dataviewjs
-let total = 0;
-for (let page of dv.pages('"3 Problems"')) {
-  if (page.problems) total += Number(page.problems);
-}
-dv.paragraph(`❗ Решено проблем: **${total}**`);
-
-```
