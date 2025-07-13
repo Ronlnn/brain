@@ -8,19 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e9a05498ecad3e3",
+            "id": "55ac45de04eb8be4",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Настраиваем Обсидиан.md",
+                "file": "_templates/Theory.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Настраиваем Обсидиан"
+              "title": "Theory"
             }
           }
         ]
@@ -144,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Настраиваем Обсидиан.md",
+                "file": "_templates/Theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Настраиваем Обсидиан"
+              "title": "Структура Theory"
             }
           },
           {
@@ -199,10 +197,13 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "773e44ab4fb17e25",
+  "active": "55ac45de04eb8be4",
   "lastOpenFiles": [
-    "Идеи для своих рабочих пет-проектов.md",
     "Настраиваем Обсидиан.md",
+    "_templates/Theory.md",
+    "_templates/Problems.md",
+    "_templates/Logs.md",
+    "Идеи для своих рабочих пет-проектов.md",
     "_templates/Default.md",
     "TEst.md",
     "Home.md",
@@ -232,8 +233,6 @@
     "1 Books/Познакомьтесь, JS.md",
     "1 Books/Грокаем алгоритмы.md",
     "1 Books/Асинхронка и оптимизация.md",
-    "1 Books/This, прототипы объектов.md",
-    "1 Books/ES6 и не только.md",
     "_attachments/books-cover/es6.jpg",
     "_attachments/books-cover/async.jpg",
     "_attachments/books-cover/types.jpg",
