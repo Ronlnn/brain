@@ -1,10 +1,30 @@
 #!/bin/bash
 
-# Путь к хранилищу Obsidian
-VAULT_PATH=~/Brain/brain/5\ Resources
+# Путь к папке с данными (проверь путь!)
+VAULT_PATH="$HOME/Brain/brain/5 Resources"
+TMP_JSON="$(mktemp)"
 
-# Получаем JSON
-curl -s https://codestats.net/api/users/RonInn > "$VAULT_PATH/code-stats.json"
+# Получаем данные
+curl -s https://codestats.net/api/users/RonInn > "$TMP_JSON"
 
-# Оборачиваем в Markdown-кодблок и сохраняем в .md
-echo -e '```json\n'$(cat "$VAULT_PATH/code-stats.json")'\n```' > "$VAULT_PATH/code-stats.md"
+# Проверка и обработка
+if jq empty "$TMP_JSON" 2>/dev/null; then
+  echo "✅ JSON валиден"
+
+  # Сохраняем необработанный JSON для скриптов
+  cp "$TMP_JSON" "$VAULT_PATH/code-stats.json"
+
+  # Форматируем и сохраняем в .md
+  {
+    echo '```json'
+    jq '.' "$TMP_JSON"
+    echo '```'
+  } > "$VAULT_PATH/code-stats.md"
+
+  echo "✅ Обновлено: code-stats.json и code-stats.md"
+else
+  echo "❌ JSON повреждён или пуст"
+fi
+
+# Очистка
+rm "$TMP_JSON"

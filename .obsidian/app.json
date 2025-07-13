@@ -4,5 +4,5 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_attachments",
   "spellcheck": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": false
 }
