@@ -14,20 +14,23 @@ for (let page of dv.pages('[[Logs]]')) {
     total += Number(page.problems); // 🔧 Приведение к числу
   }
 }
-dv.paragraph(`🧩 Total solved problems: **${total}**`);
-
-```
-```dataviewjs
-let total = 0;
+let totalPages = dv.pages("").length;
+let totalProblems = 0;
 for (let page of dv.pages('"3 Problems"')) {
   if (page.problems) total += Number(page.problems);
 }
-dv.paragraph(`❗ Решено проблем: **${total}**`);
+
+dv.paragraph(`📁 Всего заметок: **${totalPages}**`);
+dv.paragraph(`🧩 Total solved problems: **${total}**`);
+dv.paragraph(`❗ Решено проблем: **${totalProblems}**`);
 
 ```
 ```dataviewjs
-let total = dv.pages("").length;
-dv.paragraph(`📘 Всего заметок: **${total}**`);
+
+
+```
+```dataviewjs
+
 ```
 ```dataviewjs
 const statsFile = app.vault.getAbstractFileByPath("5 Resources/code-stats.json");
@@ -38,24 +41,6 @@ if (statsFile) {
   dv.paragraph(`💻 JS: **${data.languages.JavaScript.xps} XP**`);
 }
 ```
-
-- 🧩 **Решено проблем:** `<% tp.user.countProblems() %>`
-    
-- 📁 **Всего заметок:** `<% tp.user.countNotes() %>`
-    
+   
 - 📚 **Прочитано книг:** `<% tp.user.countCompletedBooks() %>`
-
-
-
-
-
-<%* 
-let count = await tp.user.countProblems();
-tp.paragraph(`🧩 Решено проблем: **${count}**`);
-%>
-
-## 📊 Общая статистика
-
-- 🧩 Решено проблем: `<%* t.return(await tp.user.countProblems()) %>`
-
 
