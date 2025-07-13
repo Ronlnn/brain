@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Logs/00 Logs.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Logs"
+              "title": "Home"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Logs/00 Logs.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 00 Logs"
+              "title": "Структура Home"
             }
           },
           {
@@ -200,10 +200,10 @@
   },
   "active": "37a93dd630697220",
   "lastOpenFiles": [
+    "4 Logs/00 Logs.md",
     "3 Problems/CSS/01 Css Problems.md",
     "_templates/📅Logs.md",
     "Home.md",
-    "4 Logs/00 Logs.md",
     "_templates/❗Problems.md",
     "_templates/📘Book.md",
     "Настраиваем Обсидиан.md",

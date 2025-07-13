@@ -8,22 +8,18 @@ icon-image:
 icon:
 ---
 ```dataviewjs
-let total = 0;
-for (let page of dv.pages('[[Logs]]')) {
+let totalProblems = 0;
+for (let page of dv.pages("")) {
   if (page.problems) {
-    total += Number(page.problems); // 🔧 Приведение к числу
+    total += Number(page.problems);
   }
 }
+// Все заметки
 let totalPages = dv.pages("").length;
 
-let totalProblems = 0;
-for (let page of dv.pages('"3 Problems"')) {
-  if (page.problems) total += Number(page.problems);
-}
 
 dv.paragraph(`📁 Всего заметок: **${totalPages}**`);
-dv.paragraph(`❗Решено проблем: **${total}**`);
-dv.paragraph(` Решено проблем: **${totalProblems}**`);
+dv.paragraph(`❗Решено проблем: **${totalProblems}**`);
 
 ```
 ```dataviewjs
