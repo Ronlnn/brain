@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Theory.md",
+                "file": "_templates/Default.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theory"
+              "title": "Default"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Theory.md",
+                "file": "_templates/Default.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Theory"
+              "title": "Структура Default"
             }
           },
           {
@@ -199,11 +199,12 @@
   },
   "active": "55ac45de04eb8be4",
   "lastOpenFiles": [
-    "_templates/Problems.md",
-    "_templates/Theory.md",
-    "_templates/Logs.md",
-    "_templates/Book.md",
+    "df.md",
     "_templates/Default.md",
+    "_templates/📘Book.md",
+    "_templates/🧠Theory.md",
+    "_templates/📅Logs.md",
+    "_templates/❗Problems.md",
     "Настраиваем Обсидиан.md",
     "Идеи для своих рабочих пет-проектов.md",
     "TEst.md",
@@ -232,7 +233,6 @@
     "1 Books/45 татуировок личности.md",
     "1 Books/Познакомьтесь, JS.md",
     "1 Books/Грокаем алгоритмы.md",
-    "1 Books/Асинхронка и оптимизация.md",
     "_attachments/books-cover/es6.jpg",
     "_attachments/books-cover/async.jpg",
     "_attachments/books-cover/types.jpg",
