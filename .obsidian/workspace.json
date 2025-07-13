@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ff.md",
+                "file": "_templates/Default.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ff"
+              "title": "Default"
             }
           }
         ]
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ff.md",
+                "file": "_templates/Default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из ff"
+              "title": "Исходящие ссылки из Default"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ff.md",
+                "file": "_templates/Default.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ff"
+              "title": "Структура Default"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ff.md",
+                "file": "_templates/Default.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф ff"
+              "title": "Граф Default"
             }
           }
         ]
@@ -245,14 +245,17 @@
   },
   "active": "c3566ae02ed93de8",
   "lastOpenFiles": [
+    "_templates/📘Book.md",
+    "_templates/📑Theory.md",
+    "_templates/📅Logs.md",
     "_templates/❗Problems.md",
+    "Не загружалась страницы.md",
     "ff.md",
     "TEST.md",
     "ee.md",
     "EEEE.md",
     "Home.md",
     "13-07-25.md",
-    "_templates/📅Logs.md",
     "4 Logs/archive/2025/Июль/Июль 25.md",
     "4 Logs/archive/2025/!2025.md",
     "4 Logs/2025/!2025.md",
@@ -260,9 +263,6 @@
     "4 Logs/2025/Июль/Июль 25.md",
     "4 Logs/2025/Июль",
     "4 Logs/2025",
-    "ff.md",
-    "_templates/📑Theory.md",
-    "_templates/📘Book.md",
     "_templates/Default.md",
     "Настраиваем Обсидиан.md",
     "Переменные в Js.md",
