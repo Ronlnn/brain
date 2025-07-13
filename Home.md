@@ -8,18 +8,27 @@ icon-image:
 icon:
 ---
 ```dataviewjs
+// Решенные проблемы
 let totalProblems = 0;
 for (let page of dv.pages("")) {
   if (page.problems) {
-    total += Number(page.problems);
+    totalProblems += Number(page.problems);
   }
 }
 // Все заметки
 let totalPages = dv.pages("").length;
 
+// Прочитанные книги
+let totalBooks = 0;
+for (let page of dv.pages('"1 Books"')){
+	if(page.status === "✅ Done"){
+		totalBooks += 1;
+	}
+}
 
 dv.paragraph(`📁 Всего заметок: **${totalPages}**`);
-dv.paragraph(`❗Решено проблем: **${totalProblems}**`);
+dv.paragraph(`❗ Решено проблем: **${totalProblems}**`);
+dv.paragraph(`📚 Прочитано книг: **${totalBooks}**`);
 
 ```
 ```dataviewjs
