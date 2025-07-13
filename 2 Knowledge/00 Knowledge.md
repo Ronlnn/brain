@@ -1,9 +1,9 @@
 ---
 tags:
   - knowledge
-banner: "![[_attachments/pixel-banner-images/gg.png]]"
-banner-x: 46
-banner-y: 40
+banner: "![[_attachments/pixel-banner-images/movie.jpeg]]"
+banner-x: 41
+banner-y: 4
 ---
 >[!important] Входящие Темы
 >```dataview
