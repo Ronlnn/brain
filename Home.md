@@ -26,9 +26,9 @@ for (let page of dv.pages('"1 Books"')){
 	}
 }
 
-dv.paragraph(`📁 Всего заметок: **${totalPages}**`);
-dv.paragraph(`❗ Решено проблем: **${totalProblems}**`);
-dv.paragraph(`📚 Прочитано книг: **${totalBooks}**`);
+dv.header(2,`📁 Всего заметок: **${totalPages}**`);
+dv.header(2,`❗ Решено проблем: **${totalProblems}**`);
+dv.header(2,`📚 Прочитано книг: **${totalBooks}**`);
 
 ```
 ```dataviewjs
