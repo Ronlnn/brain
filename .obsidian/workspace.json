@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "2 Knowledge/Frontend/JS/02 JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "02 JS"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2 Knowledge/Frontend/JS/02 JS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Home"
+              "title": "Структура 02 JS"
             }
           },
           {
@@ -200,6 +200,8 @@
   },
   "active": "37a93dd630697220",
   "lastOpenFiles": [
+    "2 Knowledge/Frontend/CSS/02 CSS.md",
+    "Home.md",
     "_attachments/pixel-banner-images/table.png",
     "_attachments/pixel-banner-images/purpleIt.png",
     "_attachments/pixel-banner-images/greenIt.png",
@@ -218,9 +220,7 @@
     "1 Books/02 Finished books.md",
     "1 Books/02 Reading now.md",
     "1 Books/01 My Bookshelf.md",
-    "_attachments/pixel-banner-images/library.png",
     "_templates/📑Theory.md",
-    "Home.md",
     "2 Knowledge/Frontend/React/📑title.md",
     "RR.md",
     "Переменные в Js.md",
