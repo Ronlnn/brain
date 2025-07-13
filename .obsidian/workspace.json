@@ -197,10 +197,11 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "1e9a05498ecad3e3",
   "lastOpenFiles": [
-    "Настраиваем Обсидиан.md",
+    "5 Resources/code-stats.md",
     "Home.md",
+    "Настраиваем Обсидиан.md",
     "3 Problems/00 Problems.md",
     "TEst.md",
     "5 Resources/00 Resources.md",
@@ -232,7 +233,6 @@
     "1 Books/This, прототипы объектов.md",
     "1 Books/ES6 и не только.md",
     "1 Books/Типы, Грам.конструкции.md",
-    "1 Books/Область видимости и замыкания.md",
     "_attachments/books-cover/es6.jpg",
     "_attachments/books-cover/async.jpg",
     "_attachments/books-cover/types.jpg",
