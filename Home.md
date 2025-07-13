@@ -44,10 +44,19 @@ dv.paragraph(`🧩 Всего заметок: **${total}**`);
 
 <%* 
 let count = await tp.user.countProblems();
-t.return(`🧩 Решено проблем: **${count}**`);
+tp.paragraph(`🧩 Решено проблем: **${count}**`);
 %>
 
 ## 📊 Общая статистика
 
 - 🧩 Решено проблем: `<%* t.return(await tp.user.countProblems()) %>`
 
+
+```dataviewjs
+let total = 0;
+for (let page of dv.pages('"3 Problems"')) {
+  if (page.problems) total += Number(page.problems);
+}
+dv.paragraph(`🧩 Решено проблем: **${total}**`);
+
+```
