@@ -3,5 +3,6 @@
   "trashOption": "none",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_attachments",
-  "spellcheck": false
+  "spellcheck": false,
+  "showUnsupportedFiles": true
 }
