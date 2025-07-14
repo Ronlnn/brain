@@ -5,6 +5,8 @@
     "tags": "tags",
     "problems": "text",
     "Date-Create": "date",
-    "date": "date"
+    "date": "date",
+    "deadline": "date",
+    "start": "date"
   }
 }
