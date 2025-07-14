@@ -7,9 +7,9 @@ start: ""
 deadline:
 ---
 <%*
-tR += "🟡 Статус ?\n\n";
+let request = await tp.system.prompt('Статус ?');
 let options = ["📫 Inbox", "📌 In Progress", "✅ Done"];
-let status = await tp.system.suggester(options,options)
+let status = await tp.system.suggester(options,options);
 %>
 
 status:: <%status%>
