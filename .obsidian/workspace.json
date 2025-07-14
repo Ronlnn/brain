@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Projects.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects"
+              "title": "Untitled"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_templates/Projects.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Projects"
+              "title": "Граф Untitled"
             }
           }
         ]
@@ -251,11 +251,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "fc733fc889337764",
   "lastOpenFiles": [
+    "_templates/Projects.md",
     "Untitled.md",
     "Home.md",
-    "_templates/Projects.md",
     "5 Resources/Scripts/helpers.js",
     "Planning/Projects/Test1.md",
     "Настраиваем Обсидиан.md",
