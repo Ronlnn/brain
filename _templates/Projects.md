@@ -8,6 +8,6 @@ deadline:
 ---
 <%* let status = await tp.system.prompt("Status?")%>
 
-<% tp.frontmatter["start"]%>
+<%* let status = awai%>
 
 
