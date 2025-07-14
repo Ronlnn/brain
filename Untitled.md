@@ -3,9 +3,10 @@ tags:
   - planning
   - projects
 zero-links: "[[00 Planning]]"
+date: 2002-01-15
 ---
 
-
+<% tp.frontmatter["date"]%>
 
 
 
