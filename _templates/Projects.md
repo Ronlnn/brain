@@ -4,14 +4,10 @@ tags:
   - projects
 zero-links: "[[00 Planning]]"
 start: ""
-deadline:
+deadline: 
+prompt: <%*let request = await tp.system.prompt('Статус ?');let options = ["📫 Inbox", "📌 In Progress", "✅ Done"];let status = await tp.system.suggester(options,options);%>
 ---
-<%*
-let request = await tp.system.prompt('Статус ?');
-let options = ["📫 Inbox", "📌 In Progress", "✅ Done"];
-let status = await tp.system.suggester(options,options);
-tp.user.helpers();
-%>
+
 
 status:: <%status%>
 
