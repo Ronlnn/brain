@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -248,8 +248,7 @@
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "iconic:Открыть свод правил": false
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
   "active": "460284fba49617d1",
