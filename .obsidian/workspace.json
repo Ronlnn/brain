@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Projects/Test1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test1"
+              "title": "Untitled"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Planning/Projects/Test1.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Test1"
+              "title": "Граф Untitled"
             }
           }
         ]
@@ -252,9 +252,10 @@
       "iconic:Открыть свод правил": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "fc733fc889337764",
   "lastOpenFiles": [
     "_templates/Projects.md",
+    "Untitled.md",
     "Planning/Projects/Test1.md",
     "Planning/00 Planning.md",
     "Home.md",
@@ -283,7 +284,6 @@
     "2 Programming/Frontend/01 Frontend.md",
     "7 Obsidian/Dataview/Команды Dataview.md",
     "7 Obsidian/Dataview/01 Dataview.md",
-    "4 Logs/archive/2025/Июль/Июль 25.md",
     "Без названия.canvas",
     "Education/Выполненные цели",
     "Education",
