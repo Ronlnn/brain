@@ -5,9 +5,8 @@ tags:
 zero-links: "[[00 Planning]]"
 start: ""
 deadline: 
-prompt:
+prompt: <%*let options = ["📫 Inbox", "📌 In Progress", "✅ Done"];let status = await tp.system.suggester(options,options);%><%* let options = ["❕Low", "❗Medium", "‼️High"]; let priority = await tp.system.suggester(options,options);%>
 ---
 status:: <%status%>
-
-<%*let options = ["📫 Inbox", "📌 In Progress", "✅ Done"];let status = await tp.system.suggester(options,options);%>
-<%* let options = ["❕Low", "❗Medium", ""]%>  ‼️High
+priority:: <>
+  
