@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ecd7ee86cfa0f63",
+        "id": "caf547b6af8c06b8",
         "type": "tabs",
         "children": [
           {
-            "id": "c3566ae02ed93de8",
+            "id": "fc733fc889337764",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 260.51103591918945
   },
   "right": {
     "id": "1c5ed590a4ae4b32",
@@ -87,7 +83,7 @@
       {
         "id": "b60e78ac8191ec30",
         "type": "tabs",
-        "dimension": 61.60804020100502,
+        "dimension": 63.6963696369637,
         "children": [
           {
             "id": "82d867e17b02b917",
@@ -173,12 +169,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "ffd601a1e6e078dc",
         "type": "tabs",
-        "dimension": 38.391959798994975,
+        "dimension": 36.303630363036305,
         "children": [
           {
             "id": "30bc3dcebaf6de9f",
@@ -186,7 +182,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +209,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Home"
+              "title": "Граф"
             }
           }
         ]
@@ -238,42 +233,49 @@
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "iconic:Открыть свод правил": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "773e44ab4fb17e25",
   "lastOpenFiles": [
-    "6 Tasks/00 Tasks.md",
-    "Home.md",
-    "_templates/🗂 Projects.md",
-    "6 Tasks/Выйти на первую работу/Выйти на первую работу.md",
-    "6 Tasks/Выйти на первую работу/rr.md",
-    "6 Tasks/Без названия.md",
-    "6 Tasks/Выйти на первую работу",
-    "_templates/❗Problems.md",
-    "2 Knowledge/00 Knowledge.md",
+    "2 Programming/Linux/Отключение тачпада в Линукс.md",
+    "2 Programming/Linux/01 Linux.md",
+    "2 Programming/Linux",
+    "Planning/Стать первым.md",
+    "Planning/Main.md",
     "Настраиваем Обсидиан.md",
-    "Без названия.md",
-    "5 Resources/code-stats.md",
-    "5 Resources/Settings/codestat.json.md",
-    "2 Knowledge/Собесы/00 Вопросы.md",
-    "2 Knowledge/Собесы",
-    "_templates/📑Theory.md",
-    "_templates/📅Logs.md",
-    "7 Obsidian/Синхронизация на Айфоне.md",
-    "Идеи для своих рабочих пет-проектов.md",
-    "13-07-25.md",
-    "5 Resources/00 Resources.md",
-    "4 Logs/archive/2025/Июль/Июль 25.md",
-    "4 Logs/archive/2025/!2025.md",
+    "Planning/Projects",
+    "Planning/Tasks/ПП.md",
+    "_templates/Goals.md",
+    "_templates/Default.md",
+    "_templates/Task.md",
+    "Home.md",
+    "Planning/Tasks/Шаг 1.md",
+    "{{Шаг 1}}.md",
     "4 Logs/00 Logs.md",
-    "3 Problems/CSS/01 Css Problems.md",
-    "3 Problems/Git/01 Git Problems.md",
-    "3 Problems/Js/01 Js Problems.md",
-    "3 Problems/React/01 React Problems.md",
+    "Planning/Tasks",
+    "Planning",
+    "2 Programming/00 Programming.md",
+    "2 Programming/Собесы/00 Вопросы.md",
+    "2 Programming/Algorithms/01 Algorithms.md",
+    "2 Programming/CSS/01 CSS.md",
+    "2 Programming/JS/01 JS.md",
+    "2 Programming/React/01 React.md",
+    "2 Programming/Frontend/01 Frontend.md",
+    "7 Obsidian/Dataview/Команды Dataview.md",
+    "7 Obsidian/Dataview/01 Dataview.md",
+    "4 Logs/archive/2025/Июль/Июль 25.md",
+    "7 Obsidian/Дока по AnuPpuccin.md",
+    "7 Obsidian/Синхронизация на Айфоне.md",
+    "Education/Выполненные цели/2025.md",
+    "Без названия.canvas",
+    "Education/Выполненные цели",
+    "Education",
+    "6 Tasks/Выйти на первую работу",
+    "2 Programming/Собесы",
     "4 Logs/2025/Июль",
     "4 Logs/2025",
-    "_attachments/pixel-banner-images/gif",
     "_attachments/pixel-banner-images/movie.jpeg",
     "_attachments/pixel-banner-images/table.png",
     "_attachments/pixel-banner-images/purpleIt.png",
@@ -283,12 +285,6 @@
     "_attachments/pixel-banner-images/js.png",
     "_attachments/pixel-banner-images/react.png",
     "_attachments/pixel-banner-images/seo.png",
-    "_attachments/pixel-banner-images/gg.png",
-    "5 Resources/code-stats.json",
-    "5 Resources/Scripts/templater.js",
-    "5",
-    "5 Resources/Scripts/update-codestats.sh",
-    "5 Resources/Scripts",
-    "Без названия.canvas"
+    "_attachments/pixel-banner-images/gg.png"
   ]
 }

@@ -7,7 +7,7 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-red",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-red",
-  "anuppuccin-theme-settings@@anp-canvas-dark-bg": false,
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
   "anuppuccin-theme-settings@@anp-colorful-frame": true,
   "anuppuccin-theme-settings@@anp-colorful-frame-opacity": 0.65,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
@@ -32,7 +32,7 @@
   "anuppuccin-theme-settings@@anp-file-icons": true,
   "anuppuccin-theme-settings@@anp-floating-header": false,
   "anuppuccin-theme-settings@@anp-collapse-folders": true,
-  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
@@ -57,9 +57,9 @@
   "anuppuccin-theme-settings@@anp-hide-external-link-icon": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
-  "anuppuccin-theme-settings@@anp-font-editor-wt": "500",
-  "anuppuccin-theme-settings@@anp-font-preview-wt": "500",
-  "anuppuccin-theme-settings@@anp-font-live-preview-wt": "500",
+  "anuppuccin-theme-settings@@anp-font-editor-wt": "700",
+  "anuppuccin-theme-settings@@anp-font-preview-wt": "700",
+  "anuppuccin-theme-settings@@anp-font-live-preview-wt": "700",
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-stacked-header-width": 80,
   "anuppuccin-theme-settings@@anp-tab-stacked-pane-width": 2,
@@ -77,5 +77,6 @@
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
   "anp-custom-rainbow-colors@@rainbow-color-7-default": "rainbow-color-7-pink",
   "anp-custom-rainbow-colors@@rainbow-color-8-default": "rainbow-color-8-yellow",
-  "anp-custom-rainbow-colors@@rainbow-color-9-default": "rainbow-color-9-mauve"
+  "anp-custom-rainbow-colors@@rainbow-color-9-default": "rainbow-color-9-mauve",
+  "anuppuccin-theme-settings@@bold-weight": "700"
 }

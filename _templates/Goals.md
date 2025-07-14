@@ -1,0 +1,41 @@
+---
+type: project
+title:
+  "{ title }": 
+status: in progress
+priority: medium
+deadline:
+  "{ date }": 
+tasks:
+  - - - "{ task1 }": 
+  - - - "{ task2 }": 
+  - - - "{ task3 }": 
+progress: 0
+---
+
+# 🎯 {{title}}
+
+Описание цели. Срок выполнения: `{{date}}`
+
+## 📌 Задачи
+- [ ] [[{{task1}}]]
+- [ ] [[{{task2}}]]
+- [ ] [[{{task3}}]]
+
+```dataviewjs
+const dvApi = dv;
+let total = 0;
+let done = 0;
+
+if (dv.current().tasks) {
+  for (let link of dv.current().tasks) {
+    let t = dv.page(link.path);
+    if (t && t.status === "done") done++;
+    total++;
+  }
+}
+
+let progress = total > 0 ? Math.round((done / total) * 100) : 0;
+dv.el("p", `✅ Прогресс: ${progress}%`);
+```
+

@@ -1,8 +1,8 @@
 ---
 tags:
-  - knowledge
   - algorithms
-zero-links: "[[00 Knowledge]]"
+  - programming
+zero-links: "[[00 Programming]]"
 ---
 >[!important] Входящие Темы
 >```dataview
