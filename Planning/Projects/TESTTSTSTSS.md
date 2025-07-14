@@ -9,5 +9,5 @@ prompt:
 ---
 
 status:: 📫 Inbox
-priority::❕Low
+priority:: 
   
