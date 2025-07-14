@@ -6,12 +6,11 @@ zero-links: "[[00 Planning]]"
 start: ""
 deadline:
 ---
-<%* let status = await tp.system.prompt("Status?")%>
-
 <%*
-let options = ["📫 Inbox", "📌 Задача", "📚 Цитата"];
-let status = await tp.system.suggester("""")
+let options = ["📫 Inbox", "📌 In Progress", "✅ Done"];
+let status = await tp.system.suggester(options,options)
 %>
 
+status:: <%status%>
 
 
