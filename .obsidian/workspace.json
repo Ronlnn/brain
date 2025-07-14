@@ -11,10 +11,14 @@
             "id": "fc733fc889337764",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Planning/Projects/Test1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Test1"
             }
           }
         ]
@@ -167,9 +171,19 @@
               "icon": "SpacedRepIcon",
               "title": "Очередь заметок на повторение"
             }
+          },
+          {
+            "id": "980bbc08a734edd4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -182,6 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Planning/Projects/Test1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Test1"
             }
           }
         ]
@@ -237,20 +252,23 @@
       "iconic:Открыть свод правил": false
     }
   },
-  "active": "773e44ab4fb17e25",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
+    "_templates/Projects.md",
+    "Planning/Projects/Test1.md",
+    "Planning/00 Planning.md",
+    "Home.md",
+    "_templates/Task.md",
+    "_templates/Goals.md",
+    "Настраиваем Обсидиан.md",
+    "Planning/Main.md",
+    "Planning/Стать первым.md",
     "2 Programming/Linux/Отключение тачпада в Линукс.md",
     "2 Programming/Linux/01 Linux.md",
     "2 Programming/Linux",
-    "Planning/Стать первым.md",
-    "Planning/Main.md",
-    "Настраиваем Обсидиан.md",
     "Planning/Projects",
     "Planning/Tasks/ПП.md",
-    "_templates/Goals.md",
     "_templates/Default.md",
-    "_templates/Task.md",
-    "Home.md",
     "Planning/Tasks/Шаг 1.md",
     "{{Шаг 1}}.md",
     "4 Logs/00 Logs.md",
@@ -266,9 +284,6 @@
     "7 Obsidian/Dataview/Команды Dataview.md",
     "7 Obsidian/Dataview/01 Dataview.md",
     "4 Logs/archive/2025/Июль/Июль 25.md",
-    "7 Obsidian/Дока по AnuPpuccin.md",
-    "7 Obsidian/Синхронизация на Айфоне.md",
-    "Education/Выполненные цели/2025.md",
     "Без названия.canvas",
     "Education/Выполненные цели",
     "Education",
