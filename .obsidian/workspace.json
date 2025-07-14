@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 Obsidian/Синхронизация на Айфоне.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Синхронизация на Айфоне"
+              "title": "Без названия"
             }
           }
         ]
@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7 Obsidian/Синхронизация на Айфоне.md",
+                "file": "Без названия.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Синхронизация на Айфоне"
+              "title": "Граф Без названия"
             }
           }
         ]
@@ -243,6 +243,8 @@
   },
   "active": "d3352128d6f925ce",
   "lastOpenFiles": [
+    "7 Obsidian/Синхронизация на Айфоне.md",
+    "Без названия.md",
     "Настраиваем Обсидиан.md",
     "Идеи для своих рабочих пет-проектов.md",
     "5 Resources/code-stats.md",
@@ -267,8 +269,6 @@
     "TEST.md",
     "ee.md",
     "EEEE.md",
-    "4 Logs/2025/!2025.md",
-    "4 Logs/2025/Июль/Июль 25.md",
     "4 Logs/2025/Июль",
     "4 Logs/2025",
     "_attachments/pixel-banner-images/gif",
