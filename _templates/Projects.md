@@ -9,5 +9,5 @@ prompt: <%*let statusOptions = ["📫 Inbox", "📌 In Progress", "✅ Done"];le
 ---
 
 status:: <%status%>
-priority:: <%priority%>
+priority::<%priority%>
   
