@@ -10,7 +10,7 @@ deadline:
 let request = await tp.system.prompt('Статус ?');
 let options = ["📫 Inbox", "📌 In Progress", "✅ Done"];
 let status = await tp.system.suggester(options,options);
-await tp.user.helpers.remove_empty_lines(); 
+await tp.user.helpers(); 
 %>
 
 status:: <%status%>
