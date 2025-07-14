@@ -252,8 +252,9 @@
       "iconic:Открыть свод правил": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "fc733fc889337764",
   "lastOpenFiles": [
+    "5 Resources/Scripts/helpers.js",
     "Untitled.md",
     "_templates/Projects.md",
     "Home.md",
@@ -283,7 +284,6 @@
     "2 Programming/JS/01 JS.md",
     "2 Programming/React/01 React.md",
     "2 Programming/Frontend/01 Frontend.md",
-    "7 Obsidian/Dataview/Команды Dataview.md",
     "Без названия.canvas",
     "Education/Выполненные цели",
     "Education",
