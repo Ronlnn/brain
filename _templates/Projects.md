@@ -8,7 +8,9 @@ deadline:
 ---
 <%* let status = await tp.system.prompt("Status?")%>
 
-<%*  let options = ["📝 Заметка", "📅 Задача", "📚 Цитата"];
-let status = await tp.system.suggester("""")%>
+<%*
+let options = ["📫 Inbox", "📅 Задача", "📚 Цитата"];
+let status = await tp.system.suggester("""")
+%>
 
 
