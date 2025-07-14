@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -241,14 +241,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c3566ae02ed93de8",
+  "active": "d3352128d6f925ce",
   "lastOpenFiles": [
+    "6 Tasks/00 Tasks.md",
+    "Home.md",
+    "_templates/🗂 Projects.md",
     "6 Tasks/Выйти на первую работу/Выйти на первую работу.md",
     "6 Tasks/Выйти на первую работу/rr.md",
-    "6 Tasks/00 Tasks.md",
     "6 Tasks/Без названия.md",
     "6 Tasks/Выйти на первую работу",
-    "_templates/🗂 Projects.md",
     "_templates/❗Problems.md",
     "2 Knowledge/00 Knowledge.md",
     "Настраиваем Обсидиан.md",
@@ -270,7 +271,6 @@
     "3 Problems/Git/01 Git Problems.md",
     "3 Problems/Js/01 Js Problems.md",
     "3 Problems/React/01 React Problems.md",
-    "3 Problems/00 Problems.md",
     "4 Logs/2025/Июль",
     "4 Logs/2025",
     "_attachments/pixel-banner-images/gif",
