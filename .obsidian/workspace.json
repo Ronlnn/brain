@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Projects/TESTTSTSTSS.md",
+                "file": "_templates/Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TESTTSTSTSS"
+              "title": "Projects"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Planning/Projects/TESTTSTSTSS.md",
+                "file": "_templates/Projects.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф TESTTSTSTSS"
+              "title": "Граф Projects"
             }
           }
         ]
@@ -253,8 +253,8 @@
   },
   "active": "fc733fc889337764",
   "lastOpenFiles": [
-    "Planning/00 Planning.md",
     "Planning/Projects/TESTTSTSTSS.md",
+    "Planning/00 Planning.md",
     "_templates/Projects.md",
     "_templates/Default.md",
     "Home.md",
