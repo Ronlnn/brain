@@ -3,12 +3,11 @@ tags:
   - planning
   - projects
 zero-links: "[[00 Planning]]"
-start: 
+start: 2002-02-14
 deadline:
 ---
 <%* let status = await tp.system.prompt("Status?")%>
 
-Дата начала - <% tp.frontmatter["start"]%>
 
 
 
