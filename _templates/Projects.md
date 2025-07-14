@@ -7,6 +7,7 @@ start: ""
 deadline:
 ---
 <%*
+tR += "🟡 Статус ?\n\n";
 let options = ["📫 Inbox", "📌 In Progress", "✅ Done"];
 let status = await tp.system.suggester(options,options)
 %>
