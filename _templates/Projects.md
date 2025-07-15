@@ -31,6 +31,7 @@ dv.paragraph(`📈 Progress::**${done}/${total}** — ${percent}%`);
 dv.paragraph(`![progress](https://progress-bar.xyz/${percent}/?width=${width})`);
 
 ```
-# <%tp.file.title%> || <%title%>
+# <%title%>
+
 
 ## Задачи
