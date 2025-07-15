@@ -28,12 +28,20 @@ for (let page of dv.pages('"6 Projects"')){
 		totalProjects += 1;
 	}
 }
-// Выполненные задачи
 let totalTasks = 0;
-for (let page of dv.pages("")){
-	if(page.tasks === "-[x]"){
-	totalTasks += 1;
-	}
+
+// Получаем все заметки
+for (let page of dv.pages()) {
+    const file = page.file;
+    if (!file || !file.path) continue;
+
+    const content = await app.vault.read(app.vault.getAbstractFileByPath(file.path));
+    
+    // Ищем выполненные задачи в тексте
+    const matches = content.match(/- \[[xX]\] .*/g);
+    if (matches) {
+        totalTasks += matches.length;
+    }
 }
 
 dv.header(2,`📑 Всего заметок: **${totalPages}**`);
@@ -107,5 +115,3 @@ rows.sort((a, b) => {
 dv.table(["Проект", "Статус", "Приоритет", "Дедлайн", "Прогресс"], rows);
 
 ```
-- [x] ff
-- [ ] 
