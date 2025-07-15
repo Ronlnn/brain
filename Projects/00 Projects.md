@@ -2,6 +2,8 @@
 tags:
   - planning
   - projects
+cssclasses:
+  - projects
 ---
 
 ```dataviewjs
