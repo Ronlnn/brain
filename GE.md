@@ -16,3 +16,9 @@ status:: 📫 Inbox
 priority::❕Low
 # GE
 
+```chart
+type: radialBar
+series:
+-name: Progress
+
+```
