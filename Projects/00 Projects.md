@@ -4,7 +4,6 @@ tags:
   - projects
 cssclasses:
   - projects
-anp-table-width: "1000"
 ---
 
 ```dataviewjs
