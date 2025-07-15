@@ -15,22 +15,16 @@ progress:
 status:: 📫 Inbox
 priority::❕Low
 # GE
-
-
+- [x] Hello
+- [x] e
+- [ ] 2
+- [ ] 
 
 ```dataviewjs
-    const totalPages = dv.current().totalPages
-    const currentPage = dv.current().currentPage
-    
-    dv.span(
-        "![progress](https://progress-bar.xyz/91/"
-        + parseInt((currentPage / totalPages) * 100)
-        + "/)"
-    )
+const page = dv.current();
+const total = page.file.tasks.length;
+const done = page.file.tasks.filter(t => t.completed).length;
+const percent = total === 0 ? 0 : Math.round((done / total) * 100);
+dv.paragraph(`![progress](https://progress-bar.xyz/${percent}/)`);
 ```
-
-
-
-
-
 
