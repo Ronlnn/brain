@@ -32,8 +32,4 @@ properties: [file.link, author, rating, status]
 
 ```
 
-```dataview
-table without id
-("![](" + cover + ")") as Cover
-from #books 
-```
+
