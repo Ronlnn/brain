@@ -10,6 +10,7 @@ publishDate: 2024-08-01
 cover: _attachments/books-cover/udk-js-1.jpg
 rating: ⭐⭐⭐⭐⭐
 status: 📈 Reading
+
 ---
 # 📔Познакомьтесь, JS
 

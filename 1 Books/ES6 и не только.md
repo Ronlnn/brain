@@ -10,5 +10,6 @@ publishDate: 2015-12-17
 cover: _attachments/books-cover/es6.jpg
 rating: ⭐⭐⭐⭐⭐
 status: 🔷 To Read
+
 ---
 # 📔ES6 и не только

@@ -10,5 +10,6 @@ publishDate: 2024-08-01
 cover: _attachments/books-cover/this-objects.jpg
 rating: ⭐⭐⭐⭐⭐
 status: 🔷 To Read
+
 ---
 # 📔This, прототипы объектов
