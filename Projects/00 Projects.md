@@ -17,28 +17,25 @@ for (let page of pages) {
     const status = page.status ?? "—";
     const priority = page.priority;
     let deadline = page.deadline;
-    //Прогресс и Бар
-    const links = page.file?.inlinks;
-	let done = 0;
-	let total = 0;
-	for (let link of links) {
-	    const linkedPage = dv.page(link.path);
-	    if (!linkedPage || !linkedPage.status) continue;
 
-	    total += 1;
-	    if (linkedPage.status.toLowerCase() === "done") {
-	        done += 1;
-	    }
-	}
-	const percent = total === 0 ? 0 : Math.round((done / total) * 100);
-	const width = 200;
-	let bar = (`![progress](https://progress-bar.xyz/${percent}/?width=${width})`);
+    // Асинхронно читаем содержимое файла для подсчёта задач
+    const content = await app.vault.read(app.vault.getAbstractFileByPath(page.file.path));
+    
+    // Считаем задачи
+    const tasks = content.match(/- \[[ xX]\] .*/g) || [];
+    const total = tasks.length;
+    const done = tasks.filter(t => /^- \[[xX]\]/.test(t)).length;
 
-//Добавляем все в rows
+    // Рассчитываем прогресс и создаём прогресс-бар
+    const percent = total === 0 ? 0 : Math.round((done / total) * 100);
+    const width = 200;
+    const bar = `![progress](https://progress-bar.xyz/${percent}/?width=${width})`;
+
+    // Добавляем в строки таблицы
     rows.push([page.file.link, status, priority, deadline, bar]);
 }
 
-//Сортировка по Приоритету
+// Сортировка по Приоритету
 const order = { high: 3, medium: 2, low: 1 };
 const clean = (text) => {
     return text?.toLowerCase()?.replace(/[^\w]/g, "") ?? "";
@@ -49,7 +46,8 @@ rows.sort((a, b) => {
     return pb - pa;
 });
 
-//Сама таблица
-dv.table(["Проект", "Статус","Приоритет" , "Дедлайн" , "Прогресс",], rows);
+// Вывод таблицы
+dv.table(["Проект", "Статус", "Приоритет", "Дедлайн", "Прогресс"], rows);
+
 ```
 

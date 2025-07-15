@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/GE.md",
+                "file": "Projects/00 Projects.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "GE"
+              "title": "00 Projects"
             }
           },
           {
@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -270,13 +270,14 @@
   },
   "active": "aac30d9eb4e1839b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Projects/Первая работа.md",
+    "Home.md",
     "Projects/00 Projects.md",
     "_templates/Projects.md",
+    "Projects/GE.md",
     "7 Obsidian/Синхронизация на Айфоне.md",
     "7 Obsidian/Дока по AnuPpuccin.md",
     "7 Obsidian/DataCards.md",
-    "Projects/GE.md",
     "Tess.md",
     "Pne.md",
     "Untitled 1.md",
@@ -295,7 +296,6 @@
     "4 Logs/00 Logs.md",
     "Task2.md",
     "Настраиваем Обсидиан.md",
-    "Home.md",
     "Planning/Tasks/ПП.md",
     "Planning/Tasks/Шаг 1.md",
     "5 Resources/Scripts/helpers.js",
