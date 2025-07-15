@@ -15,13 +15,12 @@ progress:
 status:: 📫 Inbox
 priority::❕Low
 # GE
-
-
 |       | Test1 | Test2 | Test3 |
 | ----- | ----- | ----- | ----- |
 | Data1 | 1     | 2     | 3.33  |
 | Data2 | 3     | 2     | 1     |
-| Data3 | 6.7   | 4     | 1     |
+| Data3 | 6.7   | 4     | 2     |
+
 
 ```chart
 type: bar
