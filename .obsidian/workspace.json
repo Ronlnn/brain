@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Projects/GE.md",
+                "file": "Projects/GE.md",
                 "mode": "source",
                 "source": false
               },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Planning/Projects/GE.md",
+                "file": "Projects/GE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,8 +253,10 @@
   },
   "active": "fc733fc889337764",
   "lastOpenFiles": [
-    "Planning/Projects/All.md",
-    "Planning/Projects/GE.md",
+    "Projects/00 Projects.md",
+    "Projects/GE.md",
+    "Planning/Tasks/ПП.md",
+    "Planning/Tasks/Шаг 1.md",
     "00 Planning]] [[ALl.md",
     "3 Problems/00 Problems.md",
     "3 Problems/React/01 React Problems.md",
@@ -277,11 +279,9 @@
     "Task2.md",
     "Task1.md",
     "Настраиваем Обсидиан.md",
-    "Planning/00 Planning.md",
-    "_templates/Default.md",
     "5 Resources/Scripts/helpers.js",
     "2 Programming/Linux",
-    "Planning/Projects",
+    "Projects",
     "Planning/Tasks",
     "Planning",
     "Без названия.canvas",

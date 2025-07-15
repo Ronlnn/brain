@@ -2,9 +2,7 @@
 tags:
   - planning
   - projects
-zero-links: "[[All]]"
-start: ""
-deadline: 17,июля,25
+zero-links: "[[00 Projects]]"
 prompt:
 ---
 📫 Inbox, 📌 In Progress, ✅ Done, ❕Low, ❗Medium,‼️High
@@ -27,12 +25,13 @@ for (let link of links) {
 
 const percent = total === 0 ? 0 : Math.round((done / total) * 100);
 const width = 700;
-dv.paragraph(`🧩 Progress::**${done}/${total}** — ${percent}%`);
+dv.paragraph(`📈 Progress::**${done}/${total}** — ${percent}%`);
 dv.paragraph(`![progress](https://progress-bar.xyz/${percent}/?width=${width})`);
 
 ```
-status:: 📫 Inbox
-priority::❕Low
+🔔 status:: 📫 Inbox
+⭕ priority::❕Low
+⏳ deadline:: 17 июля 25
 # GE
 
 ## Подзадачи
