@@ -24,7 +24,7 @@ priority::❕Low
 
 ```chart
 type: bar
-id: <blockId>
+id: Test1
 layout: rows
 width: 80%
 beginAtZero: true
