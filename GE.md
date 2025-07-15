@@ -15,10 +15,7 @@ progress:
 status:: 📫 Inbox
 priority::❕Low
 # GE
-- [x] Hello
-- [x] e
-- [ ] 2
-- [ ] 
+
 ## Подзадачи
 - [[Task1]]
 - [[Task2]]
@@ -43,9 +40,9 @@ for (let link of links) {
 }
 
 const percent = total === 0 ? 0 : Math.round((done / total) * 100);
-const width = 600;
+const width = 700;
 dv.paragraph(`🧩 Прогресс: **${done}/${total}** — ${percent}%`);
-dv.paragraph(`![progress](https://progress-bar.xyz/${percent}/&width=${width})`);
+dv.paragraph(`![progress](https://progress-bar.xyz/${percent}/?width=${width})`);
 
 ```
 
