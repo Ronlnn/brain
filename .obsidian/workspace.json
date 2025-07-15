@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Resources/Code Snippets/Bash/02 Bash Snippets.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Bash Snippets"
+              "title": "Home"
             }
           }
         ],
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5 Resources/Code Snippets/Bash/02 Bash Snippets.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 02 Bash Snippets"
+              "title": "Граф Home"
             }
           }
         ]
@@ -270,6 +270,10 @@
   },
   "active": "aac30d9eb4e1839b",
   "lastOpenFiles": [
+    "5 Resources/Passwords/01 Passwords.md",
+    "5 Resources/Passwords/Passwords.md",
+    "5 Resources/Passwords/GitHub Token brain.md",
+    "5 Resources/Code Snippets/Bash/02 Bash Snippets.md",
     "5 Resources/CheatSheets/01 CheatSheets.md",
     "_templates/Default.md",
     "_templates/📘Book.md",
@@ -292,10 +296,6 @@
     "6 Projects/Первая работа.md",
     "6 Projects/00 Projects.md",
     "Projects/GE.md",
-    "7 Obsidian/Синхронизация на Айфоне.md",
-    "7 Obsidian/Дока по AnuPpuccin.md",
-    "Tess.md",
-    "Pne.md",
     "_attachments/tmp",
     "_templates/tmp",
     "5 Resources/Scripts/helpers.js",
