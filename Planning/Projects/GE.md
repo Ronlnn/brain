@@ -6,8 +6,7 @@ zero-links: "[[00 Planning]]"
 start: ""
 deadline: 
 priority: ❕Low
-prompt: 
-status: 📫 Inbox
+prompt:
 ---
 📫 Inbox, 📌 In Progress, ✅ Done, ❕Low, ❗Medium,‼️High
 ```dataviewjs
@@ -29,11 +28,11 @@ for (let link of links) {
 
 const percent = total === 0 ? 0 : Math.round((done / total) * 100);
 const width = 700;
-dv.paragraph(`🧩 Progress:: **${done}/${total}** — ${percent}%`);
+dv.paragraph(`🧩 Progress::**${done}/${total}** — ${percent}%`);
 dv.paragraph(`![progress](https://progress-bar.xyz/${percent}/?width=${width})`);
 
 ```
-status: 📫 Inbox
+status:: 📫 Inbox
 priority::❕Low
 # GE
 
