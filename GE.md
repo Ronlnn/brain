@@ -20,4 +20,13 @@ priority::❕Low
 |       | Test1 | Test2 | Test3 |
 | ----- | ----- | ----- | ----- |
 | Data1 | 1     | 2     | 3.33  |
+| Data2 | 3     | 2     | 1     |
+| Data3 | 6.7   | 4     | 1     |
 
+```chart
+type: bar
+id: <blockId>
+layout: rows
+width: 80%
+beginAtZero: true
+```
