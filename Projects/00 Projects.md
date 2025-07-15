@@ -6,7 +6,10 @@ tags:
 
 ```dataviewjs
 const current = dv.current();
-const pages = current.file.inlinks.map(link => dv.page(link.path)).filter(p => p);
+const pages = current.file.inlinks
+    .map(link => dv.page(link.path))
+    .filter(p => p && p.file.name !== "Projects");
+
 
 let rows = [];
 
@@ -36,7 +39,7 @@ for (let page of pages) {
 
 dv.table(["Файл", "🔔 Статус","⭕ Приоритет" , "⏳ Дедлайн" , "📈 Прогресс",], rows);
 pages.sort((a, b) => {
-    const order = { high: 1, medium: 2, low: 3 };
+    const order = { high: 3, medium: 2, low: 1 };
     const pa = order[a.priority?.toLowerCase?.()] ?? 99;
     const pb = order[b.priority?.toLowerCase?.()] ?? 99;
     return pa - pb;

@@ -3,7 +3,7 @@ tags:
   - planning
   - projects
 zero-links: "[[00 Projects]]"
-prompt: <%*let statusOptions = ["📫 Inbox", "📌 In Progress", "✅ Done"];let status = await tp.system.suggester(statusOptions,statusOptions);%><%* let priorityOptions = ["❕Low", "❗Medium", "‼️High"]; let priority = await tp.system.suggester(priorityOptions,priorityOptions);%>
+prompt: 
 ---
 📫 Inbox, 📌 In Progress, ✅ Done, ❕Low, ❗Medium,‼️High
 ```dataviewjs
@@ -29,9 +29,9 @@ dv.paragraph(`📈 Progress::**${done}/${total}** — ${percent}%`);
 dv.paragraph(`![progress](https://progress-bar.xyz/${percent}/?width=${width})`);
 
 ```
-🔔 status:: <%status%>
-⭕ priority::<%priority%>
+🔔 status:: 📌 In Progress
+⭕ priority::‼️High
 ⏳ deadline:: 
-# <%tp.file.title%>
+# Untitled
 
 ## Задачи
