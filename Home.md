@@ -21,10 +21,27 @@ for (let page of dv.pages('"1 Books"')){
 		totalBooks += 1;
 	}
 }
+// Выполненные проекты-задачи
+let totalProjects = 0;
+for (let page of dv.pages('"6 Projects"')){
+	if(page.status === "✅ Done"){
+		totalProjects += 1;
+	}
+}
+// Выполненные задачи
+let totalTasks = 0;
+for (let page of dv.pages("")){
+	if(page.tasks === "-[x]"){
+	totalTasks += 1;
+	}
+}
 
 dv.header(2,`📑 Всего заметок: **${totalPages}**`);
 dv.header(2,`❗ Решено проблем: **${totalProblems}**`);
+dv.header(2,`📁 Выполнено проектов: **${totalProjects}**` );
+dv.header(2,`✅ Выполненные задачи: **${totalTasks}**`)
 dv.header(2,`📚 Прочитано книг: **${totalBooks}**`);
+
 
 ```
 ```dataviewjs
@@ -90,3 +107,5 @@ rows.sort((a, b) => {
 dv.table(["Проект", "Статус", "Приоритет", "Дедлайн", "Прогресс"], rows);
 
 ```
+- [x] ff
+- [ ] 
