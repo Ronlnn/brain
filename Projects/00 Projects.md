@@ -12,10 +12,17 @@ const pages = current.file.inlinks
 
 pages.sort((a, b) => {
     const order = { high: 3, medium: 2, low: 1 };
-    const pa = order[a.priority?.toLowerCase?.()] ?? 0;
-    const pb = order[b.priority?.toLowerCase?.()] ?? 0;
+
+    const clean = (p) => {
+        return p?.priority?.toLowerCase()?.replace(/[^\w]/g, "") ?? "";
+    };
+
+    const pa = order[clean(a)] ?? 0;
+    const pb = order[clean(b)] ?? 0;
+
     return pb - pa;
 });
+
 
 let rows = [];
 
@@ -44,8 +51,5 @@ for (let page of pages) {
 }
 
 dv.table(["Файл", "Статус","Приоритет" , "Дедлайн" , "Прогресс",], rows);
-
-
-
 ```
 

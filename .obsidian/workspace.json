@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/GE.md",
+                "file": "Projects/00 Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GE"
+              "title": "00 Projects"
             }
           }
         ],
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/GE.md",
+                "file": "Projects/00 Projects.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф GE"
+              "title": "Граф 00 Projects"
             }
           }
         ]
@@ -270,9 +270,9 @@
   },
   "active": "aac30d9eb4e1839b",
   "lastOpenFiles": [
+    "Projects/GE.md",
     "Projects/00 Projects.md",
     "Устроиться на первую работу.md",
-    "Projects/GE.md",
     "_templates/Projects.md",
     "Home.md",
     "Настраиваем Обсидиан.md",
