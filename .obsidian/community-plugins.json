@@ -28,5 +28,6 @@
   "obsidian-book-search-plugin",
   "obsidian-chartsview-plugin",
   "cmdr",
-  "obsidian-charts"
+  "obsidian-charts",
+  "progressbar"
 ]
