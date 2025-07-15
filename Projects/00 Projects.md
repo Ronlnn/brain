@@ -10,20 +10,6 @@ const pages = current.file.inlinks
     .map(link => dv.page(link.path))
     .filter(p => p && p.file.name !== "Projects");
 
-pages.sort((a, b) => {
-    const order = { high: 3, medium: 2, low: 1 };
-
-    const clean = (p) => {
-        return p?.priority?.toLowerCase()?.replace(/[^\w]/g, "") ?? "";
-    };
-
-    const pa = order[clean(a)] ?? 0;
-    const pb = order[clean(b)] ?? 0;
-
-    return pb - pa;
-});
-
-
 let rows = [];
 
 for (let page of pages) {
@@ -50,6 +36,6 @@ for (let page of pages) {
     rows.push([page.file.link, status, priority, deadline, bar]);
 }
 
-dv.table(["Файл", "Статус","Приоритет" , "Дедлайн" , "Прогресс",], rows);
+dv.table(["Файл", "Статус","Приоритет" , "Дедлайн" , "Прогресс",], rows.sort(b => b.priority));
 ```
 
