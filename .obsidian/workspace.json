@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/00 Projects.md",
+                "file": "_templates/Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Projects"
+              "title": "Projects"
             }
           }
         ],
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/00 Projects.md",
+                "file": "_templates/Projects.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 00 Projects"
+              "title": "Граф Projects"
             }
           }
         ]
@@ -268,16 +268,24 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "aac30d9eb4e1839b",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
     "Untitled.md",
-    "Task3.md",
-    "Без названия.md",
-    "Task1.md",
     "_templates/Projects.md",
-    "Projects/GE.md",
+    "Untitled 1.md",
+    "_attachments/tmp/3.md",
+    "_attachments/tmp/2.md",
+    "_attachments/tmp/1.md",
+    "_templates/❗Problems.md",
+    "_attachments/tmp",
+    "_templates/tmp",
+    "_templates/Без названия.md",
     "Projects/00 Projects.md",
     "Устроиться на первую работу.md",
+    "Task1.md",
+    "Task3.md",
+    "Без названия.md",
+    "Projects/GE.md",
     "7 Obsidian/Синхронизация на Айфоне.md",
     "Education/Выполненные цели/2025.md",
     "7 Obsidian/Дока по AnuPpuccin.md",
@@ -290,12 +298,6 @@
     "Planning/Tasks/Шаг 1.md",
     "00 Planning]] [[ALl.md",
     "3 Problems/00 Problems.md",
-    "3 Problems/React/01 React Problems.md",
-    "3 Problems/Js/01 Js Problems.md",
-    "3 Problems/Git/01 Git Problems.md",
-    "3 Problems/CSS/01 Css Problems.md",
-    "7 Obsidian/00 Obsidian.md",
-    "7 Obsidian/Dataview/01 Dataview.md",
     "5 Resources/Scripts/helpers.js",
     "2 Programming/Linux",
     "Projects",
@@ -305,8 +307,6 @@
     "Education/Выполненные цели",
     "Education",
     "6 Tasks/Выйти на первую работу",
-    "2 Programming/Собесы",
-    "4 Logs/2025/Июль",
     "_attachments/pixel-banner-images/movie.jpeg",
     "_attachments/pixel-banner-images/table.png",
     "_attachments/pixel-banner-images/purpleIt.png",
