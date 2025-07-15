@@ -7,8 +7,7 @@
     "floating-status-bar",
     "ThreadingBullet",
     "floating-search-bar",
-    "close-window",
-    "projects"
+    "close-window"
   ],
   "baseFontSize": 20,
   "baseFontSizeAction": false

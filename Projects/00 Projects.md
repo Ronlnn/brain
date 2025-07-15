@@ -2,8 +2,9 @@
 tags:
   - planning
   - projects
-cssclass:
+cssclasses:
   - projects
+anp-table-width: "1000"
 ---
 
 ```dataviewjs

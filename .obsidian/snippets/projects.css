@@ -1,12 +1,15 @@
-/* Стили для заметок с cssclass: projects */
-.markdown-preview-view.projects table.dataview {
+/* Общее: применяет ко всем режимам, включая предпросмотр и Live Preview */
+.markdown-preview-view.projects table.dataview,
+.markdown-source-view.mod-cm6.projects table.dataview {
     width: 100% !important;
     table-layout: fixed;
     border-collapse: collapse;
 }
 
 .markdown-preview-view.projects table.dataview th,
-.markdown-preview-view.projects table.dataview td {
+.markdown-preview-view.projects table.dataview td,
+.markdown-source-view.mod-cm6.projects table.dataview th,
+.markdown-source-view.mod-cm6.projects table.dataview td {
     padding: 10px;
     text-align: left;
     font-size: 14px;
@@ -15,35 +18,42 @@
     border-bottom: 1px solid var(--text-faint);
 }
 
-.markdown-preview-view.projects table.dataview tr:nth-child(even) {
+.markdown-preview-view.projects table.dataview tr:nth-child(even),
+.markdown-source-view.mod-cm6.projects table.dataview tr:nth-child(even) {
     background-color: var(--background-modifier-hover);
 }
 
-.markdown-preview-view.projects table.dataview td:nth-child(1) {
+.markdown-preview-view.projects table.dataview td:nth-child(1),
+.markdown-source-view.mod-cm6.projects table.dataview td:nth-child(1) {
     width: 25%;
 }
 
-.markdown-preview-view.projects table.dataview td:nth-child(5) {
+.markdown-preview-view.projects table.dataview td:nth-child(5),
+.markdown-source-view.mod-cm6.projects table.dataview td:nth-child(5) {
     width: 30%;
 }
 
-.markdown-preview-view.projects .progress-bar {
+/* Прогресс-бар */
+.markdown-preview-view.projects .progress-bar,
+.markdown-source-view.mod-cm6.projects .progress-bar {
     background: var(--background-modifier-form);
     border-radius: 6px;
     overflow: hidden;
     height: 16px;
 }
 
-.markdown-preview-view.projects .progress-bar-inner {
+.markdown-preview-view.projects .progress-bar-inner,
+.markdown-source-view.mod-cm6.projects .progress-bar-inner {
     height: 16px;
     text-align: center;
     font-size: 12px;
     color: var(--text-accent);
-    background-color: #f9a825; /* желтый */
+    background-color: #f9a825;
     transition: width 0.3s ease;
 }
 
-.markdown-preview-view.projects .progress-bar-inner.complete {
-    background-color: #4caf50; /* зеленый */
+.markdown-preview-view.projects .progress-bar-inner.complete,
+.markdown-source-view.mod-cm6.projects .progress-bar-inner.complete {
+    background-color: #4caf50;
     color: #fff;
 }
