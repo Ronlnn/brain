@@ -1,11 +1,11 @@
 ---
-prompt: <%* let title = await tp.system.prompt("Имя Проекта?") %><%*let statusOptions = ["📫 ToDo", "📌 Doing", "✅ Done"];let status = await tp.system.suggester(statusOptions,statusOptions);%><%* let priorityOptions = ["❕Low", "❗Medium", "‼️High"]; let priority = await tp.system.suggester(priorityOptions,priorityOptions);%>
+prompt: 
 tags:
   - planning
   - projects
 zero-links: "[[00 Projects]]"
-status: <%status%>
-priority: <%priority%>
+status: 📫 ToDo
+priority: ❕Low
 deadline:
 ---
 ```dataviewjs
@@ -26,7 +26,7 @@ dv.paragraph(`📈 Progress:: **${done}/${total}** — ${percent}%`);
 dv.paragraph(`![progress](https://progress-bar.xyz/${percent}/?width=${width})`);
 
 ```
-# <%title%>
+# ff
 
 
 ## 📅 Задачи:
