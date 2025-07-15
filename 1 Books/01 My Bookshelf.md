@@ -10,10 +10,11 @@ TABLE
   rating, 
   genre, 
   "![]("+cover+")" as cover,
-  status,
+  status
 FROM #books 
 WHERE !contains(file.path, "_templates/📘Book")
 SORT status DESC
+
 
 // Settings
 preset: portrait
@@ -33,6 +34,6 @@ properties: [file.link, author, rating, status]
 
 ```dataview
 table without id
-"![]("+cover+")" as cover
+("![](" + cover + ")") as Cover
 from #books 
 ```
