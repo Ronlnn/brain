@@ -11,7 +11,11 @@ TABLE
   genre, 
   "![]("+cover+")" as cover,
   status,
-  pages 
+  pages,
+  pages_read,
+  "[![](https://progress-bar.xyz/" + 
+    (round((pages_read / pages) * 100)) + 
+    "?width=200)]" as "📚 Progress"
 FROM #books 
 WHERE !contains(file.path, "_templates/📘Book")
 SORT status DESC
@@ -26,8 +30,9 @@ imageHeight: 200px
 fontSize: "small"
 enableShadows: true
 cardSpacing: 12
-contentHeight: 50px
+contentHeight: 60px
 defaultDateFormat: DD-MM-YY
-properties: [file.link, author, rating, status]
+properties: [file.link, author, rating, status, progress]
+
 ```
 
