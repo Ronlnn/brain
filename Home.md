@@ -1,9 +1,7 @@
 ---
-banner: "![[_attachments/pixel-banner-images/zenitsu.png]]"
-banner-x: 39
-banner-y: 20
-banner-display: auto
-banner-repeat: false
+banner: "![[_attachments/pixel-banner-images/astraunaft.jpg]]"
+banner-x: 49
+banner-y: 54
 ---
 ```dataviewjs
 // Решенные проблемы

@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Projects/00 Projects.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Projects"
+              "title": "Home"
             }
           }
         ],
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/00 Projects.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 00 Projects"
+              "title": "Граф Home"
             }
           }
         ]
@@ -270,6 +270,8 @@
   },
   "active": "aac30d9eb4e1839b",
   "lastOpenFiles": [
+    "6 Projects/00 Projects.md",
+    "Home.md",
     "_attachments/pixel-banner-images/berserk-swords.jpg",
     "_attachments/pixel-banner-images/catsle-pixle.jpg",
     "_attachments/pixel-banner-images/girl.jpg",
@@ -281,9 +283,6 @@
     "_attachments/pixel-banner-images/zenitsu-color.jpg",
     "_attachments/pixel-banner-images/samurai-bushido.jpg",
     "_templates/📁Projects.md",
-    "6 Projects/00 Projects.md",
-    "Home.md",
-    "_attachments/pixel-banner-images/rei.jpg",
     "6 Projects/Первая работа.md",
     "5 Resources/Passwords/01 Passwords.md",
     "5 Resources/Passwords/Passwords.md",
