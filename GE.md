@@ -7,8 +7,7 @@ start: ""
 deadline: 
 priority: ❕Low
 status: 📫 Inbox
-prompt: 
-progress:
+prompt:
 ---
 📫 Inbox, 📌 In Progress, ✅ Done, ❕Low, ❗Medium,‼️High
 
