@@ -1,6 +1,8 @@
 ---
 cssclasses:
   - cards
+  - cards-cover
+  - cards-1-1, table-max, cards-cols-4
 ---
 
 ```dataview
