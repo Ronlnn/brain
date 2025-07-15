@@ -7,7 +7,7 @@ category: it
 pages: "178"
 pages_read: "0"
 publishDate: 2024-08-01
-cover: _attachments/books-cover/this-objects.jpg
+cover: https://cdn.litres.ru/pub/c/cover_415/43123803.webp
 rating: ⭐⭐⭐⭐⭐
 status: 📌 To Read
 ---

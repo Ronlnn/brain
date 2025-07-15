@@ -7,10 +7,9 @@ category: it
 pages: "178"
 pages_read: "0"
 publishDate: 2024-08-01
-cover: _attachments/books-cover/udk-js-1.jpg
+cover: https://cdn.litres.ru/pub/c/cover_415/66658092.webp
 rating: ⭐⭐⭐⭐⭐
 status: 📈 Reading
-
 ---
 # 📔Познакомьтесь, JS
 
