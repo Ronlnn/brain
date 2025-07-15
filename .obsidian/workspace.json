@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Projects/All.md",
+                "file": "Planning/Projects/GE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All"
+              "title": "GE"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Planning/Projects/All.md",
+                "file": "Planning/Projects/GE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф All"
+              "title": "Граф GE"
             }
           }
         ]
@@ -253,8 +253,9 @@
   },
   "active": "fc733fc889337764",
   "lastOpenFiles": [
-    "Planning/Projects/GE.md",
     "Planning/Projects/All.md",
+    "Planning/Projects/GE.md",
+    "00 Planning]] [[ALl.md",
     "3 Problems/00 Problems.md",
     "3 Problems/React/01 React Problems.md",
     "3 Problems/Js/01 Js Problems.md",
@@ -279,7 +280,6 @@
     "Planning/00 Planning.md",
     "_templates/Default.md",
     "5 Resources/Scripts/helpers.js",
-    "Untitled 1.md",
     "2 Programming/Linux",
     "Planning/Projects",
     "Planning/Tasks",

@@ -2,7 +2,7 @@
 tags:
   - planning
   - projects
-zero-links: "[[00 Planning]]"
+zero-links: "[[All]]"
 start: ""
 deadline: 
 priority: ❕Low
