@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/📑Theory.md",
+                "file": "5 Resources/Code Snippets/Bash/02 Bash Snippets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📑Theory"
+              "title": "02 Bash Snippets"
             }
           }
         ],
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_templates/📑Theory.md",
+                "file": "5 Resources/Code Snippets/Bash/02 Bash Snippets.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 📑Theory"
+              "title": "Граф 02 Bash Snippets"
             }
           }
         ]
@@ -270,6 +270,14 @@
   },
   "active": "aac30d9eb4e1839b",
   "lastOpenFiles": [
+    "5 Resources/CheatSheets/01 CheatSheets.md",
+    "_templates/Default.md",
+    "_templates/📘Book.md",
+    "_templates/📑Theory.md",
+    "_templates/📅Logs.md",
+    "_templates/📁Projects.md",
+    "_templates/❗Problems.md",
+    "FF.md",
     "7 Obsidian/DataCards.md",
     "7 Obsidian/00 Obsidian.md",
     "7 Obsidian/Dataview/01 Dataview.md",
@@ -279,25 +287,17 @@
     "1 Books/02 Reading now.md",
     "1 Books/02 Finished books.md",
     "1 Books/01 My Bookshelf.md",
-    "_templates/📘Book.md",
     "Home.md",
     "Настраиваем Обсидиан.md",
     "6 Projects/Первая работа.md",
-    "_templates/📁Projects.md",
     "6 Projects/00 Projects.md",
     "Projects/GE.md",
     "7 Obsidian/Синхронизация на Айфоне.md",
     "7 Obsidian/Дока по AnuPpuccin.md",
     "Tess.md",
     "Pne.md",
-    "Untitled 1.md",
-    "_attachments/tmp/3.md",
-    "_attachments/tmp/2.md",
-    "_attachments/tmp/1.md",
-    "_templates/❗Problems.md",
     "_attachments/tmp",
     "_templates/tmp",
-    "_templates/Без названия.md",
     "5 Resources/Scripts/helpers.js",
     "2 Programming/Linux",
     "6 Projects",

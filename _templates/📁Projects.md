@@ -1,5 +1,5 @@
 ---
-prompt: <%* let title = await tp.system.prompt("Имя Проекта?") %><%*let statusOptions = ["📫 ToDo", "📌 Doing", "✅ Done"];let status = await tp.system.suggester(statusOptions,statusOptions);%><%* let priorityOptions = ["❕Low", "❗Medium", "‼️High"]; let priority = await tp.system.suggester(priorityOptions,priorityOptions);%>
+prompt: <%* let title = await tp.system.prompt("Имя Проекта?") %><%tp.file.rename(title)%><%*let statusOptions = ["📫 ToDo", "📌 Doing", "✅ Done"];let status = await tp.system.suggester(statusOptions,statusOptions);%><%* let priorityOptions = ["❕Low", "❗Medium", "‼️High"]; let priority = await tp.system.suggester(priorityOptions,priorityOptions);%>
 tags:
   - planning
   - projects
@@ -31,7 +31,7 @@ if (!filePath) {
 ```
 # <%title%>
 ## 📑 Описание:
-- 
+- <% tp.file.cursor() %>
 ## 📅 Задачи:
 
 
