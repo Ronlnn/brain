@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "6 Projects/01 Цели.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "01 Цели"
             }
           }
         ],
@@ -214,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -227,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "6 Projects/01 Цели.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +255,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Home"
+              "title": "Граф 01 Цели"
             }
           }
         ]
@@ -282,11 +282,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "b73ef9dfcce10b7d",
+  "active": "d3352128d6f925ce",
   "lastOpenFiles": [
     "6 Projects/Порядочный иностранец.md",
-    "6 Projects/Гик Обсидиана.md",
+    "6 Projects/Первая работа.md",
     "Home.md",
+    "6 Projects/Гик Обсидиана.md",
     "6 Projects/00 Projects.md",
     "1 Books/This, прототипы объектов.md",
     "1 Books/ES6 и не только.md",
@@ -309,7 +310,6 @@
     "1 Books/Владычица Озера.md",
     "1 Books/Ведьмак Сезон гроз. Дорога без возврата.md",
     "1 Books/Ведьмак Последнее желание.Меч предназначения.md",
-    "1 Books/Ведьмак Кровь Эльфов.Час Презрения.md",
     "6 Projects/archive",
     "_attachments/pixel-banner-images/berserk-swords.jpg",
     "_attachments/pixel-banner-images/catsle-pixle.jpg",
