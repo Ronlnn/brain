@@ -13,9 +13,9 @@ TABLE
   status,
   pages,
   pages_read,
-  "[![](https://progress-bar.xyz/" + 
-    (round((pages_read / pages) * 100)) + 
-    "?width=200)]" as "📚 Progress"
+  "[![](https://progress-bar.dev/" + 
+    (round(toNumber(pages_read) / toNumber(pages) * 100)) + 
+    ")]" as "📚 Progress"
 FROM #books 
 WHERE !contains(file.path, "_templates/📘Book")
 SORT status DESC
@@ -32,7 +32,8 @@ enableShadows: true
 cardSpacing: 12
 contentHeight: 60px
 defaultDateFormat: DD-MM-YY
-properties: [file.link, author, rating, status, progress]
+properties: [file.link, author, rating, status, pages,pages_read]
+
 
 ```
 

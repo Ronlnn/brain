@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Books/Ведьмак Кровь Эльфов.Час Презрения.md",
+                "file": "1 Books/01 My Bookshelf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ведьмак Кровь Эльфов.Час Презрения"
+              "title": "01 My Bookshelf"
             }
           }
         ],
@@ -227,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Books/Ведьмак Кровь Эльфов.Час Презрения.md",
+                "file": "1 Books/01 My Bookshelf.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +255,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Ведьмак Кровь Эльфов.Час Презрения"
+              "title": "Граф 01 My Bookshelf"
             }
           }
         ]
@@ -284,12 +284,14 @@
   },
   "active": "b73ef9dfcce10b7d",
   "lastOpenFiles": [
-    "1 Books/Ведьмак Крещение огнем. Башня ласточки.md",
     "1 Books/Асинхронка и оптимизация.md",
+    "1 Books/01 My Bookshelf.md",
+    "1 Books/Ведьмак Крещение огнем. Башня ласточки.md",
+    "1 Books/1984.md",
     "1 Books/45 татуировок личности.md",
+    "1 Books/Ведьмак Кровь Эльфов.Час Презрения.md",
     "1 Books/02 Reading now.md",
     "1 Books/02 Finished books.md",
-    "1 Books/01 My Bookshelf.md",
     "1 Books/This, прототипы объектов.md",
     "1 Books/ES6 и не только.md",
     "1 Books/Типы, Грам.конструкции.md",
@@ -308,8 +310,6 @@
     "1 Books/Дюна.md",
     "1 Books/Грокаем алгоритмы.md",
     "1 Books/Граница Империи.md",
-    "1 Books/Владычица Озера.md",
-    "1 Books/Ведьмак Сезон гроз. Дорога без возврата.md",
     "6 Projects/archive",
     "_attachments/pixel-banner-images/berserk-swords.jpg",
     "_attachments/pixel-banner-images/catsle-pixle.jpg",
