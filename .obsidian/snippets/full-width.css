@@ -1,0 +1,12 @@
+/* Убирает ограничение ширины рабочей области */
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-scroller {
+    max-width: none !important;
+    width: 100% !important;
+}
+
+/* Центрирование контента, если хочешь */
+.workspace-split.mod-root .workspace-leaf-content {
+    padding-left: 24px;
+    padding-right: 24px;
+}

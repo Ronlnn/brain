@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.51103591918945
   },
   "right": {
     "id": "1c5ed590a4ae4b32",
@@ -248,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,11 +270,21 @@
   },
   "active": "aac30d9eb4e1839b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Task3.md",
+    "Без названия.md",
+    "Task1.md",
+    "_templates/Projects.md",
     "Projects/GE.md",
     "Projects/00 Projects.md",
     "Устроиться на первую работу.md",
+    "7 Obsidian/Синхронизация на Айфоне.md",
+    "Education/Выполненные цели/2025.md",
+    "7 Obsidian/Дока по AnuPpuccin.md",
+    "1 Books/01 My Bookshelf.md",
+    "4 Logs/00 Logs.md",
+    "Task2.md",
     "Настраиваем Обсидиан.md",
-    "_templates/Projects.md",
     "Home.md",
     "Planning/Tasks/ПП.md",
     "Planning/Tasks/Шаг 1.md",
@@ -286,16 +296,6 @@
     "3 Problems/CSS/01 Css Problems.md",
     "7 Obsidian/00 Obsidian.md",
     "7 Obsidian/Dataview/01 Dataview.md",
-    "1 Books/00 Books.md",
-    "2 Programming/React/01 React.md",
-    "2 Programming/Linux/01 Linux.md",
-    "2 Programming/00 Programming.md",
-    "5 Resources/00 Resources.md",
-    "7 Obsidian/DataCards.md",
-    "Planning/Projects/Test1.md",
-    "Planning/Projects/TESTTSTSTSS.md",
-    "Task3.md",
-    "Task2.md",
     "5 Resources/Scripts/helpers.js",
     "2 Programming/Linux",
     "Projects",

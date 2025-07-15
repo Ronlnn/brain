@@ -7,7 +7,8 @@
     "floating-status-bar",
     "ThreadingBullet",
     "floating-search-bar",
-    "close-window"
+    "close-window",
+    "full-width"
   ],
   "baseFontSize": 20,
   "baseFontSizeAction": false

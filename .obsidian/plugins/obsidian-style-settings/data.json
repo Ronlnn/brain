@@ -66,7 +66,7 @@
   "anuppuccin-theme-settings@@anp-alt-tab-custom-height": 40,
   "anuppuccin-theme-settings@@anp-disable-newtab-align": false,
   "anuppuccin-theme-settings@@anp-depth-tab-opacity": 0.6,
-  "anuppuccin-theme-settings@@anp-translucency-opacity": 0.15,
+  "anuppuccin-theme-settings@@anp-translucency-opacity": 1,
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,
   "anuppuccin-theme-settings@@anp-header-margin-toggle": false,
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true,

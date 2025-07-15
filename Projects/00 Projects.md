@@ -5,7 +5,6 @@ tags:
 cssclasses:
   - projects
 ---
-
 ```dataviewjs
 const current = dv.current();
 const pages = current.file.inlinks
