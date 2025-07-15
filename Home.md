@@ -74,7 +74,7 @@ if (statsFile) {
 const current = dv.pages('"6 Projects"');
 const pages = current.file.inlinks
     .map(link => dv.page(link.path))
-    .filter(p => p && p.file.name !== "📁Projects");
+    .filter(p => p && p.file.name !== "📁Projects" && p.file.name !== "01 Цели");
 
 let rows = [];
 
