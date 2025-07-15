@@ -9,7 +9,8 @@
     "floating-search-bar",
     "close-window",
     "full-width",
-    "projects"
+    "projects",
+    "cards"
   ],
   "baseFontSize": 20,
   "baseFontSizeAction": false

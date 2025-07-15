@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Books/01 Test.md",
+                "file": "1 Books/01 My Bookshelf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Test"
+              "title": "01 My Bookshelf"
             }
           }
         ],
@@ -227,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Books/01 Test.md",
+                "file": "1 Books/01 My Bookshelf.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +255,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 01 Test"
+              "title": "Граф 01 My Bookshelf"
             }
           }
         ]
@@ -284,13 +284,13 @@
   },
   "active": "b73ef9dfcce10b7d",
   "lastOpenFiles": [
+    "1 Books/01 Test.md",
+    "1 Books/45 татуировок личности.md",
+    "1 Books/02 Reading now.md",
     "1 Books/Асинхронка и оптимизация.md",
     "1 Books/01 My Bookshelf.md",
-    "1 Books/01 Test.md",
     "1 Books/00 Books.md",
     "1 Books/02 Finished books.md",
-    "1 Books/02 Reading now.md",
-    "1 Books/45 татуировок личности.md",
     "1 Books/Сила Воли.md",
     "1 Books/Типы, Грам.конструкции.md",
     "1 Books/Грокаем алгоритмы.md",
