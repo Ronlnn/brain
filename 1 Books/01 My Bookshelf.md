@@ -12,7 +12,8 @@ TABLE
   "![]("+cover+")" as cover,
   status,
   pages 
-FROM #books
+FROM #books 
+WHERE !contains(file.path, "_templates/📘Book")
 SORT status DESC
 
 // Settings

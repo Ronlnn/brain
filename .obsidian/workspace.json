@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/📁Projects.md",
+                "file": "_templates/📑Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📁Projects"
+              "title": "📑Theory"
             }
           }
         ],
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_templates/📁Projects.md",
+                "file": "_templates/📑Theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 📁Projects"
+              "title": "Граф 📑Theory"
             }
           }
         ]
@@ -270,14 +270,24 @@
   },
   "active": "aac30d9eb4e1839b",
   "lastOpenFiles": [
+    "7 Obsidian/DataCards.md",
+    "7 Obsidian/00 Obsidian.md",
+    "7 Obsidian/Dataview/01 Dataview.md",
+    "3 Problems/00 Problems.md",
+    "4 Logs/00 Logs.md",
+    "1 Books/45 татуировок личности.md",
+    "1 Books/02 Reading now.md",
+    "1 Books/02 Finished books.md",
+    "1 Books/01 My Bookshelf.md",
+    "_templates/📘Book.md",
     "Home.md",
+    "Настраиваем Обсидиан.md",
+    "6 Projects/Первая работа.md",
     "_templates/📁Projects.md",
     "6 Projects/00 Projects.md",
-    "6 Projects/Первая работа.md",
     "Projects/GE.md",
     "7 Obsidian/Синхронизация на Айфоне.md",
     "7 Obsidian/Дока по AnuPpuccin.md",
-    "7 Obsidian/DataCards.md",
     "Tess.md",
     "Pne.md",
     "Untitled 1.md",
@@ -288,16 +298,6 @@
     "_attachments/tmp",
     "_templates/tmp",
     "_templates/Без названия.md",
-    "Устроиться на первую работу.md",
-    "Task1.md",
-    "Task3.md",
-    "Education/Выполненные цели/2025.md",
-    "1 Books/01 My Bookshelf.md",
-    "4 Logs/00 Logs.md",
-    "Task2.md",
-    "Настраиваем Обсидиан.md",
-    "Planning/Tasks/ПП.md",
-    "Planning/Tasks/Шаг 1.md",
     "5 Resources/Scripts/helpers.js",
     "2 Programming/Linux",
     "6 Projects",
