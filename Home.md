@@ -1,7 +1,7 @@
 ---
-banner: "![[_attachments/pixel-banner-images/griffit.png]]"
-banner-x: 82
-banner-y: 19
+banner: "![[_attachments/pixel-banner-images/guts-griffit.jpg]]"
+banner-x: 56
+banner-y: 10
 banner-display: auto
 banner-repeat: false
 ---
