@@ -6,20 +6,10 @@ zero-links: "[[00 Planning]]"
 start: ""
 deadline: 
 priority: ❕Low
-prompt:
+prompt: 
+status: 📫 Inbox
 ---
 📫 Inbox, 📌 In Progress, ✅ Done, ❕Low, ❗Medium,‼️High
-
-status:: 📫 Inbox
-priority::❕Low
-# GE
-
-## Подзадачи
-- [[Task1]]
-- [[Task2]]
-- [[Task3]]
-
-
 ```dataviewjs
 const page = dv.current();
 const links = page.file?.inlinks;
@@ -43,4 +33,15 @@ dv.paragraph(`🧩 Progress:: **${done}/${total}** — ${percent}%`);
 dv.paragraph(`![progress](https://progress-bar.xyz/${percent}/?width=${width})`);
 
 ```
+status: 📫 Inbox
+priority::❕Low
+# GE
+
+## Подзадачи
+- [[Task1]]
+- [[Task2]]
+- [[Task3]]
+
+
+
 
