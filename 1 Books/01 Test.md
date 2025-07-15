@@ -11,7 +11,9 @@ TABLE without id
   file.link ,
   status,
   rating,
-  progressBar
+  progressBar,
+    "<progress max='100' value='" + (round((pages_read / pages) * 100)) + "' style='width:100%; height:6px;'></progress> " + 
+  (round((pages_read / pages) * 100)) + "% (" + pages_read + "/" + pages + ")" AS "Прогресс"
 FROM #books
 WHERE !contains(file.path, "_templates/📘Book")
 ```
