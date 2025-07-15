@@ -11,9 +11,6 @@ TABLE
   genre, 
   "![]("+cover+")" as cover,
   status,
-  pages,
-  pages_read,
-  progress_bar,
 FROM #books 
 WHERE !contains(file.path, "_templates/📘Book")
 SORT status DESC
@@ -30,12 +27,12 @@ enableShadows: true
 cardSpacing: 12
 contentHeight: 60px
 defaultDateFormat: DD-MM-YY
-properties: [file.link, author, rating, status, pages, pages_read, progress_bar]
+properties: [file.link, author, rating, status]
 
 ```
 
 ```dataview
 table without id
-("![](" + this.file.path + "/../" + cover + ")") as Cover
+"![]("+cover+")" as cover
 from #books 
 ```
