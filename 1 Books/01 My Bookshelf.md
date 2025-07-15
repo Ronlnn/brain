@@ -2,34 +2,28 @@
 banner: "![[_attachments/pixel-banner-images/library.png]]"
 banner-x: 51
 banner-y: 46
+cssclasses:
+  - cards
+  - cards-1-1,
+  - cards-cols-4
+  - cards-cover
+  - table-max,
 ---
-```datacards
-TABLE 
-  file.link as "Title", 
-  author, 
-  rating, 
-  genre, 
-  "![]("+cover+")" as cover,
-  status
-FROM #books 
+```dataview
+TABLE WITHOUT ID
+  "![](" + cover + ")" AS "Обложка",
+  file.link ,
+  author,
+  status ,
+  rating ,
+  "<progress max='100' value='" + 
+    (round((number(pages_read) / number(pages)) * 100)) + 
+    "' style='width:100%; height:6px;'></progress> " + 
+    (round((number(pages_read) / number(pages)) * 100)) + 
+    "% (" + pages_read + "/" + pages + ")" AS "Прогресс"
+FROM #books
 WHERE !contains(file.path, "_templates/📘Book")
-SORT status DESC
-
-
-// Settings
-preset: portrait
-columns: 4
-imageProperty: cover
-imageFit: cover
-imageSize: large
-imageHeight: 200px
-fontSize: "small"
-enableShadows: true
-cardSpacing: 12
-contentHeight: 60px
-defaultDateFormat: DD-MM-YY
-properties: [file.link, author, rating, status]
-
+SORT status desc
 ```
 
 

@@ -6,9 +6,8 @@ author: Кайл Симпсон
 category: it
 pages: "178"
 pages_read: "0"
-publishDate: 2024-08-01
 cover: https://cdn.litres.ru/pub/c/cover_415/43123803.webp
-rating: ⭐⭐⭐⭐⭐
+rating: ⭐
 status: 📌 To Read
 ---
 # 📔This, прототипы объектов
