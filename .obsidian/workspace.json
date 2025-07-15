@@ -262,7 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,10 +284,11 @@
   },
   "active": "b73ef9dfcce10b7d",
   "lastOpenFiles": [
+    "1 Books/1984.md",
     "1 Books/45 татуировок личности.md",
+    "1 Books/02 Reading now.md",
     "1 Books/01 Test.md",
     "1 Books/02 Finished books.md",
-    "1 Books/1984.md",
     "1 Books/This, прототипы объектов.md",
     "1 Books/ES6 и не только.md",
     "1 Books/Типы, Грам.конструкции.md",
@@ -309,7 +310,6 @@
     "1 Books/Владычица Озера.md",
     "1 Books/Ведьмак Сезон гроз. Дорога без возврата.md",
     "1 Books/Ведьмак Последнее желание.Меч предназначения.md",
-    "1 Books/Ведьмак Кровь Эльфов.Час Презрения.md",
     "_attachments/books-cover/45-tatu.png",
     "_attachments/books-cover/1984.jpg",
     "6 Projects/archive",

@@ -5,10 +5,11 @@ cssclasses:
 
 ```dataview
 TABLE without id
-  "![](" + cover + ")" AS "Обложка",
-  file.link AS "Книга",
-  status AS "Статус",
-  progressBar AS "Прогресс"
+  "![]("+cover+")",
+  file.link ,
+  status,
+  rating,
+  progressBar
 FROM #books
 WHERE !contains(file.path, "_templates/📘Book")
 ```
