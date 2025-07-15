@@ -1,3 +1,9 @@
+---
+tags:
+  - planning
+  - projects
+---
+
 ```dataviewjs
 const current = dv.current();
 const pages = current.file.inlinks.map(link => dv.page(link.path)).filter(p => p);
