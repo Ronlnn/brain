@@ -2,7 +2,7 @@
 tags:
   - planning
   - projects
-cssclasses:
+cssclass:
   - projects
 ---
 
