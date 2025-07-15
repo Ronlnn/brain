@@ -18,6 +18,17 @@ priority::❕Low
 
 
 
+```dataviewjs
+    const totalPages = dv.current().totalPages
+    const currentPage = dv.current().currentPage
+    
+    dv.span(
+        "![progress](https://progress-bar.xyz/91/"
+        + parseInt((currentPage / totalPages) * 100)
+        + "/)"
+    )
+```
+
 
 
 
