@@ -1,7 +1,7 @@
 ---
-banner: "![[_attachments/pixel-banner-images/greenIt.png]]"
-banner-x: 43
-banner-y: 27
+banner: "![[_attachments/pixel-banner-images/griffit.png]]"
+banner-x: 82
+banner-y: 19
 banner-display: auto
 banner-repeat: false
 ---
