@@ -6,7 +6,7 @@
     "problems": "text",
     "Date-Create": "date",
     "date": "date",
-    "deadline": "date",
+    "deadline": "text",
     "start": "date"
   }
 }

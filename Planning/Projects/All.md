@@ -6,12 +6,28 @@ let rows = [];
 
 for (let page of pages) {
     const status = page.status ?? "—";
-    const progress = parseInt(page.progress ?? 0);
-    const bar = `![bar](https://progress-bar.xyz/${progress}/?width=200&fg=4ade80&bg=e5e7eb)`;
+    const priority = page.priority;
+    let deadline = page.deadline;
+    const links = page.file?.inlinks;
+	let done = 0;
+	let total = 0;
 
-    rows.push([page.file.link, status, `${progress}%`, bar]);
+	for (let link of links) {
+	    const linkedPage = dv.page(link.path);
+	    if (!linkedPage || !linkedPage.status) continue;
+
+	    total += 1;
+	    if (linkedPage.status.toLowerCase() === "done") {
+	        done += 1;
+	    }
+	}
+	const percent = total === 0 ? 0 : Math.round((done / total) * 100);
+	const width = 200;
+	let bar = (`![progress](https://progress-bar.xyz/${percent}/?width=${width})`);
+	
+    rows.push([page.file.link, status, priority, deadline, bar]);
 }
 
-dv.table(["Файл", "Статус", "Прогресс", "Бар"], rows);
+dv.table(["Файл", "Статус","Приоритет" , "Дедлайн" , "Прогресс",], rows);
 
 ```

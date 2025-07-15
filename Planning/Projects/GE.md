@@ -4,8 +4,7 @@ tags:
   - projects
 zero-links: "[[All]]"
 start: ""
-deadline: 
-priority: ❕Low
+deadline: 17,июля,25
 prompt:
 ---
 📫 Inbox, 📌 In Progress, ✅ Done, ❕Low, ❗Medium,‼️High
