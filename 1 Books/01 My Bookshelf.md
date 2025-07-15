@@ -36,6 +36,6 @@ properties: [file.link, author, rating, status, pages, pages_read, progress_bar]
 
 ```dataview
 table without id
-![[cover]] as Cover
+cover as Cover
 from #books 
 ```
