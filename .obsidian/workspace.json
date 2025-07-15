@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/React/01 React.md",
+                "file": "7 Obsidian/00 Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 React"
+              "title": "00 Obsidian"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/React/01 React.md",
+                "file": "7 Obsidian/00 Obsidian.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 01 React"
+              "title": "Граф 00 Obsidian"
             }
           }
         ]
@@ -253,12 +253,14 @@
   },
   "active": "fc733fc889337764",
   "lastOpenFiles": [
+    "7 Obsidian/Dataview/01 Dataview.md",
+    "1 Books/00 Books.md",
+    "2 Programming/React/01 React.md",
     "2 Programming/Linux/01 Linux.md",
     "2 Programming/00 Programming.md",
     "5 Resources/00 Resources.md",
     "7 Obsidian/DataCards.md",
     "7 Obsidian/00 Obsidian.md",
-    "7 Obsidian/Dataview/01 Dataview.md",
     "Planning/Projects/All.md",
     "GE.md",
     "Planning/Projects/Test1.md",
@@ -280,8 +282,6 @@
     "2 Programming/Linux/Отключение тачпада в Линукс.md",
     "2 Programming/Linux",
     "Planning/Projects",
-    "Planning/Tasks/ПП.md",
-    "Planning/Tasks/Шаг 1.md",
     "Planning/Tasks",
     "Planning",
     "Без названия.canvas",
