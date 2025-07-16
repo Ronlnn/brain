@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/JS/Брэндан Эйк - создатель JS.md",
+                "file": "Обратная совместимость.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Брэндан Эйк - создатель JS"
+              "title": "Обратная совместимость"
             }
           }
         ],
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/JS/Брэндан Эйк - создатель JS.md",
+                "file": "Обратная совместимость.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Брэндан Эйк - создатель JS"
+              "title": "Граф Обратная совместимость"
             }
           }
         ]
@@ -270,8 +270,9 @@
   },
   "active": "8a8f1786092b5acf",
   "lastOpenFiles": [
-    "6 Projects/Первая работа.md",
     "2 Programming/JS/Брэндан Эйк - создатель JS.md",
+    "Обратная совместимость.md",
+    "6 Projects/Первая работа.md",
     "5 Resources/Links/TS GitHub materials.md",
     "5 Resources/Links/Вопросы по Js GitHub.md",
     "5 Resources/Links/01 Links.md",
@@ -295,7 +296,6 @@
     "7 Obsidian/Синхронизация на Айфоне.md",
     "7 Obsidian/Дока по AnuPpuccin.md",
     "6 Projects/Порядочный иностранец.md",
-    "6 Projects/00 Projects.md",
     "5 Resources/Code Snippets/Obsidian",
     "_attachments/books-cover/45-tatu.png",
     "_attachments/books-cover/1984.jpg",
