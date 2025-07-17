@@ -4,73 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "caf547b6af8c06b8",
+        "id": "1fb0b87bc94b2d77",
         "type": "tabs",
         "children": [
           {
-            "id": "3841d2ceb340fbba",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Books/Познакомьтесь, JS.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Познакомьтесь, JS"
-            }
-          },
-          {
-            "id": "5164890fcafb32b3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Projects/Первая работа.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Первая работа"
-            }
-          },
-          {
-            "id": "b53bf38ad44bc228",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Projects/01 Цели.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01 Цели"
-            }
-          },
-          {
-            "id": "00f5447614cb3343",
+            "id": "7e6a24291bef8958",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Projects/Первая работа.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Первая работа"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,7 +192,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/Первая работа.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Первая работа"
+              "title": "Граф"
             }
           }
         ]
@@ -300,13 +246,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "00f5447614cb3343",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
-    "6 Projects/Порядочный иностранец.md",
-    "1 Books/02 Reading now.md",
-    "1 Books/Познакомьтесь, JS.md",
     "6 Projects/Первая работа.md",
     "6 Projects/01 Цели.md",
+    "1 Books/Познакомьтесь, JS.md",
+    "6 Projects/Порядочный иностранец.md",
+    "1 Books/02 Reading now.md",
     "6 Projects/Гик Обсидиана.md",
     "Последовательность выполнения исходного кода Js.md",
     "6 Projects/00 Projects.md",
