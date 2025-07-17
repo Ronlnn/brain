@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Books/Познакомьтесь, JS.md",
+                "file": "6 Projects/Гик Обсидиана.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Познакомьтесь, JS"
+              "title": "Гик Обсидиана"
             }
           }
         ],
@@ -214,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -227,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Books/Познакомьтесь, JS.md",
+                "file": "6 Projects/Гик Обсидиана.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +255,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Познакомьтесь, JS"
+              "title": "Граф Гик Обсидиана"
             }
           }
         ]
@@ -282,14 +282,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "773e44ab4fb17e25",
   "lastOpenFiles": [
-    "1 Books/02 Reading now.md",
+    "Home.md",
     "1 Books/Познакомьтесь, JS.md",
+    "1 Books/02 Reading now.md",
     "1 Books/01 My Bookshelf.md",
     "1 Books/02 Finished books.md",
     "Обратная совместимость.md",
-    "Home.md",
     "Babel.md",
     "Транспиляция.md",
     "Прямая совместимость.md",
