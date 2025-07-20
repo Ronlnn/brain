@@ -60,7 +60,14 @@
       "query": "tag:#linux  ",
       "color": {
         "a": 1,
-        "rgb": 16119285
+        "rgb": 71238
+      }
+    },
+    {
+      "query": "tag:#react  ",
+      "color": {
+        "a": 1,
+        "rgb": 4336
       }
     }
   ],
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2860115351370438,
-  "close": false
+  "scale": 0.414125653546708,
+  "close": true
 }
