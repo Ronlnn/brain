@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Первая работа"
+              "title": "Home"
             }
           }
         ],
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Первая работа"
+              "title": "Граф Home"
             }
           }
         ]
@@ -285,8 +285,8 @@
   },
   "active": "f04482bd11c53e12",
   "lastOpenFiles": [
-    "Home.md",
     "6 Projects/Первая работа.md",
+    "Home.md",
     "6 Projects/Порядочный иностранец.md",
     "6 Projects/Гик Обсидиана.md",
     "6 Projects/Tasks/Подать на ВНЖ.md",

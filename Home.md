@@ -95,11 +95,17 @@ for (let page of pages) {
     let deadline = page.deadline;
 
     const content = await app.vault.read(app.vault.getAbstractFileByPath(page.file.path));
-    const tasks = content.match(/- \[[ xX]\] .*/g) || [];
-    const total = tasks.length;
-    const done = tasks.filter(t => /^- \[[xX]\]/.test(t)).length;
 
-    const percent = total === 0 ? 0 : Math.round((done / total) * 100);
+	let doneCount = 0;
+	let totalCount = 0;
+
+	for (let page of content) {
+	    if (page.status && page.status.toString().toLowerCase().includes("done")) {
+	        doneCount++;
+    }
+    totalCount++;
+}
+    const percent = totalCount === 0 ? 0 : Math.round((doneCount / totalCount) * 100);
     const width = 200;
     const bar = `![progress](https://progress-bar.xyz/${percent}/?width=${width})`;
 
