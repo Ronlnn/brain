@@ -83,8 +83,6 @@ const pages = dv.pages(folderPath)
     .file.inlinks
     .map(link => dv.page(link.path))
     .filter(p => p && p.file.name !== "📁Projects" && p.file.name !== "01 Цели");
-    const linkedPages = current.file.inlinks.map(link => dv.page(link.path)).filter(p => p);
-
 let rows = [];
 
 for (let page of pages) {
