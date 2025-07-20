@@ -93,13 +93,15 @@ for (let page of pages) {
     let deadline = page.deadline;
 
     // Подсчет выполненных и общих задач по статусу страницы (как в вашем примере)
+	const linkedPages = page.file.inlinks.map(link => dv.page(link.path)).filter(p => p);
     let doneCount = 0;
     let totalCount = 0;
-    
+    for (let page1 of linkedPages){
     if (page.status && page.status.toString().toLowerCase().includes("done")) {
         doneCount++;
     }
-    totalCount++;
+    totalCount++;}
+    
 
     const percent = totalCount === 0 ? 0 : Math.round((doneCount / totalCount) * 100);
     const width = 200;
