@@ -5,7 +5,7 @@ tags:
   - planning
 status: 📌 Doing
 priority: ❗Medium
-deadline: 23 июля 25
+deadline: 23-07-25
 ---
 ```dataviewjs
 const page = dv.current();
