@@ -2,6 +2,8 @@
 banner: "![[_attachments/pixel-banner-images/library.png]]"
 banner-x: 48
 banner-y: 55
+tags:
+  - books
 ---
 >[!important] Все книги
 >```dataview

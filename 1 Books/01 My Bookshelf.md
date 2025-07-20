@@ -8,6 +8,9 @@ cssclasses:
   - cards-cols-4
   - cards-cover
   - table-max,
+zero-links: "[[00 Books]]"
+tags:
+  - books
 ---
 ```dataview
 TABLE WITHOUT ID
