@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pet-проект ToDoList.md",
+                "file": "6 Projects/Первая работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pet-проект ToDoList"
+              "title": "Первая работа"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pet-проект ToDoList.md",
+                "file": "6 Projects/Первая работа.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Pet-проект ToDoList"
+              "title": "Граф Первая работа"
             }
           }
         ]
@@ -268,8 +268,8 @@
   },
   "active": "7e6a24291bef8958",
   "lastOpenFiles": [
+    "6 Projects/Tasks/Pet-проект ToDoList.md",
     "6 Projects/Первая работа.md",
-    "Pet-проект ToDoList.md",
     "6 Projects/Tasks/Pet-проект \"6 проектов\".md",
     "6 Projects/00 Projects.md",
     "6 Projects/Tasks/Прочитать Познакомьтесь,JS.md",
