@@ -100,18 +100,39 @@ for (let page of pages) {
     rows.push([page.file.link, status, priority, deadline, bar]);
 }
 
-// Сортировка по Приоритету
-const order = { high: 3, medium: 2, low: 1 };
+// Порядок сортировки
+const statusOrder = {
+    "todo": 1, 
+    "doing": 2, 
+    "done": 3,
+    "—": 4  // Неопределенные статусы в конец
+};
+
+const priorityOrder = {
+    "low": 1,
+    "medium": 2,
+    "high": 3
+};
+
 const clean = (text) => {
     return text?.toLowerCase()?.replace(/[^\w]/g, "") ?? "";
 };
+
+// Сортировка
 rows.sort((a, b) => {
-    const pa = order[clean(a[2])] ?? 0;
-    const pb = order[clean(b[2])] ?? 0;
-    return pb - pa;
+    // Сначала по статусу (To Do > Doing > Done)
+    const statusA = clean(a[1]);
+    const statusB = clean(b[1]);
+    const statusCompare = (statusOrder[statusA] ?? 4) - (statusOrder[statusB] ?? 4);
+    
+    if (statusCompare !== 0) return statusCompare;
+    
+    // Затем по приоритету (Low > Medium > High)
+    const priorityA = priorityOrder[clean(a[2])] ?? 0;
+    const priorityB = priorityOrder[clean(b[2])] ?? 0;
+    return priorityA - priorityB;
 });
 
 // Вывод таблицы
 dv.table(["Проект", "Статус", "Приоритет", "Дедлайн", "Прогресс"], rows);
-
 ```
