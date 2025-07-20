@@ -6,7 +6,9 @@ tags:
 zero-links: "[[00 Projects]]"
 status: <%status%>
 priority: <%priority%>
-deadline:
+deadline: 
+cssclasses:
+  - projects
 ---
 ```dataviewjs
 const current = dv.current();
