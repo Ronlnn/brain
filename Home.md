@@ -71,14 +71,14 @@ if (statsFile) {
 
 ## 📁 Мои Проекты
 ```dataviewjs
-const folderPath = '"6 Projects"'; // Основная папка
-const excludeSubfolder = "Tasks"; // Подпапка для исключения
+const folderPath = '"6 Projects"';
+const excludeSubfolder = "Tasks";
 
 // Получаем все страницы из основной папки, исключая подпапку
 const pages = dv.pages(folderPath)
     .filter(p => 
-        p.file.path.includes("6 Projects/") && // Только из нужной папки
-        !p.file.path.includes(`6 Projects/${excludeSubfolder}/`) // Исключаем подпапку
+        p.file.path.includes("6 Projects/") &&
+        !p.file.path.includes(`6 Projects/${excludeSubfolder}/`)
     )
     .file.inlinks
     .map(link => dv.page(link.path))
@@ -87,24 +87,21 @@ const pages = dv.pages(folderPath)
 let rows = [];
 
 for (let page of pages) {
-    // Дополнительная проверка на случай, если предыдущие фильтры не сработали
     if (page.file.path.includes(`6 Projects/${excludeSubfolder}/`)) continue;
     
     const status = page.status ?? "—";
     const priority = page.priority;
     let deadline = page.deadline;
 
-    const content = await app.vault.read(app.vault.getAbstractFileByPath(page.file.path));
-
-	let doneCount = 0;
-	let totalCount = 0;
-
-	for (let page of content) {
-	    if (page.status && page.status.toString().toLowerCase().includes("done")) {
-	        doneCount++;
+    // Подсчет выполненных и общих задач по статусу страницы (как в вашем примере)
+    let doneCount = 0;
+    let totalCount = 0;
+    
+    if (page.status && page.status.toString().toLowerCase().includes("done")) {
+        doneCount++;
     }
     totalCount++;
-}
+
     const percent = totalCount === 0 ? 0 : Math.round((doneCount / totalCount) * 100);
     const width = 200;
     const bar = `![progress](https://progress-bar.xyz/${percent}/?width=${width})`;
@@ -112,7 +109,7 @@ for (let page of pages) {
     rows.push([page.file.link, status, priority, deadline, bar]);
 }
 
-// Порядок сортировки (остаётся без изменений)
+// Порядок сортировки
 const statusOrder = {
     "todo": 1, 
     "doing": 2, 
