@@ -234,7 +234,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.569350649350649,
                   "linkDistance": 250,
-                  "scale": 0.6435259540583489,
+                  "scale": 0.643525954058349,
                   "close": true
                 }
               },
@@ -266,8 +266,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7e6a24291bef8958",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
+    "Pet=проект \"6 проектов\".md",
     "6 Projects/00 Projects.md",
     "6 Projects/Первая работа.md",
     "6 Projects/Tasks/Прочитать Познакомьтесь,JS.md",
@@ -294,7 +295,6 @@
     "4 Logs/archive/2025/Июль/Июль 25.md",
     "_attachments/tmp/2.md",
     "_templates/Default.md",
-    "5 Resources/Hotkeys/VSCode.md",
     "5 Resources/Code Snippets/Obsidian",
     "_attachments/books-cover/45-tatu.png",
     "_attachments/books-cover/1984.jpg",
