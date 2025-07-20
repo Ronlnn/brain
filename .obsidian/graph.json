@@ -18,7 +18,7 @@
       "query": "tag:#obsidian  ",
       "color": {
         "a": 1,
-        "rgb": 9580435
+        "rgb": 11406043
       }
     },
     {
@@ -32,7 +32,7 @@
       "query": "tag:#resources  ",
       "color": {
         "a": 1,
-        "rgb": 16256496
+        "rgb": 16082672
       }
     },
     {
@@ -48,6 +48,20 @@
         "a": 1,
         "rgb": 15944043
       }
+    },
+    {
+      "query": "tag:#logs  ",
+      "color": {
+        "a": 1,
+        "rgb": 6849779
+      }
+    },
+    {
+      "query": "tag:#linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 16119285
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.41412565354670783,
+  "scale": 0.2860115351370438,
   "close": false
 }

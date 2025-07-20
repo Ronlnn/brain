@@ -1,3 +1,9 @@
+---
+zero-links: "[[00 Resources]]"
+tags:
+  - resources
+---
+
 ```json
 {
   "dates": {
