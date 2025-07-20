@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Resources/Code Snippets/Obsidian/Прогрессбар.md",
+                "file": "6 Projects/Первая работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Прогрессбар"
+              "title": "Первая работа"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5 Resources/Code Snippets/Obsidian/Прогрессбар.md",
+                "file": "6 Projects/Первая работа.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Прогрессбар"
+              "title": "Граф Первая работа"
             }
           }
         ]
@@ -253,10 +253,10 @@
   },
   "active": "7e6a24291bef8958",
   "lastOpenFiles": [
-    "6 Projects/Первая работа.md",
-    "5 Resources/Code Snippets/Obsidian/Прогрессбар.md",
     "6 Projects/Порядочный иностранец.md",
     "_templates/✅Tasks.md",
+    "6 Projects/Первая работа.md",
+    "5 Resources/Code Snippets/Obsidian/Прогрессбар связанных задач.md",
     "5 Resources/Code Snippets/Obsidian/Прогресс выполненных задач в текущей заметке.md",
     "1 Books/Познакомьтесь, JS.md",
     "Home.md",
