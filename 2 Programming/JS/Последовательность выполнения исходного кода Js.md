@@ -1,6 +1,7 @@
 ---
 tags:
   - knowledge
+  - js
 zero-links: "[[01 JS]]"
 created: 17-07-25
 prompt:

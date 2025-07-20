@@ -18,7 +18,7 @@
       "query": "tag:#obsidian  ",
       "color": {
         "a": 1,
-        "rgb": 15609074
+        "rgb": 9580435
       }
     },
     {
@@ -26,6 +26,13 @@
       "color": {
         "a": 1,
         "rgb": 15788600
+      }
+    },
+    {
+      "query": "tag:#resources  ",
+      "color": {
+        "a": 1,
+        "rgb": 16256496
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2860115351370438,
+  "scale": 0.41412565354670783,
   "close": false
 }
