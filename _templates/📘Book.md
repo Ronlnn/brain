@@ -8,6 +8,6 @@ pages: "{{totalPage}}"
 pages_read: 
 cover: "{{coverUrl}}"
 rating: ⭐⭐⭐⭐⭐
-status: 🔷 To Read
+status: 📌 To Read
 ---
 # 📔<% tp.file.title%>
