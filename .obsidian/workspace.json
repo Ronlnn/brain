@@ -11,10 +11,14 @@
             "id": "7e6a24291bef8958",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 Projects/Первая работа.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Первая работа"
             }
           }
         ]
@@ -192,6 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "6 Projects/Первая работа.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Первая работа"
             }
           }
         ]
@@ -246,10 +251,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "7e6a24291bef8958",
   "lastOpenFiles": [
-    "6 Projects/Первая работа.md",
     "6 Projects/01 Цели.md",
+    "6 Projects/Первая работа.md",
     "1 Books/Познакомьтесь, JS.md",
     "6 Projects/Порядочный иностранец.md",
     "1 Books/02 Reading now.md",
