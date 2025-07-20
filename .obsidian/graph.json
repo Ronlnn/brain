@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 16256496
       }
+    },
+    {
+      "query": "tag:#planning  ",
+      "color": {
+        "a": 1,
+        "rgb": 4909805
+      }
+    },
+    {
+      "query": "tag:#problems  ",
+      "color": {
+        "a": 1,
+        "rgb": 15944043
+      }
     }
   ],
   "collapse-display": true,
