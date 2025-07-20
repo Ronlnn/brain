@@ -1,11 +1,11 @@
 ---
-prompt: <%* let title = await tp.system.prompt("Задача?") %><%tp.file.rename(title)%><%*let statusOptions = ["📫 ToDo", "📌 Doing", "✅ Done"];let status = await tp.system.suggester(statusOptions,statusOptions);%><%* let priorityOptions = ["❕Low", "❗Medium", "‼️High"]; let priority = await tp.system.suggester(priorityOptions,priorityOptions);%>
-zero-links: 
+prompt: 
+zero-links: "[[Первая работа]]"
 tags:
   - planning
-status: <%status%>
-priority: <%priority%>
-deadline:
+status: 📌 Doing
+priority: ❗Medium
+deadline: 23 июля 25
 ---
 ```dataviewjs
 const page = dv.current();
@@ -28,8 +28,12 @@ if (!filePath) {
 }
 
 ```
-# <%title%>
+# Прочитать книгу Познакомьтесь,JS
 ## 📑 Описание:
-- Задача из Проекта - <% tp.file.cursor() %>
+- Прочитать 1 из 6 книг Кайла Симпсона
 
 ## Шаги к выполнению задачи:
+- [x] Прочитать 1 главу и сделать заметки
+- [x] Прочитать 2 главу и сделать заметки
+- [ ] Прочитать 3 главу и сделать заметки
+- [ ] Прочитать 4 главу и сделать заметки

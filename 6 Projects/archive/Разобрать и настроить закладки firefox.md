@@ -1,10 +1,10 @@
 ---
-prompt: <%* let title = await tp.system.prompt("Задача?") %><%tp.file.rename(title)%><%*let statusOptions = ["📫 ToDo", "📌 Doing", "✅ Done"];let status = await tp.system.suggester(statusOptions,statusOptions);%><%* let priorityOptions = ["❕Low", "❗Medium", "‼️High"]; let priority = await tp.system.suggester(priorityOptions,priorityOptions);%>
-zero-links: 
+prompt: 
+zero-links: "[[Первая работа]]"
 tags:
   - planning
-status: <%status%>
-priority: <%priority%>
+status: ✅ Done
+priority: ❗Medium
 deadline:
 ---
 ```dataviewjs
@@ -28,8 +28,9 @@ if (!filePath) {
 }
 
 ```
-# <%title%>
+# Разобрать и настроить закладки firefox
 ## 📑 Описание:
-- Задача из Проекта - <% tp.file.cursor() %>
+- 
 
 ## Шаги к выполнению задачи:
+- [x] Сделано
