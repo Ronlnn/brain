@@ -37,8 +37,7 @@
               "title": "Порядочный иностранец"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/Порядочный иностранец.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +255,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Порядочный иностранец"
+              "title": "Граф Home"
             }
           }
         ]
@@ -283,10 +282,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "f04482bd11c53e12",
+  "active": "af7bc1498e9f466a",
   "lastOpenFiles": [
-    "Home.md",
     "6 Projects/Порядочный иностранец.md",
+    "Home.md",
     "6 Projects/Первая работа.md",
     "6 Projects/Гик Обсидиана.md",
     "6 Projects/Tasks/Подать на ВНЖ.md",
