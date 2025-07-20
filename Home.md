@@ -71,19 +71,24 @@ if (statsFile) {
 
 ## 📁 Мои Проекты
 ```dataviewjs
-const folderPath = '"6 Projects"'; // Указываем конкретную папку
-const current = dv.pages(folderPath).file; // Получаем файлы из указанной папки
+const folderPath = '"6 Projects"'; // Основная папка
+const excludeSubfolder = "Tasks"; // Подпапка для исключения
 
-// Получаем все входящие ссылки только для файлов из нужной папки
-const pages = current.inlinks
+// Получаем все страницы из основной папки, исключая подпапку
+const pages = dv.pages(folderPath)
+    .filter(p => 
+        p.file.path.includes("6 Projects/") && // Только из нужной папки
+        !p.file.path.includes(`6 Projects/${excludeSubfolder}/`) // Исключаем подпапку
+    )
+    .file.inlinks
     .map(link => dv.page(link.path))
     .filter(p => p && p.file.name !== "📁Projects" && p.file.name !== "01 Цели");
 
 let rows = [];
 
 for (let page of pages) {
-    // Проверяем, что страница действительно находится в нужной папке
-    if (!page.file.path.includes("6 Projects/")) continue;
+    // Дополнительная проверка на случай, если предыдущие фильтры не сработали
+    if (page.file.path.includes(`6 Projects/${excludeSubfolder}/`)) continue;
     
     const status = page.status ?? "—";
     const priority = page.priority;
@@ -101,7 +106,7 @@ for (let page of pages) {
     rows.push([page.file.link, status, priority, deadline, bar]);
 }
 
-// Порядок сортировки
+// Порядок сортировки (остаётся без изменений)
 const statusOrder = {
     "todo": 1, 
     "doing": 2, 

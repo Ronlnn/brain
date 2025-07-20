@@ -1,14 +1,14 @@
 ---
 prompt: <%* let title = await tp.system.prompt("Имя Проекта?") %><%tp.file.rename(title)%><%*let statusOptions = ["📫 ToDo", "📌 Doing", "✅ Done"];let status = await tp.system.suggester(statusOptions,statusOptions);%><%* let priorityOptions = ["❕Low", "❗Medium", "‼️High"]; let priority = await tp.system.suggester(priorityOptions,priorityOptions);%>
+cssclasses:
+  - projects
 tags:
   - planning
   - projects
 zero-links: "[[00 Projects]]"
 status: <%status%>
 priority: <%priority%>
-deadline: 
-cssclasses:
-  - projects
+deadline:
 ---
 ```dataviewjs
 const current = dv.current();
