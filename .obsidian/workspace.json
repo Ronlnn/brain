@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Составить Резюме.md",
+                "file": "6 Projects/Первая работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Составить Резюме"
+              "title": "Первая работа"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Составить Резюме.md",
+                "file": "6 Projects/Первая работа.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Составить Резюме"
+              "title": "Граф Первая работа"
             }
           }
         ]
@@ -253,8 +253,8 @@
   },
   "active": "7e6a24291bef8958",
   "lastOpenFiles": [
+    "6 Projects/Tasks/Составить Резюме.md",
     "Home.md",
-    "Составить Резюме.md",
     "6 Projects/Первая работа.md",
     "6 Projects/archive/Закладки firefox.md",
     "6 Projects/Tasks/Прочитать Познакомьтесь,JS.md",
