@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "6 Projects/Порядочный иностранец.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Порядочный иностранец"
             }
           }
         ],
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "6 Projects/Порядочный иностранец.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Home"
+              "title": "Граф Порядочный иностранец"
             }
           }
         ]
@@ -285,8 +285,8 @@
   },
   "active": "f04482bd11c53e12",
   "lastOpenFiles": [
-    "6 Projects/Порядочный иностранец.md",
     "Home.md",
+    "6 Projects/Порядочный иностранец.md",
     "6 Projects/Первая работа.md",
     "6 Projects/Гик Обсидиана.md",
     "6 Projects/Tasks/Подать на ВНЖ.md",
