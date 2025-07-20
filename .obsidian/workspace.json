@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Подготовить легенду.md",
+                "file": "6 Projects/Первая работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Подготовить легенду"
+              "title": "Первая работа"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Подготовить легенду.md",
+                "file": "6 Projects/Первая работа.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Подготовить легенду"
+              "title": "Граф Первая работа"
             }
           }
         ]
@@ -253,8 +253,8 @@
   },
   "active": "7e6a24291bef8958",
   "lastOpenFiles": [
+    "6 Projects/Tasks/Подготовить легенду.md",
     "6 Projects/Первая работа.md",
-    "Подготовить легенду.md",
     "6 Projects/Tasks/Прочитать книгу Познакомьтесь,JS.md",
     "_templates/✅Tasks.md",
     "6 Projects/archive/Разобрать и настроить закладки firefox.md",
