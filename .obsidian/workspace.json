@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "100 вопросов JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Первая работа"
+              "title": "100 вопросов JS"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "100 вопросов JS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Первая работа"
+              "title": "Граф 100 вопросов JS"
             }
           }
         ]
@@ -266,11 +266,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "7e6a24291bef8958",
   "lastOpenFiles": [
-    "Untitled.md",
-    "6 Projects/Tasks/Pet-проект AutoBuy.md",
     "6 Projects/Первая работа.md",
+    "100 вопросов JS.md",
+    "6 Projects/Tasks/Pet-проект AutoBuy.md",
     "6 Projects/Tasks/Pet-проект ToDoList.md",
     "6 Projects/Tasks/Pet-проект \"6 проектов\".md",
     "6 Projects/00 Projects.md",
