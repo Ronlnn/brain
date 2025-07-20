@@ -92,12 +92,13 @@ for (let page of pages) {
     const priority = page.priority;
     let deadline = page.deadline;
 
-    // Подсчет выполненных и общих задач по статусу страницы (как в вашем примере)
+    // Подсчет выполненных и общих задач по статусу страницы
 	const linkedPages = page.file.inlinks.map(link => dv.page(link.path)).filter(p => p);
     let doneCount = 0;
     let totalCount = 0;
+    
     for (let page1 of linkedPages){
-    if (page.status && page.status.toString().toLowerCase().includes("done")) {
+    if (page1.status && page1.status.toString().toLowerCase().includes("done")) {
         doneCount++;
     }
     totalCount++;}
