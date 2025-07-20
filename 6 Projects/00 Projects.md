@@ -4,6 +4,9 @@ tags:
   - projects
 cssclasses:
   - projects
+banner: "![[_attachments/pixel-banner-images/samurai-3.jpg]]"
+banner-x: 46
+banner-y: 45
 ---
 ```dataviewjs
 const current = dv.current();
