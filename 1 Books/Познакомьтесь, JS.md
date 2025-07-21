@@ -7,8 +7,8 @@ category: it
 pages: "192"
 pages_read: "192"
 cover: https://cdn.litres.ru/pub/c/cover_415/66658092.webp
-rating: ⭐
-status: 📈 Reading
+rating: ⭐⭐⭐⭐⭐
+status: ✅ Done
 ---
 # 📔Познакомьтесь, JS
 
