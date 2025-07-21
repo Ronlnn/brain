@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON и основные операции с ним.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/JSON и основные операции с ним.md",
                 "mode": "source",
                 "source": false
               },
@@ -302,9 +302,10 @@
   },
   "active": "c5d4ce429ddd0ec0",
   "lastOpenFiles": [
-    "JSON и основные операции с ним.md",
+    "2 Programming/Собесы/Вопросы/JS/JSON и основные операции с ним.md",
     "2 Programming/Собесы/Вопросы/JS/Разница между call,apply,bind.md",
     "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
+    "2 Programming/JS/JSON.md",
     "6 Projects/Tasks/100 вопросов JS.md",
     "2 Programming/Собесы/Вопросы/JS/Цепочка прототипов.md",
     "_templates/Default.md",
@@ -330,7 +331,6 @@
     "1 Books/Область видимости и замыкания.md",
     "1 Books/01 My Bookshelf.md",
     "6 Projects/Tasks/archive/Прочитать Познакомьтесь,JS.md",
-    "2 Programming/JS/Итераторы.md",
     "6 Projects/Tasks",
     "7 Tasks",
     "6 Projects/Tasks/archive",
