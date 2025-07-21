@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0630613ca7baa9b6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 Projects/Первая работа.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Первая работа"
+            }
+          },
+          {
             "id": "c5d4ce429ddd0ec0",
             "type": "leaf",
             "pinned": true,
@@ -24,20 +40,21 @@
             }
           },
           {
-            "id": "9bceb9f3398d7199",
+            "id": "4596db45d90bd816",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/JSON и основные операции с ним.md",
+                "file": "2 Programming/Собесы/100 вопросов по JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSON и основные операции с ним"
+              "title": "100 вопросов по JS"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/Tasks/100 вопросов JS.md",
+                "file": "2 Programming/Собесы/100 вопросов по JS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,12 +284,12 @@
                   "repelStrength": 10,
                   "linkStrength": 0.569350649350649,
                   "linkDistance": 250,
-                  "scale": 0.6435259540583498,
+                  "scale": 0.44444444444444525,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 100 вопросов JS"
+              "title": "Граф 100 вопросов по JS"
             }
           }
         ]
@@ -300,16 +317,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c5d4ce429ddd0ec0",
+  "active": "4596db45d90bd816",
   "lastOpenFiles": [
+    "2 Programming/JS/01 JS.md",
+    "6 Projects/Tasks/100 вопросов JS.md",
+    "6 Projects/Первая работа.md",
     "2 Programming/Собесы/Вопросы/JS/JSON и основные операции с ним.md",
+    "2 Programming/Собесы/Вопросы/JS/Для чего нужен метод slice.md",
     "2 Programming/Собесы/Вопросы/JS/Разница между call,apply,bind.md",
     "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
     "2 Programming/JS/JSON.md",
-    "6 Projects/Tasks/100 вопросов JS.md",
     "2 Programming/Собесы/Вопросы/JS/Цепочка прототипов.md",
     "_templates/Default.md",
-    "6 Projects/Первая работа.md",
     "2 Programming/Собесы/100 вопросов по JS.md",
     "2 Programming/Собесы/100 вопросов по React.md",
     "2 Programming/React/01 React.md",
@@ -329,8 +348,6 @@
     "Home.md",
     "1 Books/02 Reading now.md",
     "1 Books/Область видимости и замыкания.md",
-    "1 Books/01 My Bookshelf.md",
-    "6 Projects/Tasks/archive/Прочитать Познакомьтесь,JS.md",
     "6 Projects/Tasks",
     "7 Tasks",
     "6 Projects/Tasks/archive",
