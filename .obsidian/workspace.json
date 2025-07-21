@@ -8,50 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57aac16ada806be8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Books/Познакомьтесь, JS.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Познакомьтесь, JS"
-            }
-          },
-          {
-            "id": "bc92f217944a0b1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Замыкание.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Замыкание"
-            }
-          },
-          {
-            "id": "b72a77cabbbfbd70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Books/01 My Bookshelf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 My Bookshelf"
-            }
-          },
-          {
             "id": "c5d4ce429ddd0ec0",
             "type": "leaf",
             "state": {
@@ -65,8 +21,7 @@
               "title": "Первая работа"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +87,7 @@
       {
         "id": "b60e78ac8191ec30",
         "type": "tabs",
-        "dimension": 29.48294829482948,
+        "dimension": 44.81605351170568,
         "children": [
           {
             "id": "82d867e17b02b917",
@@ -140,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Books/01 My Bookshelf.md",
+                "file": "6 Projects/Первая работа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 01 My Bookshelf"
+              "title": "Обратные ссылки для Первая работа"
             }
           },
           {
@@ -159,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Books/01 My Bookshelf.md",
+                "file": "6 Projects/Первая работа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 01 My Bookshelf"
+              "title": "Исходящие ссылки из Первая работа"
             }
           },
           {
@@ -188,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Books/01 My Bookshelf.md",
+                "file": "6 Projects/Первая работа.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 My Bookshelf"
+              "title": "Структура Первая работа"
             }
           },
           {
@@ -241,26 +196,9 @@
         "currentTab": 4
       },
       {
-        "id": "93af5f4ebd7f6399",
-        "type": "tabs",
-        "dimension": 34.21342134213422,
-        "children": [
-          {
-            "id": "bcc7c7b6c90654f6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
-      },
-      {
         "id": "ffd601a1e6e078dc",
         "type": "tabs",
-        "dimension": 36.303630363036305,
+        "dimension": 55.18394648829431,
         "children": [
           {
             "id": "30bc3dcebaf6de9f",
@@ -268,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Books/01 My Bookshelf.md",
+                "file": "6 Projects/Первая работа.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -311,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 01 My Bookshelf"
+              "title": "Граф Первая работа"
             }
           }
         ]
@@ -339,20 +277,22 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b72a77cabbbfbd70",
+  "active": "c5d4ce429ddd0ec0",
   "lastOpenFiles": [
-    "1 Books/Область видимости и замыкания.md",
-    "Прочитать Область видимости, Замыкание.md",
-    "6 Projects/Первая работа.md",
-    "6 Projects/Tasks/archive/Прочитать Познакомьтесь,JS.md",
     "1 Books/Познакомьтесь, JS.md",
-    "Замыкание.md",
-    "Spread & Rest (...).md",
-    "for...of.md",
-    "Итерируемые значения.md",
-    "Итераторы.md",
-    "6 Projects/Tasks/Начать стажу s21.md",
+    "6 Projects/Tasks/Прочитать Область видимости, Замыкание.md",
+    "6 Projects/Первая работа.md",
+    "2 Programming/JS/Spread & Rest (...).md",
+    "2 Programming/JS/for...of.md",
+    "2 Programming/JS/Замыкание.md",
+    "2 Programming/JS/Итерируемые значения.md",
     "Home.md",
+    "1 Books/02 Reading now.md",
+    "1 Books/Область видимости и замыкания.md",
+    "1 Books/01 My Bookshelf.md",
+    "6 Projects/Tasks/archive/Прочитать Познакомьтесь,JS.md",
+    "2 Programming/JS/Итераторы.md",
+    "6 Projects/Tasks/Начать стажу s21.md",
     "6 Projects/00 Projects.md",
     "5 Resources/Code Snippets/Obsidian/Таблица проектов из папки 6 Projects.md",
     "5 Resources/Code Snippets/Obsidian/Таблицы всех задач проекта.md",
@@ -365,8 +305,6 @@
     "6 Projects/Tasks/Продлить регистрацию.md",
     "6 Projects/Tasks/Мои Гос.услуги.md",
     "6 Projects/Tasks/Изменить данные документов.md",
-    "_templates/📁Projects.md",
-    "_templates/❗Problems.md",
     "6 Projects/Tasks",
     "7 Tasks",
     "6 Projects/Tasks/archive",
