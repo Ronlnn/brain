@@ -5,7 +5,7 @@ zero-links: "[[00 Books]]"
 author: Кайл Симпсон
 category: it
 pages: "192"
-pages_read: "113"
+pages_read: "192"
 cover: https://cdn.litres.ru/pub/c/cover_415/66658092.webp
 rating: ⭐
 status: 📈 Reading
