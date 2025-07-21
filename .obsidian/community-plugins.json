@@ -32,5 +32,6 @@
   "progressbar",
   "obsidian-tasks-plugin",
   "obsidian-reminder-plugin",
-  "obsidian-full-calendar"
+  "obsidian-full-calendar",
+  "calendar"
 ]

@@ -1,5 +1,11 @@
 {
-  "calendarSources": [],
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "rgb(243, 139, 168)",
+      "directory": "6 Projects"
+    }
+  ],
   "defaultCalendar": 0,
   "firstDay": 1,
   "initialView": {
