@@ -29,16 +29,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разница между call,apply,bind.md",
+                "file": "JSON и основные операции с ним.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Разница между call,apply,bind"
+              "title": "JSON и основные операции с ним"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Разница между call,apply,bind.md",
+                "file": "6 Projects/Tasks/100 вопросов JS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Разница между call,apply,bind"
+              "title": "Граф 100 вопросов JS"
             }
           }
         ]
@@ -301,15 +300,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9bceb9f3398d7199",
+  "active": "c5d4ce429ddd0ec0",
   "lastOpenFiles": [
+    "JSON и основные операции с ним.md",
+    "2 Programming/Собесы/Вопросы/JS/Разница между call,apply,bind.md",
+    "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
     "6 Projects/Tasks/100 вопросов JS.md",
-    "Разница между call,apply,bind.md",
     "2 Programming/Собесы/Вопросы/JS/Цепочка прототипов.md",
     "_templates/Default.md",
     "6 Projects/Первая работа.md",
     "2 Programming/Собесы/100 вопросов по JS.md",
-    "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
     "2 Programming/Собесы/100 вопросов по React.md",
     "2 Programming/React/01 React.md",
     "2 Programming/Собесы/Вопросы/React",
@@ -331,7 +331,6 @@
     "1 Books/01 My Bookshelf.md",
     "6 Projects/Tasks/archive/Прочитать Познакомьтесь,JS.md",
     "2 Programming/JS/Итераторы.md",
-    "6 Projects/Tasks/Начать стажу s21.md",
     "6 Projects/Tasks",
     "7 Tasks",
     "6 Projects/Tasks/archive",
