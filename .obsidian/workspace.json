@@ -87,7 +87,7 @@
       {
         "id": "b60e78ac8191ec30",
         "type": "tabs",
-        "dimension": 44.81605351170568,
+        "dimension": 60.35242290748899,
         "children": [
           {
             "id": "82d867e17b02b917",
@@ -193,12 +193,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "ffd601a1e6e078dc",
         "type": "tabs",
-        "dimension": 55.18394648829431,
+        "dimension": 39.647577092511014,
         "children": [
           {
             "id": "30bc3dcebaf6de9f",
@@ -244,7 +244,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.569350649350649,
                   "linkDistance": 250,
-                  "scale": 0.6435259540583493,
+                  "scale": 0.4444444444444449,
                   "close": true
                 }
               },
@@ -277,11 +277,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c5d4ce429ddd0ec0",
+  "active": "d3352128d6f925ce",
   "lastOpenFiles": [
+    "6 Projects/01 Цели.md",
+    "6 Projects/00 Projects.md",
+    "6 Projects/Первая работа.md",
     "1 Books/Познакомьтесь, JS.md",
     "6 Projects/Tasks/Прочитать Область видимости, Замыкание.md",
-    "6 Projects/Первая работа.md",
     "2 Programming/JS/Spread & Rest (...).md",
     "2 Programming/JS/for...of.md",
     "2 Programming/JS/Замыкание.md",
@@ -293,7 +295,6 @@
     "6 Projects/Tasks/archive/Прочитать Познакомьтесь,JS.md",
     "2 Programming/JS/Итераторы.md",
     "6 Projects/Tasks/Начать стажу s21.md",
-    "6 Projects/00 Projects.md",
     "5 Resources/Code Snippets/Obsidian/Таблица проектов из папки 6 Projects.md",
     "5 Resources/Code Snippets/Obsidian/Таблицы всех задач проекта.md",
     "5 Resources/Code Snippets/Obsidian/Прогресс выполненных задач в текущей заметке.md",
@@ -304,7 +305,6 @@
     "6 Projects/Tasks/Завести собственный номер.md",
     "6 Projects/Tasks/Продлить регистрацию.md",
     "6 Projects/Tasks/Мои Гос.услуги.md",
-    "6 Projects/Tasks/Изменить данные документов.md",
     "6 Projects/Tasks",
     "7 Tasks",
     "6 Projects/Tasks/archive",
