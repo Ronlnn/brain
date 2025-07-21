@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Первая работа"
+              "title": "Способы создания Объектов"
             }
           }
         ]
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +217,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#books  ",
@@ -232,6 +232,13 @@
                         "a": 1,
                         "rgb": 6734576
                       }
+                    },
+                    {
+                      "query": "tag:js",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16249168
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -244,12 +251,12 @@
                   "repelStrength": 10,
                   "linkStrength": 0.569350649350649,
                   "linkDistance": 250,
-                  "scale": 0.4444444444444449,
+                  "scale": 0.6435259540583498,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Первая работа"
+              "title": "Граф Способы создания Объектов"
             }
           }
         ]
@@ -279,8 +286,17 @@
   },
   "active": "c5d4ce429ddd0ec0",
   "lastOpenFiles": [
-    "6 Projects/Tasks/Решить вопрос с Привычками.md",
+    "2 Programming/Собесы/100 вопросов по JS.md",
+    "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
+    "2 Programming/Собесы/100 вопросов по React.md",
+    "2 Programming/React/01 React.md",
+    "2 Programming/Собесы/Вопросы/React",
+    "2 Programming/Собесы/Вопросы/JS",
+    "2 Programming/Собесы/Вопросы",
+    "6 Projects/Tasks/100 вопросов JS.md",
     "6 Projects/Первая работа.md",
+    "6 Projects/Порядочный иностранец.md",
+    "6 Projects/Tasks/Решить вопрос с Привычками.md",
     "6 Projects/01 Цели.md",
     "6 Projects/00 Projects.md",
     "1 Books/Познакомьтесь, JS.md",
@@ -299,12 +315,6 @@
     "5 Resources/Code Snippets/Obsidian/Таблица проектов из папки 6 Projects.md",
     "5 Resources/Code Snippets/Obsidian/Таблицы всех задач проекта.md",
     "5 Resources/Code Snippets/Obsidian/Прогресс выполненных задач в текущей заметке.md",
-    "5 Resources/Code Snippets/Obsidian/Прогрессбар связанных задач.md",
-    "6 Projects/Порядочный иностранец.md",
-    "6 Projects/Гик Обсидиана.md",
-    "6 Projects/Tasks/Подать на ВНЖ.md",
-    "6 Projects/Tasks/Завести собственный номер.md",
-    "6 Projects/Tasks/Продлить регистрацию.md",
     "6 Projects/Tasks",
     "7 Tasks",
     "6 Projects/Tasks/archive",
@@ -322,9 +332,6 @@
     "_attachments/pixel-banner-images/samurai-pixle.jpg",
     "_attachments/pixel-banner-images/smaurai-dragon.jpg",
     "_attachments/tmp",
-    "_templates/tmp",
-    "5 Resources/Scripts/helpers.js",
-    "2 Programming/Linux",
     "Без названия.canvas"
   ]
 }
