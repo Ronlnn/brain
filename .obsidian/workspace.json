@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/Собесы/100 вопросов по JS.md",
+                "file": "Для чего нужен метод splice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "100 вопросов по JS"
+              "title": "Для чего нужен метод splice"
             }
           }
         ],
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/Собесы/100 вопросов по JS.md",
+                "file": "Для чего нужен метод splice.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 100 вопросов по JS"
+              "title": "Граф Для чего нужен метод splice"
             }
           }
         ]
@@ -319,6 +319,9 @@
   },
   "active": "4596db45d90bd816",
   "lastOpenFiles": [
+    "2 Programming/Собесы/100 вопросов по JS.md",
+    "Для чего нужен метод splice.md",
+    "Без названия.md",
     "2 Programming/JS/01 JS.md",
     "6 Projects/Tasks/100 вопросов JS.md",
     "6 Projects/Первая работа.md",
@@ -329,7 +332,6 @@
     "2 Programming/JS/JSON.md",
     "2 Programming/Собесы/Вопросы/JS/Цепочка прототипов.md",
     "_templates/Default.md",
-    "2 Programming/Собесы/100 вопросов по JS.md",
     "2 Programming/Собесы/100 вопросов по React.md",
     "2 Programming/React/01 React.md",
     "2 Programming/Собесы/Вопросы/React",
@@ -346,8 +348,6 @@
     "2 Programming/JS/Замыкание.md",
     "2 Programming/JS/Итерируемые значения.md",
     "Home.md",
-    "1 Books/02 Reading now.md",
-    "1 Books/Область видимости и замыкания.md",
     "6 Projects/Tasks",
     "7 Tasks",
     "6 Projects/Tasks/archive",
