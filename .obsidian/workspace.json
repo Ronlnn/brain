@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "6 Projects/Tasks/Начать стажу s21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Первая работа"
+              "title": "Начать стажу s21"
             }
           }
         ]
@@ -173,17 +173,17 @@
             }
           },
           {
-            "id": "980bbc08a734edd4",
+            "id": "981c652041d206ae",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "reminder-list",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "6 Projects/Tasks/Начать стажу s21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Первая работа"
+              "title": "Граф Начать стажу s21"
             }
           }
         ]
@@ -263,13 +263,14 @@
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "57aac16ada806be8",
+  "active": "773e44ab4fb17e25",
   "lastOpenFiles": [
-    "6 Projects/Tasks/Начать стажу s21.md",
     "6 Projects/Первая работа.md",
+    "6 Projects/Tasks/Начать стажу s21.md",
     "Home.md",
     "6 Projects/00 Projects.md",
     "5 Resources/Code Snippets/Obsidian/Таблица проектов из папки 6 Projects.md",
