@@ -53,8 +53,7 @@
               "title": "Pet-проект \"6 проектов\""
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -239,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/Tasks/Pet-проект \"6 проектов\".md",
+                "file": "6 Projects/Первая работа.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,7 +288,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Pet-проект \"6 проектов\""
+              "title": "Граф Первая работа"
             }
           }
         ]
@@ -317,13 +316,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "aca88d569f4ae4de",
+  "active": "773e44ab4fb17e25",
   "lastOpenFiles": [
+    "6 Projects/Tasks/100 вопросов JS.md",
+    "6 Projects/Tasks/Pet-проект \"6 проектов\".md",
     "6 Projects/Tasks/Начать стажу s21.md",
     "6 Projects/Первая работа.md",
-    "6 Projects/Tasks/Pet-проект \"6 проектов\".md",
     "6 Projects/Tasks/Освоить слепую печать.md",
-    "6 Projects/Tasks/100 вопросов JS.md",
     "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
     "2 Programming/Собесы/Вопросы/JS/Разница между == и ===.md",
     "2 Programming/Собесы/Вопросы/JS/Как сравнить Object и Map.md",
