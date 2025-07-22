@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "6 Projects/Tasks/Начать стажу s21.md": [
-      {
-        "title": "Встреча онлайн по поводу сервиса Отклик в",
-        "time": "2025-07-22 11:30",
-        "rowNumber": 35
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

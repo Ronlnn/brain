@@ -53,7 +53,8 @@
               "title": "Pet-проект \"6 проектов\""
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "6 Projects/Tasks/Pet-проект \"6 проектов\".md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Первая работа"
+              "title": "Граф Pet-проект \"6 проектов\""
             }
           }
         ]
@@ -316,11 +317,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0630613ca7baa9b6",
+  "active": "aca88d569f4ae4de",
   "lastOpenFiles": [
+    "6 Projects/Tasks/Начать стажу s21.md",
+    "6 Projects/Первая работа.md",
     "6 Projects/Tasks/Pet-проект \"6 проектов\".md",
     "6 Projects/Tasks/Освоить слепую печать.md",
-    "6 Projects/Первая работа.md",
     "6 Projects/Tasks/100 вопросов JS.md",
     "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
     "2 Programming/Собесы/Вопросы/JS/Разница между == и ===.md",
@@ -346,7 +348,6 @@
     "6 Projects/Tasks/Решить вопрос с Привычками.md",
     "6 Projects/01 Цели.md",
     "6 Projects/00 Projects.md",
-    "1 Books/Познакомьтесь, JS.md",
     "6 Projects/Tasks",
     "7 Tasks",
     "6 Projects/Tasks/archive",
