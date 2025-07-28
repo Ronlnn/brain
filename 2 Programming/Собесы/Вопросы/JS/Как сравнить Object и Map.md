@@ -4,8 +4,8 @@ tags:
   - js
   - review
 zero-links: "[[100 вопросов по JS]]"
-sr-due: 2025-07-24
-sr-interval: 3
+sr-due: 2025-08-09
+sr-interval: 12
 sr-ease: 250
 ---
 ## Как сравнить Object и Map

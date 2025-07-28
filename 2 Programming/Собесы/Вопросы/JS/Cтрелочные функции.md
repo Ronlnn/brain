@@ -4,9 +4,9 @@ tags:
   - js
   - review
 zero-links: "[[100 вопросов по JS]]"
-sr-due: 2025-07-25
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-08-22
+sr-interval: 25
+sr-ease: 290
 ---
 ## Cтрелочные функции
 ---
