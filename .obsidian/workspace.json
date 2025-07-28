@@ -52,8 +52,23 @@
               "icon": "lucide-file",
               "title": "Pet-проект \"6 проектов\""
             }
+          },
+          {
+            "id": "d45e0814b69df473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Programming/Linux/NixOs/02 NixOs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 NixOs"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +91,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -122,6 +137,20 @@
         "dimension": 60.35242290748899,
         "children": [
           {
+            "id": "dbb8f235f64a4a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 Projects/Первая работа.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Первая работа"
+            }
+          },
+          {
             "id": "82d867e17b02b917",
             "type": "leaf",
             "state": {
@@ -137,21 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Первая работа"
-            }
-          },
-          {
-            "id": "dbb8f235f64a4a8f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "6 Projects/Первая работа.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Первая работа"
+              "title": "Backlinks for Первая работа"
             }
           },
           {
@@ -201,7 +216,7 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -223,9 +238,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "63c9ad379fa9ee04",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -238,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "2 Programming/Linux/NixOs/02 NixOs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,7 +313,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Первая работа"
+              "title": "Graph of 02 NixOs"
             }
           }
         ]
@@ -299,29 +324,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dashboard-navigator:Open dashboard navigator": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "obsidian-spaced-repetition:Изучать карточки": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "773e44ab4fb17e25",
+  "active": "d3352128d6f925ce",
   "lastOpenFiles": [
+    "6 Projects/Первая работа.md",
+    "2 Programming/Linux/NixOs/02 NixOs.md",
+    "2 Programming/Linux/NixOs",
     "6 Projects/Tasks/100 вопросов JS.md",
     "6 Projects/Tasks/Pet-проект \"6 проектов\".md",
     "6 Projects/Tasks/Начать стажу s21.md",
-    "6 Projects/Первая работа.md",
     "6 Projects/Tasks/Освоить слепую печать.md",
     "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
     "2 Programming/Собесы/Вопросы/JS/Разница между == и ===.md",
@@ -346,7 +373,6 @@
     "6 Projects/Порядочный иностранец.md",
     "6 Projects/Tasks/Решить вопрос с Привычками.md",
     "6 Projects/01 Цели.md",
-    "6 Projects/00 Projects.md",
     "6 Projects/Tasks",
     "7 Tasks",
     "6 Projects/Tasks/archive",
@@ -363,7 +389,6 @@
     "_attachments/pixel-banner-images/samurai-horse.jpg",
     "_attachments/pixel-banner-images/samurai-pixle.jpg",
     "_attachments/pixel-banner-images/smaurai-dragon.jpg",
-    "_attachments/tmp",
     "Без названия.canvas"
   ]
 }
