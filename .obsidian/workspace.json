@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/Linux/NixOs/02 NixOs.md",
+                "file": "6 Projects/Первая работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 NixOs"
+              "title": "Первая работа"
             }
           }
         ],
@@ -91,7 +91,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -216,7 +216,7 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "Очередь заметок на повторение"
             }
           },
           {
@@ -263,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/Linux/NixOs/02 NixOs.md",
+                "file": "6 Projects/Первая работа.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,7 +313,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 02 NixOs"
+              "title": "Граф Первая работа"
             }
           }
         ]
@@ -324,18 +324,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-spaced-repetition:Изучать карточки": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dashboard-navigator:Open dashboard navigator": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-full-calendar:Open Full Calendar": false
@@ -343,8 +343,9 @@
   },
   "active": "d3352128d6f925ce",
   "lastOpenFiles": [
-    "6 Projects/Первая работа.md",
+    "6 Projects/Порядочный иностранец.md",
     "2 Programming/Linux/NixOs/02 NixOs.md",
+    "6 Projects/Первая работа.md",
     "2 Programming/Linux/NixOs",
     "6 Projects/Tasks/100 вопросов JS.md",
     "6 Projects/Tasks/Pet-проект \"6 проектов\".md",
@@ -370,7 +371,6 @@
     "2 Programming/Собесы/Вопросы/React",
     "2 Programming/Собесы/Вопросы/JS",
     "2 Programming/Собесы/Вопросы",
-    "6 Projects/Порядочный иностранец.md",
     "6 Projects/Tasks/Решить вопрос с Привычками.md",
     "6 Projects/01 Цели.md",
     "6 Projects/Tasks",
