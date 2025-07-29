@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hiddify настройка.md",
+                "file": "2 Programming/Linux/NixOs/Hiddify настройка.md",
                 "mode": "source",
                 "source": false
               },
@@ -263,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hiddify настройка.md",
+                "file": "2 Programming/Linux/NixOs/Hiddify настройка.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,7 +308,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.569350649350649,
                   "linkDistance": 250,
-                  "scale": 0.44444444444444525,
+                  "scale": 1.0000000000000018,
                   "close": true
                 }
               },
@@ -341,11 +341,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d96e449f068bbde9",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
-    "2 Programming/Linux/NixOs/03 Flake.md",
-    "Hiddify настройка.md",
+    "2 Programming/Linux/01 Linux.md",
     "2 Programming/Linux/NixOs/03 Home-manager.md",
+    "2 Programming/Linux/NixOs/03 Flake.md",
+    "2 Programming/Linux/NixOs/02 NixOs.md",
+    "2 Programming/Linux/NixOs/Hiddify настройка.md",
     "6 Projects/Tasks/Начать стажу s21.md",
     "6 Projects/Первая работа.md",
     "6 Projects/Tasks/100 вопросов JS.md",
@@ -361,7 +363,6 @@
     "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
     "2 Programming/Собесы/Вопросы/JS/Цепочка прототипов.md",
     "6 Projects/Порядочный иностранец.md",
-    "2 Programming/Linux/NixOs/02 NixOs.md",
     "2 Programming/Linux/NixOs",
     "6 Projects/Tasks/Освоить слепую печать.md",
     "2 Programming/Собесы/100 вопросов по JS.md",
@@ -369,7 +370,6 @@
     "2 Programming/JS/01 JS.md",
     "2 Programming/JS/JSON.md",
     "_templates/Default.md",
-    "2 Programming/Собесы/100 вопросов по React.md",
     "2 Programming/Собесы/Вопросы/React",
     "2 Programming/Собесы/Вопросы/JS",
     "2 Programming/Собесы/Вопросы",
