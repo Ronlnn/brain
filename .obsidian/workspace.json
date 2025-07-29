@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Projects/Tasks/Начать стажу s21.md",
+                "file": "Hiddify настройка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Начать стажу s21"
+              "title": "Hiddify настройка"
             }
           }
         ],
@@ -263,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/Tasks/Начать стажу s21.md",
+                "file": "Hiddify настройка.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,7 +313,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Начать стажу s21"
+              "title": "Граф Hiddify настройка"
             }
           }
         ]
@@ -341,8 +341,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "d96e449f068bbde9",
   "lastOpenFiles": [
+    "2 Programming/Linux/NixOs/03 Flake.md",
+    "Hiddify настройка.md",
+    "2 Programming/Linux/NixOs/03 Home-manager.md",
+    "6 Projects/Tasks/Начать стажу s21.md",
     "6 Projects/Первая работа.md",
     "6 Projects/Tasks/100 вопросов JS.md",
     "6 Projects/Tasks/Pet-проект \"6 проектов\".md",
@@ -359,7 +363,6 @@
     "6 Projects/Порядочный иностранец.md",
     "2 Programming/Linux/NixOs/02 NixOs.md",
     "2 Programming/Linux/NixOs",
-    "6 Projects/Tasks/Начать стажу s21.md",
     "6 Projects/Tasks/Освоить слепую печать.md",
     "2 Programming/Собесы/100 вопросов по JS.md",
     "Без названия.md",
@@ -367,12 +370,9 @@
     "2 Programming/JS/JSON.md",
     "_templates/Default.md",
     "2 Programming/Собесы/100 вопросов по React.md",
-    "2 Programming/React/01 React.md",
     "2 Programming/Собесы/Вопросы/React",
     "2 Programming/Собесы/Вопросы/JS",
     "2 Programming/Собесы/Вопросы",
-    "6 Projects/Tasks/Решить вопрос с Привычками.md",
-    "6 Projects/01 Цели.md",
     "6 Projects/Tasks",
     "7 Tasks",
     "6 Projects/Tasks/archive",
