@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Books/01 My Bookshelf.md",
+                "file": "2 Programming/JS/Транспиляция.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 My Bookshelf"
+              "title": "Транспиляция"
             }
           }
         ],
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Books/01 My Bookshelf.md",
+                "file": "2 Programming/JS/Транспиляция.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +299,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 01 My Bookshelf"
+              "title": "Граф Транспиляция"
             }
           }
         ]
@@ -327,12 +327,24 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
+    "2 Programming/JS/Прямая совместимость.md",
+    "2 Programming/JS/Последовательность выполнения исходного кода Js.md",
+    "2 Programming/JS/Итераторы.md",
+    "2 Programming/JS/Итерируемые значения.md",
+    "2 Programming/JS/Замыкание.md",
+    "2 Programming/JS/Брэндан Эйк - создатель JS.md",
+    "2 Programming/JS/Spread & Rest (...).md",
+    "2 Programming/JS/for...of.md",
+    "2 Programming/JS/JSON.md",
+    "2 Programming/JS/Babel.md",
+    "2 Programming/Algorithms/01 Algorithms.md",
+    "Home.md",
+    "1 Books/01 My Bookshelf.md",
     "1 Books/00 Books.md",
     "1 Books/45 татуировок личности.md",
     "1 Books/02 Reading now.md",
-    "1 Books/01 My Bookshelf.md",
     "6 Projects/Первая работа.md",
     "6 Projects/Tasks/100 вопросов JS.md",
     "6 Projects/Tasks/Pet-проект \"6 проектов\".md",
@@ -340,21 +352,9 @@
     "6 Projects/Tasks/Начать стажу s21.md",
     "5 Resources/Passwords/GitHub Token brain.md",
     "5 Resources/Passwords/01 Passwords.md",
-    "Home.md",
     "2 Programming/Linux/NixOs/Hiddify настройка.md",
     "2 Programming/Linux/NixOs/03 Home-manager.md",
     "2 Programming/Linux/01 Linux.md",
-    "2 Programming/Linux/NixOs/03 Flake.md",
-    "2 Programming/Linux/NixOs/02 NixOs.md",
-    "2 Programming/Собесы/Вопросы/JS/JSON и основные операции с ним.md",
-    "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
-    "2 Programming/Собесы/Вопросы/JS/Разница между == и ===.md",
-    "2 Programming/Собесы/Вопросы/JS/Для чего нужен метод slice.md",
-    "2 Programming/Собесы/Вопросы/JS/Для чего нужен метод splice.md",
-    "2 Programming/Собесы/Вопросы/JS/Как сравнить Object и Map.md",
-    "2 Programming/Собесы/Вопросы/JS/Разница между call,apply,bind.md",
-    "2 Programming/Собесы/Вопросы/JS/Разница между slice() и spilce().md",
-    "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
     "2 Programming/Linux/NixOs",
     "2 Programming/Собесы/Вопросы/React",
     "2 Programming/Собесы/Вопросы/JS",
