@@ -40,21 +40,35 @@
             }
           },
           {
-            "id": "29c79f26ac3aac1f",
+            "id": "a616890b8d7f7762",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/JS/Транспиляция.md",
+                "file": "1 Books/Сеть отношений в РФ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Транспиляция"
+              "title": "Сеть отношений в РФ"
+            }
+          },
+          {
+            "id": "ea02396de0aef944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Books/01 My Bookshelf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 My Bookshelf"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,16 +220,6 @@
             }
           },
           {
-            "id": "981c652041d206ae",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
-          },
-          {
             "id": "56cebeaa773b2f01",
             "type": "leaf",
             "state": {
@@ -236,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -249,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/JS/Транспиляция.md",
+                "file": "1 Books/01 My Bookshelf.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,12 +298,12 @@
                   "repelStrength": 10,
                   "linkStrength": 0.569350649350649,
                   "linkDistance": 250,
-                  "scale": 0.29629629629629683,
+                  "scale": 0.5443310539518185,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Транспиляция"
+              "title": "Граф 01 My Bookshelf"
             }
           }
         ]
@@ -327,34 +331,34 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "ea02396de0aef944",
   "lastOpenFiles": [
+    "6 Projects/Tasks/100 вопросов JS.md",
+    "6 Projects/Tasks/Изменить данные документов.md",
+    "1 Books/Сеть отношений в РФ.md",
+    "1 Books/01 My Bookshelf.md",
+    "Home.md",
+    "6 Projects/Первая работа.md",
+    "2 Programming/JS/Spread & Rest (...).md",
+    "6 Projects/Порядочный иностранец.md",
+    "2 Programming/JS/Babel.md",
+    "2 Programming/JS/Транспиляция.md",
     "2 Programming/JS/Прямая совместимость.md",
     "2 Programming/JS/Последовательность выполнения исходного кода Js.md",
     "2 Programming/JS/Итераторы.md",
     "2 Programming/JS/Итерируемые значения.md",
     "2 Programming/JS/Замыкание.md",
     "2 Programming/JS/Брэндан Эйк - создатель JS.md",
-    "2 Programming/JS/Spread & Rest (...).md",
     "2 Programming/JS/for...of.md",
     "2 Programming/JS/JSON.md",
-    "2 Programming/JS/Babel.md",
     "2 Programming/Algorithms/01 Algorithms.md",
-    "Home.md",
-    "1 Books/01 My Bookshelf.md",
     "1 Books/00 Books.md",
     "1 Books/45 татуировок личности.md",
     "1 Books/02 Reading now.md",
-    "6 Projects/Первая работа.md",
-    "6 Projects/Tasks/100 вопросов JS.md",
     "6 Projects/Tasks/Pet-проект \"6 проектов\".md",
     "5 Resources/Passwords/Passwords.md",
     "6 Projects/Tasks/Начать стажу s21.md",
     "5 Resources/Passwords/GitHub Token brain.md",
-    "5 Resources/Passwords/01 Passwords.md",
-    "2 Programming/Linux/NixOs/Hiddify настройка.md",
-    "2 Programming/Linux/NixOs/03 Home-manager.md",
-    "2 Programming/Linux/01 Linux.md",
     "2 Programming/Linux/NixOs",
     "2 Programming/Собесы/Вопросы/React",
     "2 Programming/Собесы/Вопросы/JS",
