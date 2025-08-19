@@ -66,21 +66,9 @@
               "icon": "lucide-file",
               "title": "00 Projects"
             }
-          },
-          {
-            "id": "5f7017bd428628c2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.9.10"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,6 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "6 Projects/00 Projects.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -324,7 +313,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф 00 Projects"
             }
           }
         ]
