@@ -53,7 +53,8 @@
               "title": "Мои Гос.услуги"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "6 Projects/Tasks/Мои Гос.услуги.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +299,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Первая работа"
+              "title": "Граф Мои Гос.услуги"
             }
           }
         ]
@@ -327,14 +328,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "ea02396de0aef944",
   "lastOpenFiles": [
     "6 Projects/Tasks/100 вопросов JS.md",
+    "6 Projects/Первая работа.md",
     "6 Projects/Tasks/Мои Гос.услуги.md",
     "6 Projects/00 Projects.md",
     "5 Resources/00 Resources.md",
     "5 Resources/code-stats.md",
-    "6 Projects/Первая работа.md",
     "6 Projects/01 Цели.md",
     "6 Projects/Порядочный иностранец.md",
     "6 Projects/Tasks/Изменить данные документов.md",
