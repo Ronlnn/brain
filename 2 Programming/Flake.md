@@ -1,7 +1,7 @@
 ---
-prompt: 
+prompt:
 tags:
   - linux
-zero-links: "[[02 NixOs]]"
+zero-links: "[[NixOs]]"
 ---
 ## 03 Flake

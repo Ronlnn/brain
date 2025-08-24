@@ -1,8 +1,8 @@
 ---
-prompt: 
+prompt:
 tags:
   - linux
-zero-links: "[[02 NixOs]]"
+zero-links: "[[NixOs]]"
 ---
 ## Hiddify настройка
 

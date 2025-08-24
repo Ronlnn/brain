@@ -2,5 +2,5 @@
 tags:
   - knowledge
   - react
-zero-links: "[[01 React]]"
+zero-links: "[[00 React]]"
 ---

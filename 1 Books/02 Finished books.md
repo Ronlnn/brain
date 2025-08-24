@@ -1,7 +1,4 @@
 ---
-banner: "![[_attachments/pixel-banner-images/library.png]]"
-banner-x: 49
-banner-y: 49
 cssclasses:
   - cards
   - cards-1-1,

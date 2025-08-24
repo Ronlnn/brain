@@ -4,7 +4,7 @@ tags:
   - js
   - react
   - review
-zero-links: "[[01 JS]]"
+zero-links: "[[00 JS]]"
 created: 21-07-25
 prompt:
 ---
@@ -16,4 +16,4 @@ prompt:
 
 
 
-[[01 React]]
+[[00 React]]

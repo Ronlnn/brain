@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e4734416440ce919",
+        "id": "9ac3019cddc1916f",
         "type": "tabs",
         "children": [
           {
-            "id": "13ef36342ea96ce6",
+            "id": "229a0c44080b075b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Programming/00 Programming.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00 Programming"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -143,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Programming/00 Programming.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 00 Programming"
+              "title": "Структура"
             }
           },
           {
@@ -206,7 +201,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/00 Programming.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +250,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 00 Programming"
+              "title": "Граф"
             }
           }
         ]
@@ -284,34 +278,35 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "13ef36342ea96ce6",
+  "active": "229a0c44080b075b",
   "lastOpenFiles": [
-    "2 Programming/Algorithms/01 Algorithms.md",
+    "1 Books/00 Books.md",
+    "1 Books/01 My Bookshelf.md",
+    "1 Books/02 Reading now.md",
+    "1 Books/02 Finished books.md",
+    "_in/_templates/📑Theory.md",
+    "_in/_templates/📘Book.md",
+    "_in/_templates/Default.md",
+    "2 Programming/00 JS.md",
+    "_in/_templates/📁Projects.md",
+    "_in/_templates/❗Problems.md",
+    "_in/_templates/✅Tasks.md",
+    "6 Base",
+    "Home.md",
+    "2 Programming/00 React.md",
+    "2 Programming/00 Algorithms.md",
+    "2 Programming/00 CSS.md",
+    "2 Programming/00 Linux.md",
+    "2 Programming/00 Programming.md",
+    "2 Programming/for...of.md",
+    "2 Programming/Отключение тачпада в Линукс.md",
+    "2 Programming/NixOs.md",
+    "2 Programming/Flake.md",
+    "2 Programming/Home-manager.md",
     "5 Resources/code-stats.md",
     "5 Resources/00 Resources.md",
     "5 Resources/Code Snippets/Obsidian/Таблицы всех задач проекта.md",
     "5 Resources/Code Snippets/Obsidian/Таблица проектов из папки 6 Projects.md",
-    "5 Resources/Code Snippets/Obsidian/Прогрессбар связанных задач.md",
-    "5 Resources/Code Snippets/Obsidian/Прогресс выполненных задач в текущей заметке.md",
-    "5 Resources/Code Snippets/Obsidian/Cards.md",
-    "5 Resources/Links/Вопросы по Js GitHub.md",
-    "5 Resources/Hotkeys/VSCode.md",
-    "5 Resources/Links/React 100 вопросов GitHub.md",
-    "5 Resources/Links/TS GitHub materials.md",
-    "5 Resources/Passwords/GitHub Token brain.md",
-    "5 Resources/Passwords/Passwords.md",
-    "5 Resources/Passwords/01 Passwords.md",
-    "5 Resources/Links/01 Links.md",
-    "5 Resources/Hotkeys/01 Hotkeys.md",
-    "5 Resources/Docs/01 Docs.md",
-    "5 Resources/Code Snippets/Bash/02 Bash Snippets.md",
-    "5 Resources/Code Snippets/JS/02 JS Snippets.md",
-    "5 Resources/Code Snippets/Obsidian/02 Obsidian.md",
-    "5 Resources/Code Snippets/01 Code Snippets.md",
-    "5 Resources/Code Snippets/React/02 React Snippets.md",
-    "5 Resources/CheatSheets/01 CheatSheets.md",
-    "24-08-25.md",
-    "_in/_templates/📅Logs.md",
     "3 Canvas/Без названия.canvas",
     "Без названия.canvas",
     "3 Canvas",
@@ -325,7 +320,6 @@
     "2 Programming/Собесы/Вопросы",
     "6 Projects/Tasks",
     "7 Tasks",
-    "6 Projects/Tasks/archive",
     "_attachments/books-cover/45-tatu.png",
     "_attachments/books-cover/1984.jpg",
     "_attachments/pixel-banner-images/berserk-swords.jpg",
