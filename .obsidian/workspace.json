@@ -256,7 +256,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.569350649350649,
                   "linkDistance": 250,
-                  "scale": 0.5443310539518185,
+                  "scale": 0.2962962962962969,
                   "close": true
                 }
               },
@@ -289,19 +289,20 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "96af69ca6e3a1905",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
+    "6 Projects/Порядочный иностранец.md",
+    "3 Problems/00 Problems.md",
+    "3 Problems/React/01 React Problems.md",
+    "3 Problems/Js/01 Js Problems.md",
+    "3 Problems/CSS/01 Css Problems.md",
+    "3 Problems/Git/01 Git Problems.md",
     "Без названия.base",
     "6 Projects/Первая работа.md",
     "6 Projects/Tasks/100 вопросов JS.md",
     "Home.md",
     "1 Books/01 My Bookshelf.md",
     "1 Books/00 Books.md",
-    "3 Problems/00 Problems.md",
-    "3 Problems/React/01 React Problems.md",
-    "3 Problems/Js/01 Js Problems.md",
-    "3 Problems/Git/01 Git Problems.md",
-    "3 Problems/CSS/01 Css Problems.md",
     "2 Programming/Algorithms/01 Algorithms.md",
     "2 Programming/CSS/01 CSS.md",
     "1 Books/1984.md",
@@ -311,7 +312,6 @@
     "5 Resources/00 Resources.md",
     "5 Resources/code-stats.md",
     "6 Projects/01 Цели.md",
-    "6 Projects/Порядочный иностранец.md",
     "6 Projects/Tasks/Изменить данные документов.md",
     "1 Books/Сеть отношений в РФ.md",
     "2 Programming/00 Programming.md",
