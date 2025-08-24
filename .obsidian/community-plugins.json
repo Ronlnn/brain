@@ -11,10 +11,8 @@
   "obsidian-emoji-toolbar",
   "obsidian-table-generator",
   "code-styler",
-  "metaedit",
   "quickadd",
   "codestats",
-  "metadata-menu",
   "advanced-canvas",
   "highlightr-plugin",
   "obsidian-auto-link-title",
@@ -28,9 +26,6 @@
   "obsidian-chartsview-plugin",
   "cmdr",
   "obsidian-charts",
-  "progressbar",
-  "obsidian-tasks-plugin",
-  "obsidian-reminder-plugin",
   "obsidian-full-calendar",
   "calendar"
 ]

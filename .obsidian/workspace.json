@@ -11,10 +11,12 @@
             "id": "96af69ca6e3a1905",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "image",
+              "state": {
+                "file": "_attachments/Pasted image 20250709190021.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250709190021"
             }
           }
         ]
@@ -187,16 +189,6 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
-          },
-          {
-            "id": "411c79637b89b421",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
           }
         ],
         "currentTab": 5
@@ -212,6 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_attachments/Pasted image 20250709190021.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,7 +254,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Pasted image 20250709190021"
             }
           }
         ]
@@ -289,8 +282,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "96af69ca6e3a1905",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20250709171835.png",
+    "Home.md",
+    "Без названия.canvas",
+    "_attachments/Pasted image 20250709190021.png",
+    "6 Projects/Первая работа.md",
     "6 Projects/Порядочный иностранец.md",
     "3 Problems/00 Problems.md",
     "3 Problems/React/01 React Problems.md",
@@ -298,9 +296,7 @@
     "3 Problems/CSS/01 Css Problems.md",
     "3 Problems/Git/01 Git Problems.md",
     "Без названия.base",
-    "6 Projects/Первая работа.md",
     "6 Projects/Tasks/100 вопросов JS.md",
-    "Home.md",
     "1 Books/01 My Bookshelf.md",
     "1 Books/00 Books.md",
     "2 Programming/Algorithms/01 Algorithms.md",
@@ -333,9 +329,6 @@
     "_attachments/pixel-banner-images/girl.jpg",
     "_attachments/pixel-banner-images/samurai-3.jpg",
     "_attachments/pixel-banner-images/samurai-ghost.jpg",
-    "_attachments/pixel-banner-images/samurai-horse.jpg",
-    "_attachments/pixel-banner-images/samurai-pixle.jpg",
-    "_attachments/pixel-banner-images/smaurai-dragon.jpg",
-    "Без названия.canvas"
+    "_attachments/pixel-banner-images/samurai-horse.jpg"
   ]
 }
