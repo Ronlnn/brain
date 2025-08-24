@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "10a44df2dc7124cf",
+        "id": "e4734416440ce919",
         "type": "tabs",
         "children": [
           {
-            "id": "083e88dd11dc6336",
+            "id": "13ef36342ea96ce6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_in/_templates/📅Logs.md",
+                "file": "2 Programming/00 Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅Logs"
+              "title": "00 Programming"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_in/_templates/📅Logs.md",
+                "file": "2 Programming/00 Programming.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 📅Logs"
+              "title": "Структура 00 Programming"
             }
           },
           {
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_in/_templates/📅Logs.md",
+                "file": "2 Programming/00 Programming.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 📅Logs"
+              "title": "Граф 00 Programming"
             }
           }
         ]
@@ -284,40 +284,41 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "083e88dd11dc6336",
+  "active": "13ef36342ea96ce6",
   "lastOpenFiles": [
-    "2 Programming/React/01 React.md",
+    "2 Programming/Algorithms/01 Algorithms.md",
+    "5 Resources/code-stats.md",
+    "5 Resources/00 Resources.md",
+    "5 Resources/Code Snippets/Obsidian/Таблицы всех задач проекта.md",
+    "5 Resources/Code Snippets/Obsidian/Таблица проектов из папки 6 Projects.md",
+    "5 Resources/Code Snippets/Obsidian/Прогрессбар связанных задач.md",
+    "5 Resources/Code Snippets/Obsidian/Прогресс выполненных задач в текущей заметке.md",
+    "5 Resources/Code Snippets/Obsidian/Cards.md",
+    "5 Resources/Links/Вопросы по Js GitHub.md",
+    "5 Resources/Hotkeys/VSCode.md",
+    "5 Resources/Links/React 100 вопросов GitHub.md",
+    "5 Resources/Links/TS GitHub materials.md",
+    "5 Resources/Passwords/GitHub Token brain.md",
+    "5 Resources/Passwords/Passwords.md",
+    "5 Resources/Passwords/01 Passwords.md",
+    "5 Resources/Links/01 Links.md",
+    "5 Resources/Hotkeys/01 Hotkeys.md",
+    "5 Resources/Docs/01 Docs.md",
+    "5 Resources/Code Snippets/Bash/02 Bash Snippets.md",
+    "5 Resources/Code Snippets/JS/02 JS Snippets.md",
+    "5 Resources/Code Snippets/Obsidian/02 Obsidian.md",
+    "5 Resources/Code Snippets/01 Code Snippets.md",
+    "5 Resources/Code Snippets/React/02 React Snippets.md",
+    "5 Resources/CheatSheets/01 CheatSheets.md",
+    "24-08-25.md",
+    "_in/_templates/📅Logs.md",
     "3 Canvas/Без названия.canvas",
     "Без названия.canvas",
     "3 Canvas",
-    "2 Programming/00 Programming.md",
-    "Home.md",
     "_in",
-    "7 Obsidian/00 Obsidian.md",
-    "7 Obsidian/Синхронизация на Айфоне.md",
-    "7 Obsidian/Дока по AnuPpuccin.md",
-    "7 Obsidian/DataCards.md",
-    "7 Obsidian/Dataview/Команды Dataview.md",
     "_in/_attachments/Pasted image 20250709190021.png",
     "_in/_attachments/Pasted image 20250709171835.png",
-    "6 Projects/Первая работа.md",
-    "6 Projects/Порядочный иностранец.md",
-    "3 Problems/00 Problems.md",
-    "3 Problems/React/01 React Problems.md",
-    "3 Problems/Js/01 Js Problems.md",
-    "3 Problems/CSS/01 Css Problems.md",
-    "3 Problems/Git/01 Git Problems.md",
     "Без названия.base",
-    "6 Projects/Tasks/100 вопросов JS.md",
-    "1 Books/01 My Bookshelf.md",
-    "1 Books/00 Books.md",
-    "2 Programming/Algorithms/01 Algorithms.md",
-    "2 Programming/CSS/01 CSS.md",
-    "1 Books/1984.md",
-    "6 Projects/00 Projects.md",
-    "1 Books/Сила Воли.md",
-    "6 Projects/Tasks/Мои Гос.услуги.md",
-    "5 Resources/00 Resources.md",
     "2 Programming/Linux/NixOs",
     "2 Programming/Собесы/Вопросы/React",
     "2 Programming/Собесы/Вопросы/JS",

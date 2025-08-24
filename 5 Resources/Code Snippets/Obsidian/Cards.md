@@ -1,7 +1,7 @@
 ---
 tags:
   - resources
-zero-links: "[[02 Obsidian]]"
+zero-links: "[[00 Resources]]"
 ---
 - Сниппет для потрясного вида карточек в dataview таблицах. 
 - Использую в книжном трекере

@@ -1,7 +1,7 @@
 ---
 tags:
   - resources
-zero-links: "[[01 Links]]"
+zero-links: "[[00 Resources]]"
 ---
 # Вопросы по JS GitHub
 

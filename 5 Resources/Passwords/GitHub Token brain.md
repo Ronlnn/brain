@@ -1,7 +1,7 @@
 ---
 tags:
   - resources
-zero-links: "[[01 Passwords]]"
+zero-links: "[[00 Resources]]"
 ---
 - GitHub Персональный Token для репозитория brain 
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - resources
-zero-links: "[[02 Obsidian]]"
+zero-links: "[[00 Resources]]"
 ---
 ```dataviewjs
 const folderPath = '"6 Projects"';
