@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Problems/00 Problems.md",
+                "file": "1 Books/01 My Bookshelf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Problems"
+              "title": "01 My Bookshelf"
             }
           }
         ],
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 Problems/00 Problems.md",
+                "file": "1 Books/01 My Bookshelf.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +299,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 00 Problems"
+              "title": "Граф 01 My Bookshelf"
             }
           }
         ]
@@ -322,22 +322,22 @@
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c0e479d152508172",
+  "active": "d3352128d6f925ce",
   "lastOpenFiles": [
+    "1 Books/00 Books.md",
+    "1 Books/01 My Bookshelf.md",
+    "3 Problems/00 Problems.md",
     "3 Problems/React/01 React Problems.md",
     "3 Problems/Js/01 Js Problems.md",
     "3 Problems/Git/01 Git Problems.md",
     "3 Problems/CSS/01 Css Problems.md",
     "2 Programming/Algorithms/01 Algorithms.md",
     "2 Programming/CSS/01 CSS.md",
-    "1 Books/01 My Bookshelf.md",
-    "1 Books/00 Books.md",
     "1 Books/1984.md",
     "6 Projects/00 Projects.md",
     "Home.md",
@@ -355,7 +355,6 @@
     "1 Books/Типы, Грам.конструкции.md",
     "2 Programming/JS/Spread & Rest (...).md",
     "2 Programming/JS/Babel.md",
-    "2 Programming/JS/Транспиляция.md",
     "2 Programming/Linux/NixOs",
     "2 Programming/Собесы/Вопросы/React",
     "2 Programming/Собесы/Вопросы/JS",
