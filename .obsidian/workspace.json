@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f9bd628a96acbcd",
+        "id": "baba2a40c66bda5d",
         "type": "tabs",
         "children": [
           {
-            "id": "3a3a8dd4b31a269a",
+            "id": "7f867b7724c74b34",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -278,7 +278,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "d3352128d6f925ce",
   "lastOpenFiles": [
     "7 Obsidian/Неявные поля метаданных.md",
     "7 Obsidian/Команды Dataview.md",
