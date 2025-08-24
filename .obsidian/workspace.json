@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 267.5
   },
   "right": {
     "id": "1c5ed590a4ae4b32",
@@ -139,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 Obsidian/Неявные поля метаданных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Неявные поля метаданных"
+              "title": "Структура"
             }
           },
           {
@@ -202,7 +201,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7 Obsidian/Неявные поля метаданных.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +250,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Неявные поля метаданных"
+              "title": "Граф"
             }
           }
         ]
@@ -282,6 +280,7 @@
   },
   "active": "460284fba49617d1",
   "lastOpenFiles": [
+    "7 Obsidian/Неявные поля метаданных.md",
     "7 Obsidian/Команды Dataview.md",
     "7 Obsidian/Дока по AnuPpuccin.md",
     "7 Obsidian/DataCards.md",
@@ -308,7 +307,6 @@
     "2 Programming/for...of.md",
     "2 Programming/Отключение тачпада в Линукс.md",
     "2 Programming/NixOs.md",
-    "2 Programming/Flake.md",
     "3 Canvas/Без названия.canvas",
     "Без названия.canvas",
     "3 Canvas",
