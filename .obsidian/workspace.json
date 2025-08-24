@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ac3019cddc1916f",
+        "id": "9f9bd628a96acbcd",
         "type": "tabs",
         "children": [
           {
-            "id": "229a0c44080b075b",
+            "id": "3a3a8dd4b31a269a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.51103591918945
+    "width": 232.5
   },
   "right": {
     "id": "1c5ed590a4ae4b32",
@@ -139,12 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "7 Obsidian/Неявные поля метаданных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Неявные поля метаданных"
             }
           },
           {
@@ -201,6 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "7 Obsidian/Неявные поля метаданных.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +252,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Неявные поля метаданных"
             }
           }
         ]
@@ -278,8 +280,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "229a0c44080b075b",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
+    "7 Obsidian/Команды Dataview.md",
+    "7 Obsidian/Дока по AnuPpuccin.md",
+    "7 Obsidian/DataCards.md",
+    "7 Obsidian/01 Dataview.md",
+    "7 Obsidian/00 Obsidian.md",
     "1 Books/00 Books.md",
     "1 Books/01 My Bookshelf.md",
     "1 Books/02 Reading now.md",
@@ -302,11 +309,6 @@
     "2 Programming/Отключение тачпада в Линукс.md",
     "2 Programming/NixOs.md",
     "2 Programming/Flake.md",
-    "2 Programming/Home-manager.md",
-    "5 Resources/code-stats.md",
-    "5 Resources/00 Resources.md",
-    "5 Resources/Code Snippets/Obsidian/Таблицы всех задач проекта.md",
-    "5 Resources/Code Snippets/Obsidian/Таблица проектов из папки 6 Projects.md",
     "3 Canvas/Без названия.canvas",
     "Без названия.canvas",
     "3 Canvas",
