@@ -81,5 +81,7 @@
   "anuppuccin-theme-settings@@bold-weight": "700",
   "anuppuccin-theme-settings@@anp-table-highlight-opacity": 1,
   "anuppuccin-theme-settings@@anp-table-thickness": 3,
-  "anuppuccin-theme-settings@@anp-table-width-pct": 100
+  "anuppuccin-theme-settings@@anp-table-width-pct": 100,
+  "minimal-advanced@@font-ui-small": 21,
+  "minimal-advanced@@font-ui-smaller": 13
 }

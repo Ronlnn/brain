@@ -4,19 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "784a28ebf67a4577",
+        "id": "689237bd2d97896e",
         "type": "tabs",
         "children": [
           {
-            "id": "96af69ca6e3a1905",
+            "id": "e104118992ab9381",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "_attachments/Pasted image 20250709190021.png"
+                "file": "Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250709190021"
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
             }
           }
         ]
@@ -204,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_attachments/Pasted image 20250709190021.png",
+                "file": "Без названия.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,7 +259,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Pasted image 20250709190021"
+              "title": "Граф Без названия"
             }
           }
         ]
@@ -282,12 +287,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "96af69ca6e3a1905",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
-    "_attachments/Pasted image 20250709171835.png",
+    "_in",
     "Home.md",
+    "7 Obsidian/00 Obsidian.md",
+    "7 Obsidian/Синхронизация на Айфоне.md",
+    "7 Obsidian/Дока по AnuPpuccin.md",
+    "7 Obsidian/DataCards.md",
+    "7 Obsidian/Dataview/Команды Dataview.md",
+    "_in/_attachments/Pasted image 20250709190021.png",
+    "_in/_attachments/Pasted image 20250709171835.png",
     "Без названия.canvas",
-    "_attachments/Pasted image 20250709190021.png",
     "6 Projects/Первая работа.md",
     "6 Projects/Порядочный иностранец.md",
     "3 Problems/00 Problems.md",
@@ -308,11 +319,6 @@
     "5 Resources/00 Resources.md",
     "5 Resources/code-stats.md",
     "6 Projects/01 Цели.md",
-    "6 Projects/Tasks/Изменить данные документов.md",
-    "1 Books/Сеть отношений в РФ.md",
-    "2 Programming/00 Programming.md",
-    "1 Books/Типы, Грам.конструкции.md",
-    "2 Programming/JS/Spread & Rest (...).md",
     "2 Programming/Linux/NixOs",
     "2 Programming/Собесы/Вопросы/React",
     "2 Programming/Собесы/Вопросы/JS",

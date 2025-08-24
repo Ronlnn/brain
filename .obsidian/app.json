@@ -2,7 +2,7 @@
   "promptDelete": false,
   "trashOption": "none",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "_attachments",
+  "attachmentFolderPath": "_in/_attachments",
   "spellcheck": false,
   "showUnsupportedFiles": false,
   "readableLineLength": false
