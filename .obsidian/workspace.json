@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "689237bd2d97896e",
+        "id": "10a44df2dc7124cf",
         "type": "tabs",
         "children": [
           {
-            "id": "e104118992ab9381",
+            "id": "083e88dd11dc6336",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Без названия.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "_in/_templates/📅Logs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
+              "icon": "lucide-file",
+              "title": "📅Logs"
             }
           }
         ]
@@ -146,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "_in/_templates/📅Logs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Первая работа"
+              "title": "Структура 📅Logs"
             }
           },
           {
@@ -192,11 +189,11 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "Очередь заметок на повторение"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -209,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "_in/_templates/📅Logs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,12 +251,12 @@
                   "repelStrength": 10,
                   "linkStrength": 0.569350649350649,
                   "linkDistance": 250,
-                  "scale": 0.2962962962962969,
+                  "scale": 0.5443310539518185,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Без названия"
+              "title": "Граф 📅Logs"
             }
           }
         ]
@@ -287,10 +284,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "083e88dd11dc6336",
   "lastOpenFiles": [
-    "_in",
+    "2 Programming/React/01 React.md",
+    "3 Canvas/Без названия.canvas",
+    "Без названия.canvas",
+    "3 Canvas",
+    "2 Programming/00 Programming.md",
     "Home.md",
+    "_in",
     "7 Obsidian/00 Obsidian.md",
     "7 Obsidian/Синхронизация на Айфоне.md",
     "7 Obsidian/Дока по AnuPpuccin.md",
@@ -298,7 +300,6 @@
     "7 Obsidian/Dataview/Команды Dataview.md",
     "_in/_attachments/Pasted image 20250709190021.png",
     "_in/_attachments/Pasted image 20250709171835.png",
-    "Без названия.canvas",
     "6 Projects/Первая работа.md",
     "6 Projects/Порядочный иностранец.md",
     "3 Problems/00 Problems.md",
@@ -317,8 +318,6 @@
     "1 Books/Сила Воли.md",
     "6 Projects/Tasks/Мои Гос.услуги.md",
     "5 Resources/00 Resources.md",
-    "5 Resources/code-stats.md",
-    "6 Projects/01 Цели.md",
     "2 Programming/Linux/NixOs",
     "2 Programming/Собесы/Вопросы/React",
     "2 Programming/Собесы/Вопросы/JS",
@@ -326,8 +325,6 @@
     "6 Projects/Tasks",
     "7 Tasks",
     "6 Projects/Tasks/archive",
-    "6 Projects/Tasks",
-    "5 Resources/Code Snippets/Obsidian",
     "_attachments/books-cover/45-tatu.png",
     "_attachments/books-cover/1984.jpg",
     "_attachments/pixel-banner-images/berserk-swords.jpg",
