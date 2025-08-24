@@ -4,57 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3c4c1f543ed4dd21",
+        "id": "784a28ebf67a4577",
         "type": "tabs",
         "children": [
           {
-            "id": "0630613ca7baa9b6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Projects/Первая работа.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Первая работа"
-            }
-          },
-          {
-            "id": "c5d4ce429ddd0ec0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Projects/Tasks/100 вопросов JS.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "100 вопросов JS"
-            }
-          },
-          {
-            "id": "c0e479d152508172",
+            "id": "96af69ca6e3a1905",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Books/01 My Bookshelf.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01 My Bookshelf"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,7 +212,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Books/01 My Bookshelf.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +261,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 01 My Bookshelf"
+              "title": "Граф"
             }
           }
         ]
@@ -327,10 +289,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "96af69ca6e3a1905",
   "lastOpenFiles": [
-    "1 Books/00 Books.md",
+    "Без названия.base",
+    "6 Projects/Первая работа.md",
+    "6 Projects/Tasks/100 вопросов JS.md",
+    "Home.md",
     "1 Books/01 My Bookshelf.md",
+    "1 Books/00 Books.md",
     "3 Problems/00 Problems.md",
     "3 Problems/React/01 React Problems.md",
     "3 Problems/Js/01 Js Problems.md",
@@ -340,11 +306,8 @@
     "2 Programming/CSS/01 CSS.md",
     "1 Books/1984.md",
     "6 Projects/00 Projects.md",
-    "Home.md",
-    "6 Projects/Tasks/100 вопросов JS.md",
     "1 Books/Сила Воли.md",
     "6 Projects/Tasks/Мои Гос.услуги.md",
-    "6 Projects/Первая работа.md",
     "5 Resources/00 Resources.md",
     "5 Resources/code-stats.md",
     "6 Projects/01 Цели.md",
@@ -354,7 +317,6 @@
     "2 Programming/00 Programming.md",
     "1 Books/Типы, Грам.конструкции.md",
     "2 Programming/JS/Spread & Rest (...).md",
-    "2 Programming/JS/Babel.md",
     "2 Programming/Linux/NixOs",
     "2 Programming/Собесы/Вопросы/React",
     "2 Programming/Собесы/Вопросы/JS",
@@ -366,7 +328,6 @@
     "5 Resources/Code Snippets/Obsidian",
     "_attachments/books-cover/45-tatu.png",
     "_attachments/books-cover/1984.jpg",
-    "6 Projects/archive",
     "_attachments/pixel-banner-images/berserk-swords.jpg",
     "_attachments/pixel-banner-images/catsle-pixle.jpg",
     "_attachments/pixel-banner-images/girl.jpg",
