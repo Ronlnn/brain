@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/Что такое IIFE.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Что такое классы в ES6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Что такое IIFE"
+              "title": "Что такое классы в ES6"
             }
           }
         ]
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/Что такое IIFE.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Что такое классы в ES6.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Что такое IIFE"
+              "title": "Граф Что такое классы в ES6"
             }
           }
         ]
@@ -305,8 +305,13 @@
   },
   "active": "93f107ed673d9f17",
   "lastOpenFiles": [
-    "2 Programming/Собесы/Вопросы/JS/Temporal Dead Zone.md",
+    "2 Programming/Собесы/Вопросы/JS/Что такое хойстинг.md",
+    "2 Programming/Собесы/Вопросы/JS/Что такое классы в ES6.md",
+    "2 Programming/Собесы/Вопросы/JS/Для чего нужен метод slice.md",
+    "2 Programming/Собесы/Вопросы/JS/Что такое мемоизация.md",
+    "2 Programming/Собесы/Вопросы/JS/Как декодировать и кодировать URL.md",
     "2 Programming/Собесы/Вопросы/JS/Что такое IIFE.md",
+    "2 Programming/Собесы/Вопросы/JS/Temporal Dead Zone.md",
     "2 Programming/Собесы/Вопросы/JS/Как переопределить переменные в блоке switch без ошибок?.md",
     "2 Programming/Собесы/Вопросы/JS/Разница между let и const.md",
     "2 Programming/Собесы/Вопросы/JS/Какова цель ключ.слова let.md",
@@ -319,7 +324,6 @@
     "2 Programming/Собесы/Вопросы/JS/Разница между == и ===.md",
     "2 Programming/Собесы/Вопросы/JS/JSON и основные операции с ним.md",
     "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
-    "2 Programming/Собесы/Вопросы/JS/Для чего нужен метод slice.md",
     "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
     "2 Programming/Собесы/Вопросы/JS/Цепочка прототипов.md",
     "2 Programming/Собесы/Вопросы/JS/Разница между slice() и spilce().md",
@@ -327,10 +331,6 @@
     "2 Programming/Собесы/Вопросы/JS/Для чего нужен метод splice.md",
     "2 Programming/Собесы/100 вопросов по JS.md",
     "2 Programming/Обратная совместимость.md",
-    "2 Programming/Итерируемые значения.md",
-    "2 Programming/Итераторы.md",
-    "2 Programming/Замыкание.md",
-    "2 Programming/Брэндан Эйк - создатель JS.md",
     "6 Base",
     "3 Canvas/Без названия.canvas",
     "Без названия.canvas",
