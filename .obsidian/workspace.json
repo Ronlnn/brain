@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/Разница между let и const.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Temporal Dead Zone.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Разница между let и const"
+              "title": "Temporal Dead Zone"
             }
           }
         ]
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/Разница между let и const.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Temporal Dead Zone.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Разница между let и const"
+              "title": "Граф Temporal Dead Zone"
             }
           }
         ]
@@ -305,8 +305,10 @@
   },
   "active": "93f107ed673d9f17",
   "lastOpenFiles": [
-    "2 Programming/Собесы/Вопросы/JS/Какова цель ключ.слова let.md",
+    "2 Programming/Собесы/Вопросы/JS/Как переопределить переменные в блоке switch без ошибок?.md",
+    "2 Programming/Собесы/Вопросы/JS/Temporal Dead Zone.md",
     "2 Programming/Собесы/Вопросы/JS/Разница между let и const.md",
+    "2 Programming/Собесы/Вопросы/JS/Какова цель ключ.слова let.md",
     "2 Programming/Собесы/Вопросы/JS/Чистая функция.md",
     "2 Programming/Собесы/Вопросы/JS/Карирование в JS.md",
     "2 Programming/Собесы/Вопросы/JS/Унарная функция.md",
@@ -329,8 +331,6 @@
     "2 Programming/Замыкание.md",
     "2 Programming/Брэндан Эйк - создатель JS.md",
     "2 Programming/00 React.md",
-    "2 Programming/00 Linux.md",
-    "2 Programming/00 JS.md",
     "6 Base",
     "3 Canvas/Без названия.canvas",
     "Без названия.canvas",
