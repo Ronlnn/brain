@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/Без названия.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Карирование в JS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Карирование в JS"
             }
           }
         ]
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/Без названия.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Карирование в JS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Без названия"
+              "title": "Граф Карирование в JS"
             }
           }
         ]
@@ -306,7 +306,7 @@
   "active": "93f107ed673d9f17",
   "lastOpenFiles": [
     "2 Programming/Собесы/Вопросы/JS/Унарная функция.md",
-    "2 Programming/Собесы/Вопросы/JS/Без названия.md",
+    "2 Programming/Собесы/Вопросы/JS/Карирование в JS.md",
     "2 Programming/Собесы/Вопросы/JS/Функция высшего порядка.md",
     "2 Programming/Собесы/Вопросы/JS/Функция первого класса, первого порядка.md",
     "2 Programming/Собесы/Вопросы/JS/Как сравнить Object и Map.md",
