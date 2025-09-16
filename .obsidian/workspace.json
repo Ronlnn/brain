@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/Чистая функция.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Какова цель ключ.слова let.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Чистая функция"
+              "title": "Какова цель ключ.слова let"
             }
           }
         ]
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/Чистая функция.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Какова цель ключ.слова let.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Чистая функция"
+              "title": "Граф Какова цель ключ.слова let"
             }
           }
         ]
@@ -305,8 +305,9 @@
   },
   "active": "93f107ed673d9f17",
   "lastOpenFiles": [
-    "2 Programming/Собесы/Вопросы/JS/Карирование в JS.md",
     "2 Programming/Собесы/Вопросы/JS/Чистая функция.md",
+    "2 Programming/Собесы/Вопросы/JS/Какова цель ключ.слова let.md",
+    "2 Programming/Собесы/Вопросы/JS/Карирование в JS.md",
     "2 Programming/Собесы/Вопросы/JS/Унарная функция.md",
     "2 Programming/Собесы/Вопросы/JS/Функция высшего порядка.md",
     "2 Programming/Собесы/Вопросы/JS/Функция первого класса, первого порядка.md",
@@ -330,7 +331,6 @@
     "2 Programming/00 Linux.md",
     "2 Programming/00 JS.md",
     "2 Programming/00 CSS.md",
-    "2 Programming/00 Algorithms.md",
     "6 Base",
     "3 Canvas/Без названия.canvas",
     "Без названия.canvas",
