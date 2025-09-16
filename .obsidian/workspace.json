@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "baba2a40c66bda5d",
+        "id": "409f8a7fd10b0be7",
         "type": "tabs",
         "children": [
           {
-            "id": "7f867b7724c74b34",
+            "id": "93f107ed673d9f17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 Programming/Собесы/Вопросы/JS/JSON и основные операции с ним.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "JSON и основные операции с ним"
             }
           }
         ]
@@ -186,6 +200,16 @@
               "icon": "SpacedRepIcon",
               "title": "Очередь заметок на повторение"
             }
+          },
+          {
+            "id": "65674c6d1f38ea64",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
         "currentTab": 5
@@ -201,6 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2 Programming/Собесы/Вопросы/JS/JSON и основные операции с ним.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,28 +270,28 @@
                   "repelStrength": 10,
                   "linkStrength": 0.569350649350649,
                   "linkDistance": 250,
-                  "scale": 0.5443310539518185,
+                  "scale": 0.3628873693012123,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф JSON и основные операции с ним"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
@@ -278,35 +303,35 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "93f107ed673d9f17",
   "lastOpenFiles": [
-    "7 Obsidian/Неявные поля метаданных.md",
-    "7 Obsidian/Команды Dataview.md",
-    "7 Obsidian/Дока по AnuPpuccin.md",
-    "7 Obsidian/DataCards.md",
-    "7 Obsidian/01 Dataview.md",
-    "7 Obsidian/00 Obsidian.md",
+    "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
+    "2 Programming/Собесы/Вопросы/JS/Цепочка прототипов.md",
+    "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
+    "2 Programming/Собесы/Вопросы/JS/Разница между slice() и spilce().md",
+    "2 Programming/Собесы/Вопросы/JS/Разница между call,apply,bind.md",
+    "2 Programming/Собесы/Вопросы/JS/Разница между == и ===.md",
+    "2 Programming/Собесы/Вопросы/JS/Как сравнить Object и Map.md",
+    "2 Programming/Собесы/Вопросы/JS/Для чего нужен метод splice.md",
+    "2 Programming/Собесы/Вопросы/JS/Для чего нужен метод slice.md",
+    "2 Programming/Собесы/100 вопросов по JS.md",
+    "2 Programming/Обратная совместимость.md",
+    "2 Programming/Итерируемые значения.md",
+    "2 Programming/Итераторы.md",
+    "2 Programming/Замыкание.md",
+    "2 Programming/Брэндан Эйк - создатель JS.md",
+    "2 Programming/00 React.md",
+    "2 Programming/00 Linux.md",
+    "2 Programming/00 JS.md",
+    "2 Programming/00 CSS.md",
+    "2 Programming/00 Algorithms.md",
     "1 Books/00 Books.md",
     "1 Books/01 My Bookshelf.md",
-    "1 Books/02 Reading now.md",
-    "1 Books/02 Finished books.md",
-    "_in/_templates/📑Theory.md",
-    "_in/_templates/📘Book.md",
-    "_in/_templates/Default.md",
-    "2 Programming/00 JS.md",
-    "_in/_templates/📁Projects.md",
-    "_in/_templates/❗Problems.md",
-    "_in/_templates/✅Tasks.md",
+    "7 Obsidian/Синхронизация на Айфоне.md",
+    "7 Obsidian/01 Dataview.md",
+    "7 Obsidian/Неявные поля метаданных.md",
+    "7 Obsidian/Команды Dataview.md",
     "6 Base",
-    "Home.md",
-    "2 Programming/00 React.md",
-    "2 Programming/00 Algorithms.md",
-    "2 Programming/00 CSS.md",
-    "2 Programming/00 Linux.md",
-    "2 Programming/00 Programming.md",
-    "2 Programming/for...of.md",
-    "2 Programming/Отключение тачпада в Линукс.md",
-    "2 Programming/NixOs.md",
     "3 Canvas/Без названия.canvas",
     "Без названия.canvas",
     "3 Canvas",
