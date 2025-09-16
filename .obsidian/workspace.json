@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/JSON и основные операции с ним.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Функция первого класса.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JSON и основные операции с ним"
+              "title": "Функция первого класса"
             }
           }
         ]
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/JSON и основные операции с ним.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Функция первого класса.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф JSON и основные операции с ним"
+              "title": "Граф Функция первого класса"
             }
           }
         ]
@@ -305,9 +305,11 @@
   },
   "active": "93f107ed673d9f17",
   "lastOpenFiles": [
+    "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
+    "2 Programming/Собесы/Вопросы/JS/Функция первого класса.md",
+    "2 Programming/Собесы/Вопросы/JS/JSON и основные операции с ним.md",
     "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
     "2 Programming/Собесы/Вопросы/JS/Цепочка прототипов.md",
-    "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
     "2 Programming/Собесы/Вопросы/JS/Разница между slice() и spilce().md",
     "2 Programming/Собесы/Вопросы/JS/Разница между call,apply,bind.md",
     "2 Programming/Собесы/Вопросы/JS/Разница между == и ===.md",
@@ -329,8 +331,6 @@
     "1 Books/01 My Bookshelf.md",
     "7 Obsidian/Синхронизация на Айфоне.md",
     "7 Obsidian/01 Dataview.md",
-    "7 Obsidian/Неявные поля метаданных.md",
-    "7 Obsidian/Команды Dataview.md",
     "6 Base",
     "3 Canvas/Без названия.canvas",
     "Без названия.canvas",
