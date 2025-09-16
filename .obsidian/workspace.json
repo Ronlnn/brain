@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/Функция первого класса.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Разница между == и ===.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Функция первого класса"
+              "title": "Разница между == и ==="
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 374.5
   },
   "right": {
     "id": "1c5ed590a4ae4b32",
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/Собесы/Вопросы/JS/Функция первого класса.md",
+                "file": "2 Programming/Собесы/Вопросы/JS/Разница между == и ===.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,14 +275,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Функция первого класса"
+              "title": "Граф Разница между == и ==="
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,17 +306,17 @@
   },
   "active": "93f107ed673d9f17",
   "lastOpenFiles": [
-    "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
-    "2 Programming/Собесы/Вопросы/JS/Функция первого класса.md",
     "2 Programming/Собесы/Вопросы/JS/JSON и основные операции с ним.md",
     "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
+    "2 Programming/Собесы/Вопросы/JS/Для чего нужен метод slice.md",
+    "2 Programming/Собесы/Вопросы/JS/Функция первого класса.md",
+    "2 Programming/Собесы/Вопросы/JS/Способы создания Объектов.md",
     "2 Programming/Собесы/Вопросы/JS/Цепочка прототипов.md",
     "2 Programming/Собесы/Вопросы/JS/Разница между slice() и spilce().md",
     "2 Programming/Собесы/Вопросы/JS/Разница между call,apply,bind.md",
     "2 Programming/Собесы/Вопросы/JS/Разница между == и ===.md",
     "2 Programming/Собесы/Вопросы/JS/Как сравнить Object и Map.md",
     "2 Programming/Собесы/Вопросы/JS/Для чего нужен метод splice.md",
-    "2 Programming/Собесы/Вопросы/JS/Для чего нужен метод slice.md",
     "2 Programming/Собесы/100 вопросов по JS.md",
     "2 Programming/Обратная совместимость.md",
     "2 Programming/Итерируемые значения.md",
