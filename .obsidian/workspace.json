@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "10 книг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "10 книг"
             }
           }
         ],
@@ -252,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Без названия.md",
+                "file": "10 книг.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,7 +302,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Без названия"
+              "title": "Граф 10 книг"
             }
           }
         ]
@@ -330,10 +330,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "422643b796a1e5ec",
   "lastOpenFiles": [
     "_in/_templates/📅Logs.md",
-    "Без названия.md",
+    "10 книг.md",
     "10 книг литературы.md",
     "_in/_templates/📑Theory.md",
     "_in/_templates/📘Book.md",
