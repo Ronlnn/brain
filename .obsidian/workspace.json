@@ -239,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "ffd601a1e6e078dc",
@@ -330,10 +330,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "422643b796a1e5ec",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
-    "2 Programming/Последовательность выполнения исходного кода Js.md",
+    "_in/_templates/📅Logs.md",
     "Без названия.md",
+    "10 книг литературы.md",
+    "_in/_templates/📑Theory.md",
+    "_in/_templates/📘Book.md",
+    "_in/_templates/Default.md",
+    "2 Programming/Последовательность выполнения исходного кода Js.md",
     "2 Programming/Обратная совместимость.md",
     "2 Programming/Итерируемые значения.md",
     "2 Programming/Итераторы.md",
@@ -354,11 +359,6 @@
     "2 Programming/Babel.md",
     "2 Programming/Spread & Rest (...).md",
     "2 Programming/NixOs.md",
-    "2 Programming/Home-manager.md",
-    "2 Programming/Hiddify настройка.md",
-    "2 Programming/Отключение тачпада в Линукс.md",
-    "2 Programming/Замыкание.md",
-    "2 Programming/Собесы/Вопросы/JS/Что такое классы в ES6.md",
     "6 Base",
     "3 Canvas/Без названия.canvas",
     "Без названия.canvas",
