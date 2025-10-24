@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Programming/Чем отличается компиляция от интерпретации.md",
+                "file": "_in/_templates/Day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Чем отличается компиляция от интерпретации"
+              "title": "Day"
             }
           }
         ],
@@ -114,7 +114,7 @@
       {
         "id": "b60e78ac8191ec30",
         "type": "tabs",
-        "dimension": 60.35242290748899,
+        "dimension": 43.17343173431734,
         "children": [
           {
             "id": "dbb8f235f64a4a8f",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 Projects/Первая работа.md",
+                "file": "2 Programming/Итераторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Первая работа"
+              "title": "Обратные ссылки для Итераторы"
             }
           },
           {
@@ -170,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2 Programming/Итераторы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Итераторы"
             }
           },
           {
@@ -199,37 +200,7 @@
             }
           },
           {
-            "id": "56cebeaa773b2f01",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "63c9ad379fa9ee04",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
-            }
-          },
-          {
-            "id": "65674c6d1f38ea64",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
-            }
-          },
-          {
-            "id": "0899ba6625c775a2",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -242,9 +213,26 @@
         "currentTab": 5
       },
       {
+        "id": "f2284c3278fd197a",
+        "type": "tabs",
+        "dimension": 23.837638376383765,
+        "children": [
+          {
+            "id": "56cebeaa773b2f01",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
         "id": "ffd601a1e6e078dc",
         "type": "tabs",
-        "dimension": 39.647577092511014,
+        "dimension": 32.988929889298895,
         "children": [
           {
             "id": "30bc3dcebaf6de9f",
@@ -252,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/Чем отличается компиляция от интерпретации.md",
+                "file": "_in/_templates/Day.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,14 +290,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Чем отличается компиляция от интерпретации"
+              "title": "Граф Day"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 512.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -330,15 +318,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "422643b796a1e5ec",
   "lastOpenFiles": [
-    "2 Programming/Транспиляция.md",
-    "2 Programming/Прямая совместимость.md",
-    "2 Programming/Последовательность выполнения исходного кода Js.md",
-    "2 Programming/Итерируемые значения.md",
     "2 Programming/Итераторы.md",
+    "_in/_templates/Day.md",
     "2 Programming/Замыкание.md",
     "2 Programming/Брэндан Эйк - создатель JS.md",
+    "2 Programming/Последовательность выполнения исходного кода Js.md",
+    "2 Programming/Обратная совместимость.md",
+    "2 Programming/Прямая совместимость.md",
+    "2 Programming/Транспиляция.md",
+    "2 Programming/Чем отличается компиляция от интерпретации.md",
+    "2 Programming/Итерируемые значения.md",
     "2 Programming/Spread & Rest (...).md",
     "2 Programming/JSON.md",
     "2 Programming/for...of.md",
@@ -355,9 +346,6 @@
     "10 книг литературы.md",
     "_in/_templates/📑Theory.md",
     "_in/_templates/📘Book.md",
-    "_in/_templates/Default.md",
-    "2 Programming/Обратная совместимость.md",
-    "2 Programming/Чем отличается компиляция от интерпретации.md",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
     "3 Canvas/Без названия.canvas",
