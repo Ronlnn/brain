@@ -83,5 +83,7 @@
   "anuppuccin-theme-settings@@anp-table-thickness": 3,
   "anuppuccin-theme-settings@@anp-table-width-pct": 100,
   "minimal-advanced@@font-ui-small": 21,
-  "minimal-advanced@@font-ui-smaller": 13
+  "minimal-advanced@@font-ui-smaller": 13,
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-red"
 }
