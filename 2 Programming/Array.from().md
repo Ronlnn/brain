@@ -6,4 +6,4 @@ created: 29-10-25
 prompt:
 ---
 # 📑 Array.from()
-
+Array.from() - Создает новый экземпляр Array
