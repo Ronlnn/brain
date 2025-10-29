@@ -213,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "f2284c3278fd197a",
@@ -321,7 +321,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8997e9c95433546f",
+  "active": "d3352128d6f925ce",
   "lastOpenFiles": [
     "Questions/Как создать новый массив из другого объекта?.md",
     "2 Programming/Array.from().md",
