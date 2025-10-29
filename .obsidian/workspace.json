@@ -8,47 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93f107ed673d9f17",
+            "id": "422643b796a1e5ec",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Books/Область видимости и замыкания.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Область видимости и замыкания"
-            }
-          },
-          {
-            "id": "422643b796a1e5ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Programming/00 Algorithms.md",
+                "file": "2 Programming/Array.from().md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "00 Algorithms"
+              "title": "Array.from()"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/00 Algorithms.md",
+                "file": "2 Programming/Array.from().md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,7 +265,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 00 Algorithms"
+              "title": "Граф Array.from()"
             }
           }
         ]
@@ -318,8 +293,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "460284fba49617d1",
+  "active": "422643b796a1e5ec",
   "lastOpenFiles": [
+    "2 Programming/Array.from().md",
+    "1 Books/Область видимости и замыкания.md",
+    "2 Programming/01 Методы массивов.md",
+    "2 Programming/00 Algorithms.md",
+    "2 Programming/00 JS.md",
     "10 книг.md",
     "7 Obsidian/Синхронизация на Айфоне.md",
     "7 Obsidian/Неявные поля метаданных.md",
@@ -341,11 +321,6 @@
     "2 Programming/JSON.md",
     "2 Programming/for...of.md",
     "2 Programming/Babel.md",
-    "2 Programming/3 Столпа JS.md",
-    "_in/_templates/Day.md",
-    "2 Programming/Транспиляция.md",
-    "2 Programming/Чем отличается компиляция от интерпретации.md",
-    "2 Programming/00 React.md",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
     "3 Canvas/Без названия.canvas",
