@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Programming/Итераторы.md",
+                "file": "2 Programming/Array.from().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Итераторы"
+              "title": "Структура Array.from()"
             }
           },
           {
@@ -213,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "f2284c3278fd197a",
@@ -321,7 +321,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "422643b796a1e5ec",
+  "active": "8997e9c95433546f",
   "lastOpenFiles": [
     "Questions/Как создать новый массив из другого объекта?.md",
     "2 Programming/Array.from().md",
