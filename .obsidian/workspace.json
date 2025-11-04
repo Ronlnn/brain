@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 книг.md",
+                "file": "5 Resources/Settings/Конфиг VSCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 книг"
+              "title": "Конфиг VSCode"
             }
           }
         ],
@@ -258,7 +258,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 книг.md",
+                "file": "5 Resources/Settings/Конфиг VSCode.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,7 +308,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 10 книг"
+              "title": "Граф Конфиг VSCode"
             }
           }
         ]
@@ -336,8 +336,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "939556fbb30743e2",
+  "active": "d3352128d6f925ce",
   "lastOpenFiles": [
+    "5 Resources/Settings/codestat.json.md",
+    "5 Resources/Settings/01 Settings.md",
+    "5 Resources/Links/React 100 вопросов GitHub.md",
+    "5 Resources/Code Snippets/Obsidian/Таблица проектов из папки 6 Projects.md",
+    "5 Resources/Code Snippets/Obsidian/Таблицы всех задач проекта.md",
+    "5 Resources/Code Snippets/Obsidian/Прогрессбар связанных задач.md",
+    "5 Resources/Code Snippets/Obsidian/Cards.md",
+    "5 Resources/Code Snippets/Obsidian/Прогресс выполненных задач в текущей заметке.md",
+    "10 книг.md",
     "Questions/Как создать новый массив из другого объекта?.md",
     "2025-11-04.md",
     "2025-11-03.md",
@@ -353,18 +362,9 @@
     "2 Programming/01 Методы массивов.md",
     "2 Programming/00 Algorithms.md",
     "2 Programming/00 JS.md",
-    "10 книг.md",
     "7 Obsidian/Синхронизация на Айфоне.md",
     "7 Obsidian/Неявные поля метаданных.md",
     "7 Obsidian/DataCards.md",
-    "7 Obsidian/01 Dataview.md",
-    "1 Books/45 татуировок личности.md",
-    "1 Books/02 Reading now.md",
-    "1 Books/02 Finished books.md",
-    "1 Books/00 Books.md",
-    "1 Books/01 My Bookshelf.md",
-    "2 Programming/Прямая совместимость.md",
-    "2 Programming/Последовательность выполнения исходного кода Js.md",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
     "3 Canvas/Без названия.canvas",
