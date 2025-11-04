@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Resources/Settings/Конфиг VSCode.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Конфиг VSCode"
+              "title": "Без названия"
             }
           }
         ],
@@ -258,7 +258,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5 Resources/Settings/Конфиг VSCode.md",
+                "file": "Без названия.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,7 +308,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Конфиг VSCode"
+              "title": "Граф Без названия"
             }
           }
         ]
@@ -336,8 +336,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "939556fbb30743e2",
   "lastOpenFiles": [
+    "monitors script for bspwm.md",
+    "Без названия.md",
+    "5 Resources/Settings/Конфиг VSCode.md",
     "5 Resources/Settings/codestat.json.md",
     "5 Resources/Settings/01 Settings.md",
     "5 Resources/Links/React 100 вопросов GitHub.md",
@@ -362,9 +365,6 @@
     "2 Programming/01 Методы массивов.md",
     "2 Programming/00 Algorithms.md",
     "2 Programming/00 JS.md",
-    "7 Obsidian/Синхронизация на Айфоне.md",
-    "7 Obsidian/Неявные поля метаданных.md",
-    "7 Obsidian/DataCards.md",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
     "3 Canvas/Без названия.canvas",
