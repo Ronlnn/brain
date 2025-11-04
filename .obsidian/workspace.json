@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-11-03.md",
+                "file": "10 книг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-03"
+              "title": "10 книг"
             }
           }
         ],
@@ -258,7 +258,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2025-11-03.md",
+                "file": "10 книг.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,7 +308,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 2025-11-03"
+              "title": "Граф 10 книг"
             }
           }
         ]
@@ -336,14 +336,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "939556fbb30743e2",
   "lastOpenFiles": [
-    "_in/_templates/Default.md",
+    "Questions/Как создать новый массив из другого объекта?.md",
+    "2025-11-04.md",
     "2025-11-03.md",
+    "_in/_templates/Default.md",
     "_in/_templates/Question.md",
     "_in/_templates/Day.md",
     "2 Programming/Array.from().md",
-    "Questions/Как создать новый массив из другого объекта?.md",
     "_in/_templates/📑Theory.md",
     "_in/_templates/📅Logs.md",
     "4 Logs/00 Logs.md",
@@ -364,7 +365,6 @@
     "1 Books/01 My Bookshelf.md",
     "2 Programming/Прямая совместимость.md",
     "2 Programming/Последовательность выполнения исходного кода Js.md",
-    "2 Programming/Обратная совместимость.md",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
     "3 Canvas/Без названия.canvas",
