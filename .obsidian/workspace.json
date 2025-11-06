@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bluetui.md",
+                "file": "monitors script for bspwm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bluetui"
+              "title": "monitors script for bspwm"
             }
           }
         ],
@@ -258,7 +258,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bluetui.md",
+                "file": "monitors script for bspwm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,7 +308,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф bluetui"
+              "title": "Граф monitors script for bspwm"
             }
           }
         ]
@@ -336,11 +336,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "939556fbb30743e2",
   "lastOpenFiles": [
     "script touchpad for monitors.md",
-    "bluetui.md",
     "monitors script for bspwm.md",
+    "bluetui.md",
     "5 Resources/Settings/Конфиг VSCode.md",
     "5 Resources/Settings/codestat.json.md",
     "5 Resources/Settings/01 Settings.md",

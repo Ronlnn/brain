@@ -5,9 +5,9 @@ INTERNAL_MONITOR="eDP-1"
 EXTERNAL_MONITOR="DP-1"
 
 # Удаляем ВСЕ существующие рабочие области
-for desktop in $(bspc query -D --names); do
-  bspc desktop "$desktop" --remove 2>/dev/null
-done
+#for desktop in $(bspc query -D --names); do
+#  bspc desktop "$desktop" --remove 2>/dev/null
+#done
 
 # Проверяем подключен ли внешний монитор (точная проверка!)
 if xrandr | grep "^${EXTERNAL_MONITOR} connected" > /dev/null; then
