@@ -10,7 +10,7 @@ prompt:
 - Возвращает true или false
 
 ### Синтаксис
-```jsa
+```javascript
 includes(searchElement)
 includes(searchElement, fromIndex)
 ```
