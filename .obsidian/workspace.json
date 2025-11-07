@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Переменная arguments.md",
+                "file": "2 Programming/Переменная arguments.md",
                 "mode": "source",
                 "source": false
               },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Переменная arguments.md",
+                "file": "2 Programming/Переменная arguments.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,19 +308,20 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "939556fbb30743e2",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
+    "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
+    "2 Programming/Переменная arguments.md",
     "2 Programming/Rest (...) parameters.md",
-    "Переменная arguments.md",
     "2 Programming/01 ES6.md",
     "2 Programming/00 JS.md",
-    "Бинарный поиск.md",
-    "О-большое.md",
-    "Линейное время.md",
-    "Логарифмическое время.md",
-    "Логарифм.md",
-    "Время работы алгоритма.md",
-    "Алгоритм.md",
+    "2 Programming/Бинарный поиск.md",
+    "2 Programming/О-большое.md",
+    "2 Programming/Линейное время.md",
+    "2 Programming/Логарифмическое время.md",
+    "2 Programming/Логарифм.md",
+    "2 Programming/Время работы алгоритма.md",
+    "2 Programming/Алгоритм.md",
     "monitors script for bspwm.md",
     "script touchpad for monitors.md",
     "bluetui.md",
@@ -335,7 +336,6 @@
     "5 Resources/Code Snippets/Obsidian/Прогресс выполненных задач в текущей заметке.md",
     "10 книг.md",
     "Questions/Как создать новый массив из другого объекта?.md",
-    "2025-11-04.md",
     "Questions",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
