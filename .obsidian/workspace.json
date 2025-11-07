@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Array.prototype.includes().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Array.prototype.includes()"
             }
           }
         ],
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Без названия.md",
+                "file": "Array.prototype.includes().md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -322,7 +322,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Без названия"
+              "title": "Граф Array.prototype.includes()"
             }
           }
         ]
@@ -353,7 +353,7 @@
   "active": "587032e2d7795bd8",
   "lastOpenFiles": [
     "Деструктурирующее присваивание.md",
-    "Без названия.md",
+    "Array.prototype.includes().md",
     "2 Programming/Spread (...) оператор расширения.md",
     "2 Programming/Переменная arguments.md",
     "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
