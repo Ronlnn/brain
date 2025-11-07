@@ -43,16 +43,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spread (...) оператор расширения.md",
+                "file": "2 Programming/Spread (...) оператор расширения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Spread (...) оператор расширения"
             }
+          },
+          {
+            "id": "d6c2ab6a05330f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Деструктурирующее присваивание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Деструктурирующее присваивание"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,7 +258,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spread (...) оператор расширения.md",
+                "file": "Деструктурирующее присваивание.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +308,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Spread (...) оператор расширения"
+              "title": "Граф Деструктурирующее присваивание"
             }
           }
         ]
@@ -322,10 +336,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "06d580fab65f2c9e",
+  "active": "d6c2ab6a05330f7f",
   "lastOpenFiles": [
+    "2 Programming/Spread (...) оператор расширения.md",
+    "Деструктурирующее присваивание.md",
     "2 Programming/Переменная arguments.md",
-    "Spread (...) оператор расширения.md",
     "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
     "2 Programming/Rest (...) parameters.md",
     "2 Programming/01 ES6.md",
@@ -349,7 +364,6 @@
     "5 Resources/Code Snippets/Obsidian/Прогрессбар связанных задач.md",
     "5 Resources/Code Snippets/Obsidian/Cards.md",
     "5 Resources/Code Snippets/Obsidian/Прогресс выполненных задач в текущей заметке.md",
-    "10 книг.md",
     "Questions",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
