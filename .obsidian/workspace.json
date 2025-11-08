@@ -11,10 +11,14 @@
             "id": "ead5a556dc2b6841",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Связанный список LinkedList.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Связанный список LinkedList"
             }
           }
         ]
@@ -209,6 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Связанный список LinkedList.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Связанный список LinkedList"
             }
           }
         ]
@@ -286,8 +291,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "ead5a556dc2b6841",
   "lastOpenFiles": [
+    "Связанный список LinkedList.md",
     "2 Programming/Array.from().md",
     "2 Programming/Переменная arguments.md",
     "2 Programming/Spread (...) оператор расширения.md",
@@ -314,7 +320,6 @@
     "3 Linux/script touchpad for monitors.md",
     "3 Linux/bluetui.md",
     "5 Resources/Settings/Конфиг VSCode.md",
-    "5 Resources/Settings/codestat.json.md",
     "Questions",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
