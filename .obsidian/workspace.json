@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стек.md",
+                "file": "Стек вызовов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стек"
+              "title": "Стек вызовов"
             }
           }
         ]
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Стек.md",
+                "file": "Стек вызовов.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Стек"
+              "title": "Граф Стек вызовов"
             }
           }
         ]
@@ -293,10 +293,11 @@
   },
   "active": "56703458f601e0be",
   "lastOpenFiles": [
+    "Стек.md",
+    "Стек вызовов.md",
     "Двусвязный список.md",
     "Динамический массив.md",
     "Односвязный список.md",
-    "Стек.md",
     "Рекурсия.md",
     "2 Programming/Связанный список LinkedList.md",
     "3 Linux/Система не выключается, если закрыть крышку монитора.md",
@@ -319,7 +320,6 @@
     "3 Linux",
     "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
     "2 Programming/Rest (...) parameters.md",
-    "2 Programming/01 ES6.md",
     "Questions",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
