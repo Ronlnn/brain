@@ -258,7 +258,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.569350649350649,
                   "linkDistance": 250,
-                  "scale": 0.8164965809277277,
+                  "scale": 0.24192491286747486,
                   "close": true
                 }
               },
@@ -293,12 +293,16 @@
   },
   "active": "56703458f601e0be",
   "lastOpenFiles": [
+    "_in/_attachments/Pasted image 20251109162719.png",
+    "_in/_attachments/Pasted image 20251109162705.png",
+    "_in/_attachments/Pasted image 20251109162631.png",
+    "_in/_attachments/Pasted image 20251109162611.png",
     "Стек.md",
+    "Рекурсия.md",
     "Стек вызовов.md",
     "Двусвязный список.md",
     "Динамический массив.md",
     "Односвязный список.md",
-    "Рекурсия.md",
     "2 Programming/Связанный список LinkedList.md",
     "3 Linux/Система не выключается, если закрыть крышку монитора.md",
     "2 Programming/Array.prototype.map().md",
@@ -319,7 +323,6 @@
     "2 Programming/Array.prototype.includes().md",
     "3 Linux",
     "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
-    "2 Programming/Rest (...) parameters.md",
     "Questions",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
@@ -337,9 +340,6 @@
     "_attachments/books-cover/45-tatu.png",
     "_attachments/books-cover/1984.jpg",
     "_attachments/pixel-banner-images/berserk-swords.jpg",
-    "_attachments/pixel-banner-images/catsle-pixle.jpg",
-    "_attachments/pixel-banner-images/girl.jpg",
-    "_attachments/pixel-banner-images/samurai-3.jpg",
-    "_attachments/pixel-banner-images/samurai-ghost.jpg"
+    "_attachments/pixel-banner-images/catsle-pixle.jpg"
   ]
 }
