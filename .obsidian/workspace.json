@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8f84e7053e1e0d21",
+        "id": "329d0dbfe72bd032",
         "type": "tabs",
         "children": [
           {
-            "id": "ead5a556dc2b6841",
+            "id": "56703458f601e0be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Array.prototype.map().md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Array.prototype.map()"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -213,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Array.prototype.map().md",
+                "file": "3 Linux/Система не выключается, если закрыть крышку монитора.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +259,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Array.prototype.map()"
+              "title": "Граф Система не выключается, если закрыть крышку монитора"
             }
           }
         ]
@@ -291,12 +287,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "460284fba49617d1",
   "lastOpenFiles": [
-    "Array.prototype.filter().md",
-    "Array.prototype.map().md",
-    "Сортировка выбором.md",
-    "Связанный список LinkedList.md",
+    "2 Programming/Array.prototype.map().md",
+    "3 Linux/Система не выключается, если закрыть крышку монитора.md",
+    "2 Programming/Array.prototype.filter().md",
+    "2 Programming/Сортировка выбором.md",
+    "2 Programming/Связанный список LinkedList.md",
     "2 Programming/Array.from().md",
     "2 Programming/Переменная arguments.md",
     "2 Programming/Spread (...) оператор расширения.md",
@@ -308,7 +305,7 @@
     "2 Programming/Логарифм.md",
     "2 Programming/Итерируемые значения.md",
     "2 Programming/Итераторы.md",
-    "2 Programming/00 Linux.md",
+    "3 Linux/00 Linux.md",
     "2 Programming/Array.prototype.includes().md",
     "3 Linux",
     "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
@@ -319,7 +316,6 @@
     "2 Programming/Линейное время.md",
     "2 Programming/Время работы алгоритма.md",
     "2 Programming/Алгоритм.md",
-    "3 Linux/monitors script for bspwm.md",
     "Questions",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
