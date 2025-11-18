@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 книг.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 книг"
+              "title": "Без названия"
             }
           }
         ]
@@ -213,6 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Без названия.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Без названия"
             }
           }
         ]
@@ -290,14 +291,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "56703458f601e0be",
   "lastOpenFiles": [
-    "Двусвязный список.md",
-    "Динамический массив.md",
-    "Односвязный список.md",
-    "Рекурсия.md",
-    "Стек.md",
-    "Стек вызовов.md",
+    "2 Programming/Двусвязный список.md",
+    "Без названия.md",
+    "2 Programming/Стек.md",
+    "2 Programming/Стек вызовов.md",
+    "2 Programming/Рекурсия.md",
+    "2 Programming/Односвязный список.md",
+    "2 Programming/Динамический массив.md",
+    "10 книг.md",
     "_in/_attachments/Pasted image 20251109162719.png",
     "_in/_attachments/Pasted image 20251109162705.png",
     "_in/_attachments/Pasted image 20251109162631.png",
@@ -321,7 +324,6 @@
     "3 Linux/00 Linux.md",
     "2 Programming/Array.prototype.includes().md",
     "3 Linux",
-    "2 Programming/Собесы/Вопросы/JS/Cтрелочные функции.md",
     "Questions",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
