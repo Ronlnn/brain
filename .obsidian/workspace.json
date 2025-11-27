@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "PlufSoft"
             }
+          },
+          {
+            "id": "1cc6bbc416412ea4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PlufSoft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф PlufSoft"
+              "title": "Граф"
             }
           }
         ]
