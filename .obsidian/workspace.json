@@ -213,6 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "PlufSoft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф PlufSoft"
             }
           }
         ]
