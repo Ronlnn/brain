@@ -11,14 +11,17 @@
             "id": "56703458f601e0be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "PlufSoft.md",
-                "mode": "source",
-                "source": false
+                "file": "Без названия.canvas",
+                "viewState": {
+                  "x": 106.72762641228863,
+                  "y": 22.13252364940017,
+                  "zoom": -0.5532676808039346
+                }
               },
-              "icon": "lucide-file",
-              "title": "PlufSoft"
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
             }
           }
         ]
@@ -213,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PlufSoft.md",
+                "file": "Без названия.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,14 +266,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф PlufSoft"
+              "title": "Граф Без названия"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 400
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,10 +294,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "56703458f601e0be",
   "lastOpenFiles": [
-    "2 Programming/Двусвязный список.md",
     "PlufSoft.md",
+    "Без названия.canvas",
+    "2 Programming/Двусвязный список.md",
     "2 Programming/Стек.md",
     "2 Programming/Стек вызовов.md",
     "2 Programming/Рекурсия.md",
@@ -322,13 +326,11 @@
     "2 Programming/Итерируемые значения.md",
     "2 Programming/Итераторы.md",
     "3 Linux/00 Linux.md",
-    "2 Programming/Array.prototype.includes().md",
     "3 Linux",
     "Questions",
     "_in/_attachments/Pasted image 20250916210241.png",
     "6 Base",
     "3 Canvas/Без названия.canvas",
-    "Без названия.canvas",
     "3 Canvas",
     "_in",
     "_in/_attachments/Pasted image 20250709190021.png",

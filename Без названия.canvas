@@ -1,0 +1,61 @@
+{
+	"nodes":[
+		{
+			"id":"02d4ca3fc3dc4825",
+			"type":"text",
+			"text":"Фильтры по категориям,\nплатное/бесплатное,\nдата (текущая неделя + интервал времени\n)\n",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-340,
+			"width":360,
+			"height":180,
+			"color":"1"
+		},
+		{
+			"id":"085abce8dc52ed80",
+			"type":"text",
+			"text":"1. Главные события\n2. Дети\n3. Спорт\n4. Выставки и фестивали",
+			"styleAttributes":{},
+			"x":-500,
+			"y":80,
+			"width":360,
+			"height":160,
+			"color":"5"
+		},
+		{
+			"id":"667fd9216023aded",
+			"type":"text",
+			"text":"Какие должны быть категории у мероприятя?\n",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-80,
+			"width":280,
+			"height":100,
+			"color":"3"
+		}
+	],
+	"edges":[
+		{
+			"id":"71239db10a8184f9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"02d4ca3fc3dc4825",
+			"fromSide":"bottom",
+			"toNode":"667fd9216023aded",
+			"toSide":"top"
+		},
+		{
+			"id":"5593b558377d4ab6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"667fd9216023aded",
+			"fromSide":"bottom",
+			"toNode":"085abce8dc52ed80",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
