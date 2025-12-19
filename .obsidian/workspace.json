@@ -11,17 +11,14 @@
             "id": "56703458f601e0be",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Без названия.canvas",
-                "viewState": {
-                  "x": 63,
-                  "y": 150.20000000000002,
-                  "zoom": 0
-                }
+                "file": "7 Obsidian/00 Obsidian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
+              "icon": "lucide-file",
+              "title": "00 Obsidian"
             }
           }
         ]
@@ -216,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "7 Obsidian/00 Obsidian.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Без названия"
+              "title": "Граф 00 Obsidian"
             }
           }
         ]
@@ -296,6 +293,10 @@
   },
   "active": "d3352128d6f925ce",
   "lastOpenFiles": [
+    "7 Obsidian/DataCards.md",
+    "7 Obsidian/01 Dataview.md",
+    "7 Obsidian/00 Obsidian.md",
+    "Questions/Как создать новый массив из другого объекта?.md",
     "PlufSoft.md",
     "Без названия.canvas",
     "2 Programming/Двусвязный список.md",
@@ -323,9 +324,6 @@
     "2 Programming/О-большое.md",
     "2 Programming/Логарифмическое время.md",
     "2 Programming/Логарифм.md",
-    "2 Programming/Итерируемые значения.md",
-    "2 Programming/Итераторы.md",
-    "3 Linux/00 Linux.md",
     "3 Linux",
     "Questions",
     "_in/_attachments/Pasted image 20250916210241.png",
