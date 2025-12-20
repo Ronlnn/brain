@@ -1,6 +1,6 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "Sparkling Night",
   "enabledCssSnippets": [
     "extended-colorschemes",
     "custom-rainbow-colors",
@@ -12,5 +12,6 @@
     "cards"
   ],
   "baseFontSize": 21,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono"
 }
