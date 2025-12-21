@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "31120b4f74adb889",
+        "id": "a7a84738999e261a",
         "type": "tabs",
         "children": [
           {
-            "id": "53b1b9fead89fbf4",
+            "id": "ba4a7b195428d9e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Programming/00 Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00 Algorithms"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -213,7 +209,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Programming/00 Algorithms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +258,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 00 Algorithms"
+              "title": "Граф"
             }
           }
         ]
@@ -293,6 +288,10 @@
   },
   "active": "d3352128d6f925ce",
   "lastOpenFiles": [
+    "1 Books/Типы, Грам.конструкции.md",
+    "1 Books/01 My Bookshelf.md",
+    "1 Books/02 Finished books.md",
+    "2 Programming/00 Algorithms.md",
     "_in/_attachments/Pasted image 20251109162719.png",
     "_in/_attachments/Pasted image 20251109162705.png",
     "_in/_attachments/Pasted image 20251109162631.png",
@@ -310,7 +309,6 @@
     "2 Programming/Babel.md",
     "2 Programming/01 ES6.md",
     "2 Programming/00 React.md",
-    "2 Programming/00 Algorithms.md",
     "3 Linux/Система не выключается, если закрыть крышку монитора.md",
     "3 Linux/script touchpad for monitors.md",
     "3 Linux/monitors script for bspwm.md",
@@ -323,9 +321,7 @@
     "7 Obsidian/00 Obsidian.md",
     "7 Obsidian/DataCards.md",
     "7 Obsidian/01 Dataview.md",
-    "Questions/Как создать новый массив из другого объекта?.md",
     "Без названия.canvas",
-    "2 Programming/Двусвязный список.md",
     "3 Linux",
     "Questions",
     "6 Base",

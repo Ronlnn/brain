@@ -2,14 +2,14 @@
   "theme": "obsidian",
   "cssTheme": "Sparkling Night",
   "enabledCssSnippets": [
-    "extended-colorschemes",
-    "custom-rainbow-colors",
     "floating-status-bar",
     "ThreadingBullet",
     "floating-search-bar",
     "close-window",
-    "projects",
-    "cards"
+    "cards",
+    "custom-rainbow-colors",
+    "extended-colorschemes",
+    "projects"
   ],
   "baseFontSize": 21,
   "baseFontSizeAction": false,
