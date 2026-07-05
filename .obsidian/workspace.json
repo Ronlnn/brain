@@ -11,10 +11,14 @@
             "id": "ba4a7b195428d9e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 Programming/Array.prototype.map().md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Array.prototype.map()"
             }
           }
         ]
@@ -139,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Programming/Array.from().md",
+                "file": "2 Programming/Array.prototype.map().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Array.from()"
+              "title": "Структура Array.prototype.map()"
             }
           },
           {
@@ -170,6 +174,16 @@
           },
           {
             "id": "63c9ad379fa9ee04",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          },
+          {
+            "id": "f299d0e2f1567f2b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -209,6 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2 Programming/Array.prototype.map().md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +273,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Array.prototype.map()"
             }
           }
         ]
@@ -288,10 +303,33 @@
   },
   "active": "d3352128d6f925ce",
   "lastOpenFiles": [
-    "1 Books/Типы, Грам.конструкции.md",
+    "2 Programming/Array.from().md",
+    "2 Programming/Итераторы.md",
+    "3 Linux/script touchpad for monitors.md",
+    "3 Linux/monitors script for bspwm.md",
+    "3 Linux/bluetui.md",
+    "3 Linux/Система не выключается, если закрыть крышку монитора.md",
+    "3 Linux/00 Linux.md",
+    "PlufSoft.md",
+    "Без названия.canvas",
+    "10 книг.md",
+    "Questions/Как создать новый массив из другого объекта?.md",
+    "1 Books/Продавец обуви.md",
+    "1 Books/Сеть отношений в РФ.md",
+    "2 Programming/Собесы/100 вопросов по JS.md",
     "1 Books/01 My Bookshelf.md",
-    "1 Books/02 Finished books.md",
-    "2 Programming/00 Algorithms.md",
+    "2 Programming/Стек.md",
+    "2 Programming/Односвязный список.md",
+    "2 Programming/Сортировка выбором.md",
+    "2 Programming/Рекурсия.md",
+    "2 Programming/Прямая совместимость.md",
+    "2 Programming/Последовательность выполнения исходного кода Js.md",
+    "2 Programming/Переменная arguments.md",
+    "2 Programming/Замыкание.md",
+    "2 Programming/Динамический массив.md",
+    "2 Programming/Деструктурирующее присваивание.md",
+    "2 Programming/Время работы алгоритма.md",
+    "2 Programming/Брэндан Эйк - создатель JS.md",
     "_in/_attachments/Pasted image 20251109162719.png",
     "_in/_attachments/Pasted image 20251109162705.png",
     "_in/_attachments/Pasted image 20251109162631.png",
@@ -299,29 +337,6 @@
     "_in/_attachments/Pasted image 20250916210241.png",
     "_in/_attachments/Pasted image 20250709190021.png",
     "_in/_attachments/Pasted image 20250709171835.png",
-    "_in/_attachments/tmp/3.md",
-    "_in/_attachments/tmp/2.md",
-    "_in/_attachments/tmp/1.md",
-    "2 Programming/Итерируемые значения.md",
-    "2 Programming/Итераторы.md",
-    "2 Programming/JSON.md",
-    "2 Programming/for...of.md",
-    "2 Programming/Babel.md",
-    "2 Programming/01 ES6.md",
-    "2 Programming/00 React.md",
-    "3 Linux/Система не выключается, если закрыть крышку монитора.md",
-    "3 Linux/script touchpad for monitors.md",
-    "3 Linux/monitors script for bspwm.md",
-    "3 Linux/bluetui.md",
-    "PlufSoft.md",
-    "10 книг.md",
-    "4 Logs/2025-11-04.md",
-    "4 Logs/2025-11-03.md",
-    "4 Logs/00 Logs.md",
-    "7 Obsidian/00 Obsidian.md",
-    "7 Obsidian/DataCards.md",
-    "7 Obsidian/01 Dataview.md",
-    "Без названия.canvas",
     "3 Linux",
     "Questions",
     "6 Base",
