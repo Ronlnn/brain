@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a7a84738999e261a",
+        "id": "01cc4bcc5c4603c6",
         "type": "tabs",
         "children": [
           {
-            "id": "ba4a7b195428d9e8",
+            "id": "88bc4ee8fbefe223",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "7 Obsidian/DataCards.md",
-                "mode": "source",
-                "source": false
+                "file": "Без названия.base",
+                "viewName": "представление"
               },
-              "icon": "lucide-file",
-              "title": "DataCards"
+              "icon": "lucide-layout-grid",
+              "title": "Без названия"
             }
           }
         ]
@@ -193,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "f2284c3278fd197a",
@@ -223,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7 Obsidian/DataCards.md",
+                "file": "Без названия.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф DataCards"
+              "title": "Граф Без названия"
             }
           }
         ]
@@ -301,10 +300,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3352128d6f925ce",
+  "active": "88bc4ee8fbefe223",
   "lastOpenFiles": [
-    "7 Obsidian/Типы полей метаданных.md",
+    "PlufSoft.md",
+    "Без названия.base",
+    "Без названия.canvas",
+    "5 Resources/Code Snippets/Obsidian/Таблица проектов из папки 6 Projects.md",
+    "5 Resources/Code Snippets/Obsidian/Прогресс выполненных задач в текущей заметке.md",
+    "5 Resources/Links/Вопросы по Js GitHub.md",
+    "5 Resources/Links/React 100 вопросов GitHub.md",
+    "5 Resources/Links/TS GitHub materials.md",
+    "10 книг.md",
     "7 Obsidian/DataCards.md",
+    "7 Obsidian/Типы полей метаданных.md",
     "7 Obsidian/Синхронизация на Айфоне.md",
     "7 Obsidian/Неявные поля метаданных.md",
     "7 Obsidian/Команды Dataview.md",
@@ -317,19 +325,10 @@
     "5 Resources/Settings/01 Settings.md",
     "5 Resources/Passwords/Passwords.md",
     "5 Resources/Passwords/GitHub Token brain.md",
-    "5 Resources/Links/TS GitHub materials.md",
-    "5 Resources/Links/React 100 вопросов GitHub.md",
-    "5 Resources/Links/Вопросы по Js GitHub.md",
     "4 Logs/archive/2025/Июль/Июль 25.md",
     "4 Logs/2025-11-04.md",
     "4 Logs/2025-11-03.md",
     "3 Linux/00 Linux.md",
-    "3 Linux/script touchpad for monitors.md",
-    "3 Linux/monitors script for bspwm.md",
-    "3 Linux/bluetui.md",
-    "3 Linux/Система не выключается, если закрыть крышку монитора.md",
-    "1 Books/Дюна.md",
-    "Без названия.canvas",
     "_in/_attachments/Pasted image 20251109162719.png",
     "_in/_attachments/Pasted image 20251109162705.png",
     "_in/_attachments/Pasted image 20251109162631.png",
@@ -343,7 +342,6 @@
     "3 Canvas/Без названия.canvas",
     "3 Canvas",
     "_in",
-    "Без названия.base",
     "2 Programming/Linux/NixOs",
     "2 Programming/Собесы/Вопросы/React",
     "2 Programming/Собесы/Вопросы/JS",

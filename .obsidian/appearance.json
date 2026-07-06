@@ -1,6 +1,6 @@
 {
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Shiba Inu",
   "enabledCssSnippets": [
     "floating-status-bar",
     "ThreadingBullet",
@@ -13,5 +13,6 @@
   ],
   "baseFontSize": 21,
   "baseFontSizeAction": false,
-  "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono"
+  "interfaceFontFamily": "Times New Roman",
+  "textFontFamily": "Times New Roman"
 }
