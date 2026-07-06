@@ -11,13 +11,14 @@
             "id": "88bc4ee8fbefe223",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Без названия.base",
-                "viewName": "представление"
+                "file": "Для чего я хочу вести Обсидиан?.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Без названия"
+              "icon": "lucide-file",
+              "title": "Для чего я хочу вести Обсидиан?"
             }
           }
         ]
@@ -222,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Без названия.base",
+                "file": "Для чего я хочу вести Обсидиан?.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +273,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Без названия"
+              "title": "Граф Для чего я хочу вести Обсидиан?"
             }
           }
         ]
@@ -302,8 +303,14 @@
   },
   "active": "88bc4ee8fbefe223",
   "lastOpenFiles": [
-    "PlufSoft.md",
+    "2 Programming/3 Столпа JS.md",
+    "Для чего я хочу вести Обсидиан?.md",
+    "2 Programming/Алгоритм.md",
+    "2 Programming/00 JS.md",
+    "2 Programming/00 CSS.md",
+    "2 Programming/00 Algorithms.md",
     "Без названия.base",
+    "PlufSoft.md",
     "Без названия.canvas",
     "5 Resources/Code Snippets/Obsidian/Таблица проектов из папки 6 Projects.md",
     "5 Resources/Code Snippets/Obsidian/Прогресс выполненных задач в текущей заметке.md",
@@ -324,11 +331,6 @@
     "5 Resources/Settings/Конфиг VSCode.md",
     "5 Resources/Settings/01 Settings.md",
     "5 Resources/Passwords/Passwords.md",
-    "5 Resources/Passwords/GitHub Token brain.md",
-    "4 Logs/archive/2025/Июль/Июль 25.md",
-    "4 Logs/2025-11-04.md",
-    "4 Logs/2025-11-03.md",
-    "3 Linux/00 Linux.md",
     "_in/_attachments/Pasted image 20251109162719.png",
     "_in/_attachments/Pasted image 20251109162705.png",
     "_in/_attachments/Pasted image 20251109162631.png",
