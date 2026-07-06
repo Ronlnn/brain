@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Books/Дюна.md",
+                "file": "7 Obsidian/DataCards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дюна"
+              "title": "DataCards"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Books/Дюна.md",
+                "file": "7 Obsidian/DataCards.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Дюна"
+              "title": "Структура DataCards"
             }
           },
           {
@@ -223,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Books/Дюна.md",
+                "file": "7 Obsidian/DataCards.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,7 +273,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Дюна"
+              "title": "Граф DataCards"
             }
           }
         ]
@@ -301,35 +301,35 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ba4a7b195428d9e8",
+  "active": "d3352128d6f925ce",
   "lastOpenFiles": [
-    "1 Books/Владычица Озера.md",
-    "1 Books/Ведьмак Сезон гроз. Дорога без возврата.md",
-    "1 Books/Ведьмак Кровь Эльфов.Час Презрения.md",
-    "1 Books/Асинхронка и оптимизация.md",
-    "1 Books/1984.md",
-    "1 Books/45 татуировок личности.md",
-    "1 Books/02 Reading now.md",
-    "1 Books/02 Finished books.md",
-    "1 Books/01 My Bookshelf.md",
-    "1 Books/00 Books.md",
-    "2 Programming/JSON.md",
+    "7 Obsidian/Типы полей метаданных.md",
+    "7 Obsidian/DataCards.md",
+    "7 Obsidian/Синхронизация на Айфоне.md",
+    "7 Obsidian/Неявные поля метаданных.md",
+    "7 Obsidian/Команды Dataview.md",
+    "7 Obsidian/Дока по AnuPpuccin.md",
     "7 Obsidian/01 Dataview.md",
-    "7 Obsidian/00 Obsidian.md",
-    "Questions/Как создать новый массив из другого объекта?.md",
-    "PlufSoft.md",
-    "Без названия.canvas",
-    "2 Programming/Array.prototype.map().md",
-    "2 Programming/Array.from().md",
-    "2 Programming/Итераторы.md",
+    "5 Resources/code-stats.md",
+    "5 Resources/00 Resources.md",
+    "5 Resources/Settings/codestat.json.md",
+    "5 Resources/Settings/Конфиг VSCode.md",
+    "5 Resources/Settings/01 Settings.md",
+    "5 Resources/Passwords/Passwords.md",
+    "5 Resources/Passwords/GitHub Token brain.md",
+    "5 Resources/Links/TS GitHub materials.md",
+    "5 Resources/Links/React 100 вопросов GitHub.md",
+    "5 Resources/Links/Вопросы по Js GitHub.md",
+    "4 Logs/archive/2025/Июль/Июль 25.md",
+    "4 Logs/2025-11-04.md",
+    "4 Logs/2025-11-03.md",
+    "3 Linux/00 Linux.md",
     "3 Linux/script touchpad for monitors.md",
     "3 Linux/monitors script for bspwm.md",
     "3 Linux/bluetui.md",
     "3 Linux/Система не выключается, если закрыть крышку монитора.md",
-    "3 Linux/00 Linux.md",
-    "10 книг.md",
-    "1 Books/Продавец обуви.md",
-    "1 Books/Сеть отношений в РФ.md",
+    "1 Books/Дюна.md",
+    "Без названия.canvas",
     "_in/_attachments/Pasted image 20251109162719.png",
     "_in/_attachments/Pasted image 20251109162705.png",
     "_in/_attachments/Pasted image 20251109162631.png",
